@@ -10,33 +10,33 @@
         <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
             <ul class="nav  flex-column flex-lg-row ">
                 <li class="nav-item">
-                    <a class="nav-link " aria-current="page" href="../Forside.php">FORSIDE</a>
+                    <a class="nav-link " aria-current="page" href="Forside.php">FORSIDE</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="../Vinoteque.php">VINOTEQUE</a>
+                    <a class="nav-link" href="Vinoteque.php">VINOTEQUE</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="../Booking.php">BOOKING</a>
+                    <a class="nav-link" href="Booking.php">BOOKING</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="../Selskabslokaler.php">PRIVATE EVENTS</a>
+                    <a class="nav-link" href="Selskabslokaler.php">PRIVATE EVENTS</a>
                 </li>
 
                 <li class="nav justify-content-center">
-                    <img class="d-lg-block d-none" src="../Forside.php" href="#" alt="logo">
+                    <img class="d-lg-block d-none" src="Forside.php" href="#" alt="logo">
                 </li>
 
                 <li class="nav-item">
-                    <a class="nav-link " aria-current="page" href="../Events.php">EVENTS</a>
+                    <a class="nav-link " aria-current="page" href="Events.php">EVENTS</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="../Omkring%20os.php">HISTORIEN</a>
+                    <a class="nav-link" href="Omkring%20os.php">HISTORIEN</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="../Maps.php">FIND OS</a>
+                    <a class="nav-link" href="Maps.php">FIND OS</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="../Kontakt.php">KONTAKT</a>
+                    <a class="nav-link" href="Kontakt.php">KONTAKT</a>
                 </li>
             </ul>
         </div>
