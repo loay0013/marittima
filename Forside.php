@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
 
-    <title>Sigende titel</title>
+    <title>Marittima</title>
 
     <meta name="robots" content="All">
     <meta name="author" content="Udgiver">
@@ -16,6 +16,9 @@
 </head>
 
 <body>
+
+<script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+
 <?php include "includes/nav.php";?>
 
 
@@ -23,7 +26,7 @@
 
 
 <?php include "includes/footer.php";?>
-<script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+
 </body>
 </html>
 
