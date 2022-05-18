@@ -15,12 +15,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 
-<body>
+<body class="h-100">
 
 <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
-
 <?php include "includes/nav.php";?>
+<header class=" h-100 position-relative overflow">
 
+    <video playsinline autoplay muted loop id ="myVideo" class="d-block shadow position-absolute">
+        <source src="images/Forsidevideo.mp4">
+    </video>
+
+</header>
 
 
 
