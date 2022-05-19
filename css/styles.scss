@@ -33,14 +33,10 @@ img {
 }
 
  #myVideo{
-  filter: brightness(15%);
+  filter: brightness(50%);
   height: 100%;
   width: 100%;
   object-fit: cover;
-}
-
-.navbar{
-  background-color: transparent;
 }
 
 .navbar-toggler-icon{
@@ -56,4 +52,8 @@ img {
   outline: 0 !important;
 }
 
+.navbar{
+  background: transparent;
+}
+//test
 
