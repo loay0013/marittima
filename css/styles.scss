@@ -42,3 +42,18 @@ img {
 .navbar{
   background-color: transparent;
 }
+
+.navbar-toggler-icon{
+  color: black;
+}
+
+.navbar-toggler:focus{
+  outline: none;
+}
+
+.navbar-toggler:focus{
+  box-shadow: 0px !important;
+  outline: 0 !important;
+}
+
+
