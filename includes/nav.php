@@ -3,7 +3,9 @@
 
 <nav class="navbar navbar-expand-lg navbar-light bg-light bg-transparent">
     <div class="container-fluid d-flex align-items-center">
-        <img class="d-lg-none" src="#" alt="logo" href="#">
+        <a>
+        <img class="d-lg-none" src="#" alt="logo">
+        </a>
         <button class="navbar-toggler border-0"  type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
