@@ -28,9 +28,34 @@
         <source src="images/Forsidevideo.mp4">
     </video>
     </div>
+<div class="logo d-md-none d-block">
+    <img src="images/logo%20med.svg">
+</div>
+    <div class="d-none d-md-block  logo">
+        <h2>
+            En unik oplevelse
+        </h2>
+        <p>
+            Skræddersyet lige til dig.
+        </p>
+    </div>
+<div class="btn1">
+    <a class="btn-minFarve btn ">
+        <p>LAV EN RESERVATION</p>
+    </a>
+    <a class="btn btn-minFarve">
+       <p>ÅBNINGSTIDER</p>
+    </a>
+</div>
+
+
 
 
 </header>
+
+
+
+
 
 
 
