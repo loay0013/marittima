@@ -33,7 +33,7 @@ img {
 }
 
  #myVideo{
-  filter: brightness(15%);
+  filter: brightness(50%);
   height: 100%;
   width: 100%;
   object-fit: cover;
@@ -41,4 +41,10 @@ img {
 
 .navbar{
   background-color: transparent;
+}
+.logo{
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }

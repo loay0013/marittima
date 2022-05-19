@@ -23,14 +23,33 @@
 
 <header class=" h-100 position-relative overflow">
     <?php include "includes/nav.php";?>
-    <div class="video">
+
     <video playsinline autoplay muted loop  id="myVideo" class="d-block shadow position-absolute">
         <source src="images/Forsidevideo.mp4">
     </video>
-    </div>
 
+    <div class="logo">
+    <img class="img-fluid position-absolute" src="images/logo.svg" alt="logo">
+    </div>
+<div class="position-absolute">
+    <a class="btn btn-minFarve">
+        <p>LAV EN RESERVATION</p>
+    </a>
+    <a class="btn btn-minFarve">
+        <p>ÅBNINGSTIDER</p>
+    </a>
+</div>
 
 </header>
+
+
+
+<div>
+
+</div>
+
+
+
 
 
 
