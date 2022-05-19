@@ -1,7 +1,7 @@
 
 
 
-<nav class="navbar navbar-expand-lg navbar-light bg-light bg-transparent">
+<nav class="navbar navbar-expand-lg navbar-light bg-transparent">
     <div class="container-fluid d-flex align-items-center">
         <img class="d-lg-none" src="#" alt="logo" href="#">
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -23,7 +23,8 @@
                 </li>
 
                 <li class="nav justify-content-center">
-                    <img class="d-lg-block d-none" src="Forside.php" href="#" alt="logo">
+                    <a href="Forside.php">
+                    <img class="d-lg-block d-none img-fluid" src="images/logosortudenslogan%20.svg"  alt="logo"></a>
                 </li>
 
                 <li class="nav-item">
