@@ -1,1 +1,17 @@
-*{box-sizing:border-box}body{margin:0}h1,h2,h3,h4,h5,h6{margin:0;padding:0}ul,ol{margin:2px 10px 2px 10px;padding:0;list-style-position:inside}li{margin:0}p{margin:0;padding:0}img{display:block;max-width:100%;height:auto}#myVideo{filter:brightness(50%);height:100%;width:100%;object-fit:cover}.navbar{background-color:rgba(0,0,0,0)}.logo{position:absolute;top:30%;left:50%;transform:translate(-50%, -50%)}/*# sourceMappingURL=styles.css.map */
+/* Error: expected "{".
+ *    ,
+ * 51 | kfl
+ *    |    ^
+ *    '
+ *   css/styles.scss 51:4  root stylesheet */
+
+body::before {
+  font-family: "Source Code Pro", "SF Mono", Monaco, Inconsolata, "Fira Mono",
+      "Droid Sans Mono", monospace, monospace;
+  white-space: pre;
+  display: block;
+  padding: 1em;
+  margin-bottom: 1em;
+  border-bottom: 2px solid black;
+  content: 'Error: expected "{".\a    \2577 \a 51 \2502  kfl\a    \2502     ^\a    \2575 \a   css/styles.scss 51:4  root stylesheet';
+}
