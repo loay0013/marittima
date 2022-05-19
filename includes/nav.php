@@ -1,7 +1,7 @@
 
 
 
-<nav class="navbar navbar-expand-lg navbar-light bg-light bg-transparent bg-opacity-25 text-light">
+<nav class="navbar navbar-expand-lg navbar-light bg-transparent bg-opacity-25 text-light">
     <div class="container-fluid d-flex align-items-center">
         <a>
         <img class="logo d-lg-none" src="" alt="logo">
@@ -12,7 +12,7 @@
         <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
             <ul class="nav flex-column flex-lg-row">
                 <li class="nav-item">
-                    <a class="nav-link link-dark" aria-current="page"  href="Forside.php">FORSIDE</a>
+                    <a class="nav-link link-dark border-bottom border-2 border-dark" aria-current="page"  href="Forside.php">FORSIDE</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link link-dark" href="Vinoteque.php">VINOTEQUE</a>
