@@ -33,7 +33,7 @@ img {
 }
 
  #myVideo{
-  filter: brightness(50%);
+  filter: brightness(70%);
   height: 100%;
   width: 100%;
   object-fit: cover;
@@ -41,4 +41,10 @@ img {
 
 .navbar{
   background-color: transparent;
+  font-family: "Futura PT", "Times New Roman";
+  font-size: 18px;
+}
+
+.logo{
+  width: 50%;
 }
