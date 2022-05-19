@@ -1,7 +1,7 @@
 
 
 
-<nav class="navbar navbar-expand-lg navbar-light bg-transparent">
+<nav class="navbar navbar-expand-lg">
     <div class="container-fluid d-flex align-items-center">
         <img class="d-lg-none" src="#" alt="logo" href="#">
         <button class="navbar-toggler border-0"  type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
