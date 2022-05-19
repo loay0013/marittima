@@ -1,7 +1,7 @@
 
 
 
-<nav class="navbar navbar-expand-lg navbar-light bg-transparent">
+<nav class="navbar navbar-expand-lg navbar-light bg-light bg-transparent">
     <div class="container-fluid d-flex align-items-center">
         <a>
         <img class="d-lg-none" src="#" alt="logo">
@@ -25,8 +25,7 @@
                 </li>
 
                 <li class="nav justify-content-center">
-                    <a href="Forside.php">
-                    <img class="d-lg-block d-none img-fluid" src="images/logosortudenslogan%20.svg"  alt="logo"></a>
+                    <img class="d-lg-block d-none" src="Forside.php" href="#" alt="logo">
                 </li>
 
                 <li class="nav-item">

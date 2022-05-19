@@ -17,39 +17,20 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 
-<body class="h-100">
+<body class="vh-100">
 
 <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
 
+<?php include "includes/nav.php";?>
 <header class=" h-100 position-relative overflow">
-    <?php include "includes/nav.php";?>
-
+    <div class="video">
     <video playsinline autoplay muted loop  id="myVideo" class="d-block shadow position-absolute">
         <source src="images/Forsidevideo.mp4">
     </video>
-
-    <div class="logo">
-    <img class="img-fluid position-absolute" src="images/logo.svg" alt="logo">
     </div>
-<div class="position-absolute">
-    <a class="btn btn-minFarve">
-        <p>LAV EN RESERVATION</p>
-    </a>
-    <a class="btn btn-minFarve">
-        <p>ÅBNINGSTIDER</p>
-    </a>
-</div>
+
 
 </header>
-
-
-
-<div>
-
-</div>
-
-
-
 
 
 

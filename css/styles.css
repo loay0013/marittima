@@ -1,9 +1,9 @@
 /* Error: expected "{".
  *    ,
- * 51 | kfl
- *    |    ^
+ * 54 | >>>>>>> origin/master
+ *    |                      ^
  *    '
- *   css/styles.scss 51:4  root stylesheet */
+ *   css/styles.scss 54:22  root stylesheet */
 
 body::before {
   font-family: "Source Code Pro", "SF Mono", Monaco, Inconsolata, "Fira Mono",
@@ -13,5 +13,5 @@ body::before {
   padding: 1em;
   margin-bottom: 1em;
   border-bottom: 2px solid black;
-  content: 'Error: expected "{".\a    \2577 \a 51 \2502  kfl\a    \2502     ^\a    \2575 \a   css/styles.scss 51:4  root stylesheet';
+  content: 'Error: expected "{".\a    \2577 \a 54 \2502  >>>>>>> origin/master\a    \2502                       ^\a    \2575 \a   css/styles.scss 54:22  root stylesheet';
 }
