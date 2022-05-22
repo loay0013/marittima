@@ -21,7 +21,17 @@
 
 <?php include "includes/nav.php";?>
 
-
+<section id="hero" style="background-image: url('images/pexels-ketut-subiyanto-5055179.jpg')">
+    <div class="overlay"></div>
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <h1>EVENTS</h1>
+                <p>Få en ekstraodinær aften og deltag i sjove events på båden Marittima.</p>
+            </div>
+        </div>
+    </div>
+</section>
 
 
 

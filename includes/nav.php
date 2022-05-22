@@ -23,7 +23,7 @@
                 </li>
 
                 <li class="nav justify-content-center">
-                    <img class="d-lg-block d-none" src="Forside.php" href="#" alt="logo">
+                    <img class="d-lg-block d-none" src="images/LogoMarittima.svg" href="Forside.php" alt="logo">
                 </li>
 
                 <li class="nav-item">
