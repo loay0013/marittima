@@ -17,7 +17,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 
-<body class="vh-100">
+<body class="h-100">
 
 <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
 
@@ -40,10 +40,10 @@
         </p>
     </div>
 <div class="btn1 m-2 ">
-    <a class="btn-minFarve btn   rounded-1 d-flex justify-content-center ">
+    <a class="btn-minFarve btn  btn-btn1   d-flex justify-content-center ">
         <p>LAV EN RESERVATION</p>
     </a>
-    <a class="btn btn-minFarve  rounded-1 d-flex mt-3 justify-content-center">
+    <a class="btn btn-minFarve btn-btn1  d-flex mt-3 justify-content-center">
        <p>ÅBNINGSTIDER</p>
     </a>
 </div>
@@ -51,95 +51,97 @@
 </header>
 
 
-<section>
-    <div class="container-fluid">
-        <img class="img-fluid img-thumbnail d-flex justify-content-center " src="images/logosortudenslogan%20.svg">
-        <div class=" row-cols-md-12">
-        <p class=" row-cols-md-6">
+<section class="col-md-12 d-md-flex ">
+    <div class="col-md-6">
+        <div class="d-flex justify-content-center mt-3">
+        <img class=" d-flex justify-content-center w-25 mt-3 " src="images/logosortudenslogan%20.svg"></div>
+        <p class="mt-3 p-3">
             Hos Marittima ønsker vi at skabe en god oplevelse for hele familien.
 
             Marittima blev skabt ud fra drømmen om en vinbar. Historien bag Marius Mortensen går hånd i hånd med Skibet Marittima, og fører den næste generations historie videre.
 
             Folk der har været på skibet vil være i stand til at kunne fortælle om historier om dengang de holdt fest på bølgen blå, med den synlige solnedgang ud af vinduet, lige før den når halvvejs under horisonten.
 
-        </p>
+        </p></div>
 
-    <div>
-        <a class="btn btn-minFarve m-3" href="Omkring%20os.php">
+    <div class="p-3">
+        <a class="btn  btn-btn1 d-md-none mt-3 p-2" href="Omkring%20os.php">
           <p>
               LÆS MERE
           </p>
         </a>
     </div>
-     <div class="row-cols-md-6">
-    <img  src="images/#" alt="vin">
+     <div class="col-md-6">
+    <img  class="img-fluid" src="images/vin.png" alt="vin">
      </div>
-    </div>
-    </div>
 
 </section>
 
-         <section class="container-fluid">
-    <h2>Private Arrangementer</h2>
-    <p>
+         <section class="col-md-12 d-md-flex flex-md-row-reverse">
+             <div class="col-md-6">
+    <h2 class="text-center mt-4">Private Arrangementer</h2>
+    <p class="mt-3 p-3">
         Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
 
         At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
 
         At vero eos et accusam et justo duo dolores et ea
-    </p>
-    <a class=" btn ">
-        <p class="">
+    </p></div>
+             <div class="p-3">
+    <a class=" btn btn-btn1 d-md-none mt-3 p-2 ">
+        <p>
             BOOK NU
         </p>
-    </a>
-<img src="images/#" alt="vin">
+    </a></div>
+             <div class="col-md-6 mt-3">
+                 <img src="images/w-vin.png" alt="vin2">
+             </div>
 
          </section>
-<section class="container-fluid">
-    <h2>
+<section class="bg-om">
+    <h2 class="text-center mt-4">
         VINOTEQUE
     </h2>
-    <p>
+    <p class="text-center mt-2">
         Strandvejen 28, 4800 Nykøbing Falster
     </p>
-    <h2>
+    <h2 class="mt-2 text-center">
         Åbningstider
     </h2>
-<div>
-    <div>
-    <ul>
-        <li>
+<div class="d-flex col-12 justify-content-center">
+    <div class="col-6">
+    <ul class="list-unstyled p-3">
+        <li class="p-2">
             <p>
                 Mandag
             </p>
         </li>
-        <li>
+        <li class="p-2">
             <p>
                 Tirsdag
             </p>
         </li>
-        <li>
+        <li class="p-2">
             <p>
                 Onsdag
             </p>
         </li>
-        <li>
+        <li class="p-2">
             <p>
                 Torsdag
             </p>
         </li>
-        <li>
+        <li class="p-2">
             <p>
                 Fredag
             </p>
         </li>
-        <li>
+        <li class="p-2">
             <p>
                 Lørdag
             </p>
         </li>
-        <li>
+        <li class="p-2">
             <p>
                 Søndag
             </p>
@@ -148,39 +150,39 @@
 
     </ul>
     </div>
-    <div>
-        <ul>
-            <li>
+    <div class="col-6">
+        <ul class="list-unstyled p-3 " >
+            <li class="p-2">
                 <p>
                     18.00 - 02.30
                 </p>
             </li>
-            <li>
+            <li class="p-2">
                 <p>
                     18.00 - 02.30
                 </p>
             </li>
-            <li>
+            <li class="p-2">
                 <p>
                     18.00 - 02.30
                 </p>
             </li>
-            <li>
+            <li class="p-2">
                 <p>
                     18.00 - 02.30
                 </p>
             </li>
-            <li>
+            <li class="p-2">
                 <p>
                     18.00 - 02.30
                 </p>
             </li>
-            <li>
+            <li class="p-2">
                 <p>
                     18.00 - 02.30
                 </p>
             </li>
-            <li>
+            <li class="p-2">
                 <p>
                     18.00 - 02.30
                 </p>

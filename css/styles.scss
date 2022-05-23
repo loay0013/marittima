@@ -26,6 +26,7 @@ p {
   padding: 0;
 }
 
+
 img {
   display: block;
   max-width: 100%;
@@ -51,12 +52,6 @@ img {
   object-fit: cover;
 }
 
-.transparent{
-  background-image: linear-gradient(rgba(0,0,0,1), rgba (0,0,0,0));
-  font-family: "Futura PT", "Times New Roman";
-  font-size: 18px;
-  z-index: 99;
-}
 
 .contact{
   font-family: "Source Sans Pro", "Times New Roman";

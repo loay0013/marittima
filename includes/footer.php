@@ -6,16 +6,16 @@
                 <p class="adress mt-2">Strandvejen 28</p>
                 <p class="adress mt-2">4800 Nykøbing Falster</p>
                 <p class="adress mt-2">+45 11 22 33 44</p>
-                <a class="adress btn btn-minFarve mt-2">FIND VEJ</a>
 
-            <button class="findway btn btn-primary bg-Footer border-light rounded-0" type="button">FIND VEJ</button>
+             <a href="Maps.php">
+            <button class="findway btn btn-primary bg-Footer border-light rounded-0 mt-2" type="button">FIND VEJ</button></a>
 
 
         </div>
 
     <div class="col-md-4 col-12 mt-5 mt-md-0 ">
-           <div class="w-75">
-               <img src="images/logo%20med.svg" alt="logo">
+           <div class=" d-flex justify-content-center">
+               <img class="img-fluid w-50" src="images/logo.svg" alt="logo">
            </div>
        </div>
 
@@ -46,7 +46,8 @@
             <form>
                 <div class="d-flex w-100 gap-2 flex-column align-items-center">
                     <p class="news">NYHEDSBREV</p>
-                    <button class="findway btn btn-primary bg-Footer border-light rounded-0" type="button">TILMELD DIG</button>
+                    <a href="#">
+                    <button class="findway btn btn-primary bg-Footer border-light rounded-0 mt-1" type="button">TILMELD DIG</button></a>
                 </div>
             </form>
         </div>
