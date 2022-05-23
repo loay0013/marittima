@@ -10,8 +10,8 @@
 
         </div>
 
-    <div class="col-md-4 col-12 mt-5 mt-md-0 ">
-           <div class="justify-content-center w-75">
+    <div class="col-md-4 col-12 mt-5 mt-md-0 d-flex justify-content-center ">
+           <div class="w-75">
                <img src="images/logosortudenslogan%20.svg" alt="logo">
            </div>
        </div>

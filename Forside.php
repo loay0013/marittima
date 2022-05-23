@@ -24,18 +24,18 @@
 <?php include "includes/nav.php";?>
 <header class=" h-100 position-relative overflow">
     <div class="video">
-    <video playsinline autoplay muted loop  id="myVideo" class="d-block shadow position-absolute">
+    <video playsinline autoplay muted loop  id="myVideo" class="d-block position-absolute">
         <source src="images/Forsidevideo.mp4">
     </video>
     </div>
 <div class="logo d-md-none d-block">
     <img src="images/logo%20med.svg">
 </div>
-    <div class="d-none d-md-block  logo">
-        <h2>
+    <div class="d-none d-md-block text-light  logo">
+        <h2 class="oplevelse">
             En unik oplevelse
         </h2>
-        <p>
+        <p class="syet">
             Skræddersyet lige til dig.
         </p>
     </div>

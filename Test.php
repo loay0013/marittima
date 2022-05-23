@@ -19,7 +19,7 @@
 
     <!-- Sikrer man kan benytte CSS ved at tilkoble en CSS fil -->
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
-    <link href="css/styles.css" rel="stylesheet" type="text/css">
+    <link href="css/test.css" rel="stylesheet" type="text/css">
 
     <!-- Sikrer den vises korrekt på mobil, tablet mv. ved at tage ift. skærmstørrelse - bliver brugt til responsive websider -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -27,78 +27,32 @@
 
 <!-- i <body> har man alt indhold på siden som brugeren kan se -->
 <body>
-<header>
-    <section class="hero4">
-        <div class="container">
-            <div class="video-container2">
-                <video preload="true" autoplay="autoplay" loop="loop" volume="0">
-                    <source src="http://www.w3schools.com/html/mov_bbb.mp4" type="video/mp4">
-                </video>
+<video playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
+    <source src="images/" type="video/mp4">
+</video>
 
-
-            </div>
-            <div class="row nav-wrapper">
-                <div class="col-md-6 col-sm-6 col-xs-6 text-left">
-                    <a href="#"><img src="img/logo.png" alt="logo"></a>
-                </div>
-                <div class="col-md-6 col-sm-6 col-xs-6 text-right navicon">
-                    <p>MENU</p><a id="trigger-overlay" class="nav_slide_button nav-toggle" href="#"><span></span></a>
-                </div>
-            </div>
-            <div class="row hero-content">
-                <div class="col-md-12">
-
-
-                    <p id="introduction" class="animated fadeInUp">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In vitae sem euismod odio placerat pharetra. Proin quis lacus odio. Nulla interdum, nisi vel pretium vehicula, enim sem faucibus tellus, vel aliquet metus elit eget erat. Aenean quis diam elit. Sed a tempor augue. Vestibulum nec mi sit amet neque lacinia dignissim nec sit amet leo. Vestibulum ultrices suscipit erat vitae gravida. In et dui tincidunt, accumsan urna nec, mollis leo. Ut placerat, ante sit amet aliquet maximus, est lorem lacinia nunc, eu accumsan massa mauris ultricies arcu. Vestibulum et lectus eu turpis tempus porttitor. Vivamus eu volutpat velit. Duis suscipit commodo leo vel dignissim. Duis eu pulvinar risus..
-
-
-
-                    </p>
-
-
-
-
-                </div>
-            </div>
-        </div>
-    </section>
-</header>
-<section class="hero5">
-    <div class="container">
-
-        <div class="row hero-content">
-            <div class="col-md-12">
-                <div id="black">
-                    <h1 class="animated fadeInDown">lorem ipsum dolor sit amet, consectetur...</h1>
-                    <p id="introduction" class="animated fadeInUp">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In vitae sem euismod odio placerat pharetra. Proin quis lacus odio. Nulla interdum, nisi vel pretium vehicula, enim sem faucibus tellus, vel aliquet metus elit eget erat. Aenean quis diam elit. Sed a tempor augue. Vestibulum nec mi sit amet neque lacinia dignissim nec sit amet leo. Vestibulum ultrices suscipit erat vitae gravida. In et dui tincidunt, accumsan urna nec, mollis leo. Ut placerat, ante sit amet aliquet maximus, est lorem lacinia nunc, eu accumsan massa mauris ultricies arcu. Vestibulum et lectus eu turpis tempus porttitor. Vivamus eu volutpat velit. Duis suscipit commodo leo vel dignissim. Duis eu pulvinar risus.Lorem ipsum dolor sit amet, consectetur adipiscing elit. In vitae sem euismod odio placerat pharetra. Proin quis lacus odio. Nulla interdum, nisi vel pretium vehicula, enim sem faucibus tellus, vel aliquet metus elit eget erat. Aenean quis diam elit. Sed a tempor augue. Vestibulum nec mi sit amet neque lacinia dignissim nec sit amet leo. Vestibulum ultrices suscipit erat vitae gravida. In et dui tincidunt, accumsan urna nec, mollis leo. Ut placerat, ante sit amet aliquet maximus, est lorem lacinia nunc, eu accumsan massa mauris ultricies arcu. Vestibulum et lectus eu turpis tempus porttitor. Vivamus eu volutpat velit. Duis suscipit commodo leo vel dignissim. Duis eu pulvinar risus..</p>
-                    <br>
-                    <div class="transparent">
-                        <img id="imgBox" src="http://richard.jp.leguen.ca/images/howIsXkcd3d/box.png"/>
-                    </div>
-                    <br>
-                    <br>
-                    <br>
-                </div>
-
-            </div>
+<!-- The header content -->
+<div class="container h-100">
+    <div class="d-flex h-100 text-center align-items-center">
+        <div class="w-100 text-white">
+            <h1 class="display-3">Video Header</h1>
+            <p class="lead mb-0">Using HTML5 Video and Bootstrap</p>
         </div>
     </div>
-</section>
+</div>
+</header>
 
-
-
-<section class="hero6">
+<!-- Page section example for content below the video header -->
+<section class="my-5">
     <div class="container">
-
-        <div class="row hero-content">
-            <div class="col-md-12">
-                <div id="black">
-                    <h1 class="animated fadeInDown">lorem ipsum dolor sit amet, consectetur...</h1>
-                    <p id="introduction" class="animated fadeInUp">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In vitae sem euismod odio placerat pharetra. Proin quis lacus odio. Nulla interdum, nisi vel pretium vehicula, enim sem faucibus tellus, vel aliquet metus elit eget erat. Aenean quis diam elit. Sed a tempor augue. Vestibulum nec mi sit amet neque lacinia dignissim nec sit amet leo. Vestibulum ultrices suscipit erat vitae gravida. In et dui tincidunt, accumsan urna nec, mollis leo. Ut placerat, ante sit amet aliquet maximus, est lorem lacinia nunc, eu accumsan massa mauris ultricies arcu. Vestibulum et lectus eu turpis tempus porttitor. Vivamus eu volutpat velit. Duis suscipit commodo leo vel dignissim. Duis eu pulvinar risus.Lorem ipsum dolor sit amet, consectetur adipiscing elit. In vitae sem euismod odio placerat pharetra. Proin quis lacus odio. Nulla interdum, nisi vel pretium vehicula, enim sem faucibus tellus, vel aliquet metus elit eget erat. Aenean quis diam elit. Sed a tempor augue. Vestibulum nec mi sit amet neque lacinia dignissim nec sit amet leo. Vestibulum ultrices suscipit erat vitae gravida. In et dui tincidunt, accumsan urna nec, mollis leo. Ut placerat, ante sit amet aliquet maximus, est lorem lacinia nunc, eu accumsan massa mauris ultricies arcu. Vestibulum et lectus eu turpis tempus porttitor. Vivamus eu volutpat velit. Duis suscipit commodo leo vel dignissim. Duis eu pulvinar risus..</p>
-
-
-                </div>
-
+        <div class="row">
+            <div class="col-md-8 mx-auto">
+                <p>The HTML5 video element uses an mp4 video as a source. Change the source video to add in your own background! The header text is vertically centered using flex utilities that are built into Bootstrap.</p>
+                <p>The overlay color and opacity can be changed by modifying the <code>background-color</code> and <code>opacity</code> properties of the <code>.overlay</code> class in the CSS.</p>
+                <p>Set the mobile fallback image in the CSS by changing the background image of the header element within the media query at the bottom of the CSS snippet.</p>
+                <p class="mb-0">
+                    Created by <a href="https://startbootstrap.com">Start Bootstrap</a>
+                </p>
             </div>
         </div>
     </div>
