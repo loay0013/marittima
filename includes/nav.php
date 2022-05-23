@@ -3,8 +3,8 @@
 
 <nav class="navbar navbar-expand-lg navbar-light bg-light bg-transparent bg-opacity-25 text-light">
     <div class="container-fluid d-flex align-items-center">
-        <a>
-        <img class="logo d-lg-none" src="" alt="logo">
+        <a href="Forside.php">
+        <img class="d-lg-none" src="images/MARITTIMAlogo-m.svg" alt="logo">
         </a>
         <button class="navbar-toggler border-0"  type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
