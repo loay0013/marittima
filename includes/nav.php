@@ -26,7 +26,7 @@
 
                 <li class="nav justify-content-center">
                     <a class="justify-content-center d-flex" href="Forside.php">
-                    <img class="d-lg-block d-none w-50  " src="images/logosortudenslogan%20.svg" alt="logo"></a>
+                    <img class="d-lg-block d-none w-50 " src="images/logosortudenslogan%20.svg" alt="logo"></a>
 
                 </li>
 
