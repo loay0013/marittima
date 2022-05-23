@@ -32,6 +32,16 @@ img {
   height: auto;
 }
 
+.header{
+  height: 100%;
+}
+
+.ship{
+  object-fit: cover;
+  height: 100%;
+  width: 100%;
+}
+
 
 
  #myVideo{
@@ -60,6 +70,11 @@ img {
 
 .copyright{
   font-family: "Futura PT", "Times New Roman";
+  font-weight: lighter;
+}
+
+.news{
+  font-family: "Futura PT", "Times New Roman";
 }
 
 .rights {
@@ -86,6 +101,14 @@ img {
   color: red;
 }
 
+.social{
+  font-family: "Source sans Pro", "Times New Roman";
+}
+
+.findway{
+  font-family: "Source Sans Pro", "Times New Roman";
+}
+
 
 
 
@@ -95,17 +118,15 @@ img {
 
  //Historien-siden
 
-.centered{
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}
-
 .text{
-  font-family: 
+  font-family: "Times New Roman", sans-serif;
+  font-weight: bolder;
 }
 
+p.idea{
+  font-family: "Futura PT", "Times New Roman";
+  font-weight: lighter;
+}
 
 
 
