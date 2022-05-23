@@ -39,11 +39,11 @@
             Skræddersyet lige til dig.
         </p>
     </div>
-<div class="btn1">
-    <a class="btn-minFarve btn ">
+<div class="btn1 m-2 ">
+    <a class="btn-minFarve btn   rounded-1 d-flex justify-content-center ">
         <p>LAV EN RESERVATION</p>
     </a>
-    <a class="btn btn-minFarve">
+    <a class="btn btn-minFarve  rounded-1 d-flex mt-3 justify-content-center">
        <p>ÅBNINGSTIDER</p>
     </a>
 </div>
@@ -52,9 +52,10 @@
 
 
 <section>
-    <div>
-        <img src="images/logosortudenslogan%20.svg">
-        <p>
+    <div class="container-fluid">
+        <img class="img-fluid img-thumbnail d-flex justify-content-center " src="images/logosortudenslogan%20.svg">
+        <div class=" row-cols-md-12">
+        <p class=" row-cols-md-6">
             Hos Marittima ønsker vi at skabe en god oplevelse for hele familien.
 
             Marittima blev skabt ud fra drømmen om en vinbar. Historien bag Marius Mortensen går hånd i hånd med Skibet Marittima, og fører den næste generations historie videre.
@@ -62,19 +63,23 @@
             Folk der har været på skibet vil være i stand til at kunne fortælle om historier om dengang de holdt fest på bølgen blå, med den synlige solnedgang ud af vinduet, lige før den når halvvejs under horisonten.
 
         </p>
-    </div>
+
     <div>
-        <a class="btn btn-minFarve">
+        <a class="btn btn-minFarve m-3" href="Omkring%20os.php">
           <p>
               LÆS MERE
           </p>
         </a>
     </div>
-    <img src="images/#" alt="vin">
+     <div class="row-cols-md-6">
+    <img  src="images/#" alt="vin">
+     </div>
+    </div>
+    </div>
 
 </section>
 
-         <section>
+         <section class="container-fluid">
     <h2>Private Arrangementer</h2>
     <p>
         Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
@@ -91,7 +96,7 @@
 <img src="images/#" alt="vin">
 
          </section>
-<section>
+<section class="container-fluid">
     <h2>
         VINOTEQUE
     </h2>
