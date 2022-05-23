@@ -4,6 +4,10 @@
 @import "../node_modules/bootstrap/scss/variables";
 @import "../node_modules/bootstrap/scss/mixins";
 
+@font-face {
+  font-family: myFirstFont; src: url("images/");
+}
+
 //Tilføj eller ret farver i Bootstrap. Herunder er primary blot sat til den normale primary
 $custom-colors: (
   "farve1": #000000,

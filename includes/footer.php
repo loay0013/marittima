@@ -15,7 +15,7 @@
 
     <div class="col-md-4 col-12 mt-5 mt-md-0 ">
            <div class="w-75">
-               <img src="images/logo%20med.svg" alt="logo">
+               <img src="images/logo%20med.svg" alt="logo" class="align-items-center">
            </div>
        </div>
 

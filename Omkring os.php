@@ -26,11 +26,11 @@
 <!--    <div class="history">-->
 <!--        <img src="images/ship.jpeg" alt="ship">-->
 <!--    </div>-->
-    <div class="logo d-sm-none d-block">
+    <div class=" logo-M  d-sm-none d-block text-center>
         <img src="images/logo%20med.svg">
     </div>
-    <div class="d-none d-sm-none d-md-block text-light logo">
-        <h2 class="oplevelse justify-content-center d-flex">
+    <div class="d-none d-sm-none d-md-block text-light logo text-center">
+        <h2 class="oplevelse p-2 justify-content-center d-flex">
             Historien
         </h2>
         <p class="historie text-light">
@@ -53,17 +53,22 @@
     </p>
 </div>
 
-<div class="ship h-100 w-100">
+<div class="ship h-100 w-100 d-lg-block-none">
     <img src="images/ship.jpeg" alt="ship" class="h-100 w-100" style="object-fit: cover" ">
 </div>
 
 <div class="container-fluid">
-    <div class="row p-5 px-4">
-        <div class="col-6">
+    <div class="row p-5 px-4 history">
+        <div class="col-sm-6">
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium aliquid animi commodi ducimus, exercitationem iste, iure minima, minus nam perferendis qui sapiente sequi sit suscipit tempora totam vitae voluptas voluptatum!
         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam aperiam, culpa cupiditate deleniti enim excepturi in libero molestiae nobis obcaecati officia similique veritatis voluptatem? Autem dignissimos esse iusto qui quidem.
+        <br>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium aliquid animi commodi ducimus, exercitationem iste, iure minima, minus nam perferendis qui sapiente sequi sit suscipit tempora totam vitae voluptas voluptatum!
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam aperiam, culpa cupiditate deleniti enim excepturi in libero molestiae nobis obcaecati officia similique veritatis voluptatem? Autem dignissimos esse iusto qui quidem.
+
+            <br>
         </div>
-        <div class="col-6">
+        <div class="col-sm-6">
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus, aliquid autem labore modi mollitia nemo quisquam reiciendis reprehenderit vel voluptatibus. Ad dolores illum totam. Eligendi id natus nobis odio quidem.
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet consequatur corporis culpa delectus deserunt facere in iste nemo praesentium similique tenetur, velit vero voluptatem! Aperiam assumenda est reprehenderit temporibus veniam!
         </div>
@@ -71,18 +76,25 @@
 </div>
 
 
-<div class="container-fluid p-3 bg-om text-light">
-    <div class="row justify-content-center d-flex">
-        <h2>TEAMET BAG MARITTIMA</h2>
-        <div class="col-6">
-            <div class="jes text-center">
-                <h4>Jes</h4>
-                <img src="images/jes.png" class="rounded-circle w-25" alt="jes">
+<div class="container-fluid p-3 text-light bg-om">
+    <div class=" text-center">
+        <h4 class="overskrift p-3">TEAMET BAG MARITTIMA</h4>
+        <div class="col-md-12  d-flex row justify-content-center">
+            <div class="card bg-om col-md-6 p-2" style="width: 18rem;">
+                <h4 class="card-title">Jes</h4>
+                <div class="d-flex justify-content-center">
+                <img src="images/jes.png" class="card-img-top rounded-circle bg-om w-50" alt="..."></div>
+                <div class="card-body">
+                    <p class="card-text">TEKST OM JES</div>
             </div>
-        </div>
-        <div class="col-6">
-            <h4 class="name text-center">Gitte</h4>
-            <img src="images/jes.png" class="rounded-circle align-items-center w-25 " alt="jes">
+            <div class="card bg-om  col-md-6 p-2" style="width: 18rem;">
+                <h4 class="card-title text-center">Gitte</h4>
+                <div class="justify-content-center d-flex">
+                <img src="images/jes.png" class="card-img-top rounded-circle bg-om w-50" alt="..."></div>
+                <div class="card-body">
+                    <p class="card-text">TEKST OM GITTE</div>
+            </div>
+
         </div>
     </div>
 </div>
