@@ -1,4 +1,4 @@
-<footer class="py-5 p-10">
+<footer class="py-5 p-10 bg-Footer footer">
     <div class="flex-md-row flex-column d-flex">
         <div class="col-md-4 col-12 flex-column align-items-center  d-flex  ">
             <h2 class="contact">KONTAKT OS</h2>
