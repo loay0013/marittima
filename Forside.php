@@ -26,11 +26,11 @@
             <source src="images/pexels-mart-production-7330180.mp4">
         </video>
     </div>
-    <div class="logo d-md-none d-block">
+    <div class="logo d-xl-none d-block">
         <img src="images/logo%20med.svg">
     </div>
-    <div class="d-none d-md-block text-light  logo">
-        <h2 class="oplevelse">
+    <div class="d-none d-xl-block text-light  logo">
+        <h2 class="oplevelse text-center">
             En unik oplevelse
         </h2>
         <p class="syet">
