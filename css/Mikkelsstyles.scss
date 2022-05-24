@@ -1,0 +1,11 @@
+#hero {
+  background-image: url(../images/pexels-ketut-subiyanto-5055179.jpg);
+  background-size: cover;
+  height: 100%;
+}
+
+.hero-text {
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
