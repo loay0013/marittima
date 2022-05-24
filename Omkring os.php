@@ -9,10 +9,10 @@
     <meta name="author" content="Udgiver">
     <meta name="copyright" content="Information om copyright">
 
-
-
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
     <link href="css/styles.css" rel="stylesheet" type="text/css">
+
+    <script src="https://kit.fontawesome.com/b7f7f27b49.js" crossorigin="anonymous"></script>
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
@@ -22,26 +22,20 @@
 <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
 
 <?php include "includes/nav.php";?>
-<header>
-<!--    <div class="history">-->
-<!--        <img src="images/ship.jpeg" alt="ship">-->
-<!--    </div>-->
-    <div class=" logo-M  d-sm-none d-block text-center>
-        <img src="images/logo%20med.svg">
-    </div>
-    <div class="d-none d-sm-none d-md-block text-light logo text-center">
+
+<div class="ship h-100 w-100 position-relative">
+    <div class="tekst text-light">
         <h2 class="oplevelse p-2 justify-content-center d-flex">
             Historien
         </h2>
-        <p class="historie text-light">
+        <p class="d-none d-md-block historie text-light">
             En lille historie om hvem vi er
         </p>
     </div>
 
-</header>
-
-<div class="ship h-100 w-100">
-    <img src="images/ship.jpeg" alt="ship" class="h-100 w-100" style="object-fit: cover" ">
+    <div class="icon position-absolute bottom-0 text-center w-100 text-light">
+        <i class="fa-solid fa-chevron-down fa-2x"></i>
+    </div>
 </div>
 
 <div class="col-12 text-center p-5">
@@ -53,7 +47,7 @@
     </p>
 </div>
 
-<div class="ship h-100 w-100 d-lg-block-none">
+<div class="ship h-100 w-100 d-sm-block">
     <img src="images/ship.jpeg" alt="ship" class="h-100 w-100" style="object-fit: cover" ">
 </div>
 
@@ -80,19 +74,19 @@
     <div class=" text-center">
         <h4 class="overskrift p-3">TEAMET BAG MARITTIMA</h4>
         <div class="col-md-12  d-flex row justify-content-center">
-            <div class="card bg-om col-md-6 p-2" style="width: 18rem;">
-                <h4 class="card-title">Jes</h4>
+            <div class="card bg-om col-md-6 p-2 border-0" style="width: 18rem;">
+                <h4 class="card-title">JES</h4>
                 <div class="d-flex justify-content-center">
                 <img src="images/jes.png" class="card-img-top rounded-circle bg-om w-50" alt="..."></div>
                 <div class="card-body">
-                    <p class="card-text">TEKST OM JES</div>
+                    <p class="card-text text-start">TEKST OM JES. TEKST OM JES. TEKST OM JES. TEKST OM JES. TEKST OM JES. TEKST OM JES. </div>
             </div>
-            <div class="card bg-om  col-md-6 p-2" style="width: 18rem;">
-                <h4 class="card-title text-center">Gitte</h4>
+            <div class="card bg-om  col-md-6 p-2 border-0" style="width: 18rem;">
+                <h4 class="card-title text-center">GITTE</h4>
                 <div class="justify-content-center d-flex">
                 <img src="images/jes.png" class="card-img-top rounded-circle bg-om w-50" alt="..."></div>
                 <div class="card-body">
-                    <p class="card-text">TEKST OM GITTE</div>
+                    <p class="card-text text-start">TEKST OM GITTE. TEKST OM GITTE. TEKST OM GITTE. TEKST OM GITTE. TEKST OM GITTE. TEKST OM GITTE. </div>
             </div>
 
         </div>
@@ -106,5 +100,9 @@
 
 <?php include "includes/footer.php";?>
 
+<!-- Nyhedsbrev -->
+
 </body>
+
+
 </html>

@@ -21,7 +21,7 @@
                     <a class="nav-link link-dark" href="Booking.php">BOOKING</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link link-dark" href="Selskabslokaler.php">PRIVATE EVENTS</a>
+                    <a class="nav-link link-dark" href="../Private%20%20events.php">PRIVATE EVENTS</a>
                 </li>
 
                 <li class="nav justify-content-center">
