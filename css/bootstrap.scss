@@ -6,8 +6,14 @@
 
 //Tilføj eller ret farver i Bootstrap. Herunder er primary blot sat til den normale primary
 $custom-colors: (
-  "primary": #0d6efd, //Retter primary
-  "minFarve": #ffff00 //Tilføjer minFarve
+  "farve1": #000000,
+  "Footer":#2E0015,
+  "btn1":#670E35,
+  "background1":#B28E76,
+  "talfarve":#2E3B5F,
+        "btn2":#77A1F2,
+  "om": #512639
+
 );
 $theme-colors: map-merge($theme-colors, $custom-colors);
 $theme-colors-rgb: map-loop($theme-colors, to-rgb, "$value");

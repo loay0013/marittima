@@ -26,25 +26,109 @@ p {
   padding: 0;
 }
 
+
 img {
   display: block;
   max-width: 100%;
   height: auto;
 }
 
+.header{
+  height: 100%;
+}
+
+.ship{
+  object-fit: cover;
+  height: 100%;
+  width: 100%;
+}
+
+
+
  #myVideo{
-  filter: brightness(15%);
+  filter: brightness(70%);
   height: 100%;
   width: 100%;
   object-fit: cover;
 }
 
-.navbar{
-  background-color: transparent;
+
+.contact{
+  font-family: "Source Sans Pro", "Times New Roman";
+  font-size: 20px;
 }
 
-section {
-  padding-top: 80px;
-  padding-bottom: 80px;
-  z-index: 2;
+.adress{
+  font-family: "Futura PT", "Times New Roman";
+  font-weight: lighter;
+}
+
+.copyright{
+  font-family: "Futura PT", "Times New Roman";
+  font-weight: lighter;
+}
+
+.news{
+  font-family: "Futura PT", "Times New Roman";
+}
+
+.rights {
+  font-family: "Futura PT", "Times New Roman";
+  font-size: 14px;
+
+}
+.logo{
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.btn1{
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
+}
+
+.home:hover{
+  color: red;
+}
+
+.social{
+  font-family: "Source sans Pro", "Times New Roman";
+}
+
+.findway{
+  font-family: "Source Sans Pro", "Times New Roman";
+}
+
+
+
+
+
+
+
+
+ //Historien-siden
+
+.text{
+  font-family: "Times New Roman", sans-serif;
+  font-weight: bolder;
+}
+
+p.idea{
+  font-family: "Futura PT", "Times New Roman";
+  font-weight: lighter;
+}
+
+
+
+
+
+
+
+.footer{
+  background-color: #1c000d;
 }
