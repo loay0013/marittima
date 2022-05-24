@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="da">
+<html class="h-100" lang="da">
 <head>
     <meta charset="utf-8">
 
@@ -15,13 +15,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 
-<body>
+<body class="h-100">
 
 <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
 
 <?php include "includes/nav.php";?>
 
-<section id="hero" style="background-image: url('images/pexels-ketut-subiyanto-5055179.jpg')">
+<section id="hero">
     <div class="overlay"></div>
     <div class="container">
         <div class="row">
