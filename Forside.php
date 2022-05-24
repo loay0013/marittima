@@ -23,7 +23,7 @@
 <header class="video-container h-100 position-relative overflow">
     <div class="video">
         <video playsinline autoplay muted loop id="myVideo" class="d-block position-absolute">
-            <source src="images/Forsidevideo.mp4">
+            <source src="images/pexels-mart-production-7330180.mp4">
         </video>
     </div>
     <div class="logo d-md-none d-block">
@@ -95,8 +95,8 @@
         </div>
     </div>
 
-    <div class="col-md-6 order-lg-1">
-        <img src="images/w-vin.png" alt="vin2">
+    <div class="col-md-6 order-lg-1 ">
+        <img class="w-100" src="images/w-vin.png" alt="vin2">
     </div>
 
 </section>
@@ -112,7 +112,7 @@
     </h2>
     <div class="row mx-auto m-w">
         <div class="col-6">
-            <ul class="list-unstyled p-3 d-flex flex-column align-items-center text-light">
+            <ul class="list-unstyled  d-flex flex-column align-items-center text-light">
                 <li class="p-2">
                     <p>
                         Mandag
@@ -153,7 +153,7 @@
             </ul>
         </div>
         <div class="col-6">
-            <ul class="list-unstyled p-3 d-flex flex-column align-items-center text-light ">
+            <ul class="list-unstyled  d-flex flex-column align-items-center text-light ">
                 <li class="p-2">
                     <p>
                         18.00 - 02.30
