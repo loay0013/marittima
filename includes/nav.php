@@ -10,36 +10,36 @@
             <span class="navbar-toggler-icon text-light"></span>
         </button>
         <div class="collapse navbar-collapse justify-content-center  p-0" id="navbarNav">
-            <ul class="nav flex-column flex-xl-row">
-                <li class="nav-item">
+            <ul class="nav flex-column flex-xl-row ">
+                <li class="nav-item p-3">
                     <a class="nav-link" aria-current="page" href="Forside.php">FORSIDE</a>
                 </li>
-                <li class="nav-item">
+                <li class="nav-item p-3">
                     <a class="nav-link" href="Vinoteque.php">VINOTEQUE</a>
                 </li>
-                <li class="nav-item">
+                <li class="nav-item p-3">
                     <a class="nav-link" href="Booking.php">BOOKING</a>
                 </li>
-                <li class="nav-item">
+                <li class="nav-item p-3">
                     <a class="nav-link" href="Selskabslokaler.php">PRIVATE EVENTS</a>
                 </li>
 
-                <li class="nav justify-content-center">
+                <li class="nav justify-content-center p-3">
                     <a class="justify-content-center d-flex" href="Forside.php">
-                    <img class="d-lg-block d-none  " src="images/logo.svg" alt="logo"></a>
+                    <img class="d-xl-block d-none  " src="images/logo.svg" alt="logo"></a>
 
                 </li>
 
-                <li class="nav-item">
-                    <a class="nav-link " aria-current="page" href="Events.php">EVENTS</a>
+                <li class="nav-item p-3">
+                    <a class="nav-link " href="Events.php">EVENTS</a>
                 </li>
-                <li class="nav-item">
+                <li class="nav-item p-3">
                     <a class="nav-link " href="Omkring%20os.php">HISTORIEN</a>
                 </li>
-                <li class="nav-item">
+                <li class="nav-item p-3">
                     <a class="nav-link " href="Maps.php">FIND OS</a>
                 </li>
-                <li class="nav-item">
+                <li class="nav-item p-3">
                     <a class="nav-link " href="Kontakt.php">KONTAKT</a>
                 </li>
             </ul>
