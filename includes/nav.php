@@ -9,7 +9,7 @@
         <button class="navbar-toggler border-0"  type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon text-light"></span>
         </button>
-        <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
+        <div class="collapse navbar-collapse justify-content-center  p-0" id="navbarNav">
             <ul class="nav flex-column flex-xl-row">
                 <li class="nav-item">
                     <a class="nav-link" aria-current="page" href="Forside.php">FORSIDE</a>
