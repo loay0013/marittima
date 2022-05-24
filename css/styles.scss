@@ -26,55 +26,52 @@ p {
   padding: 0;
 }
 
+
 img {
   display: block;
   max-width: 100%;
   height: auto;
 }
 
-.header{
+.header {
   height: 100%;
 }
 
-.ship{
-  background-image: url("../images/ship.jpeg");
-  background-size: cover;
-  display: grid;
-  place-content: center;
+.ship {
+  object-fit: cover;
+  height: 100%;
+  width: 100%;
 }
 
+.video-container{
+  z-index: -1;
+}
 
-
- #myVideo{
+#myVideo {
   filter: brightness(70%);
   height: 100%;
   width: 100%;
   object-fit: cover;
+  z-index: -1;
 }
 
-.transparent{
-  background-image: linear-gradient(rgba(0,0,0,1), rgba (0,0,0,0));
-  font-family: "Futura PT", "Times New Roman";
-  font-size: 18px;
-  z-index: 99;
-}
 
-.contact{
+.contact {
   font-family: "Source Sans Pro", "Times New Roman";
   font-size: 20px;
 }
 
-.adress{
+.adress {
   font-family: "Futura PT", "Times New Roman";
   font-weight: lighter;
 }
 
-.copyright{
+.copyright {
   font-family: "Futura PT", "Times New Roman";
   font-weight: lighter;
 }
 
-.news{
+.news {
   font-family: "Futura PT", "Times New Roman";
 }
 
@@ -83,103 +80,47 @@ img {
   font-size: 14px;
 
 }
-.logo{
+
+
+.logo {
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
-.btn1{
+.btn1 {
   position: absolute;
   top: 60%;
   left: 50%;
   transform: translate(-50%, -50%);
 
 }
-.logo-M{
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}
 
-.home:hover{
+.home:hover {
   color: red;
 }
 
-.social{
+.social {
   font-family: "Source sans Pro", "Times New Roman";
 }
 
-.findway{
+.findway {
   font-family: "Source Sans Pro", "Times New Roman";
 }
+.m-w{
+  max-width: 400px;
+}
 
+//Historien-siden
 
-
-
-
-
-
-
- //Historien-siden
-
-.text{
-  font-family: "Futura PT", sans-serif;
+.text {
+  font-family: "Times New Roman", sans-serif;
   font-weight: bolder;
 }
 
-p.idea{
+p.idea {
   font-family: "Futura PT", "Times New Roman";
   font-weight: lighter;
-  font-size: 18px;
 }
 
-.card-title{
-  font-family: "Futura PT" "Times New Roman";
-  font-size: 18px;
-  font-weight: light;
-}
-
-.oplevelse{
-  font-family: "Anjelina Modern Calligraphy", sans-serif;
-  font-size: 73px;
-}
-
-.historie{
-  font-family: "Futura PT", sans-serif;
-  font-size: 19px;
-}
-
-@font-face {
-  font-family: 'Anjelina Modern Calligraphy', sans-serif;
-}
-
-
-
-
-
-
-
-
-
-h2 .footer{
-  background-color: #1c000d;
-}
-
-.overskrift{
-  font-family: "Futura PT", sans-serif;
-  padding: 20px;
-  font-weight: bolder;
-}
-
-.history{
-  font-family: "Futura PT", "Times New Roman";
-  font-weight: light;
-}
-
-.icon{
-  position: relative;
-}
-
-
-
-
-//nyhedsbrev

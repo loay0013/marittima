@@ -23,14 +23,14 @@
 <header class="video-container h-100 position-relative overflow">
     <div class="video">
         <video playsinline autoplay muted loop id="myVideo" class="d-block position-absolute">
-            <source src="images/Forsidevideo.mp4">
+            <source src="images/pexels-mart-production-7330180.mp4">
         </video>
     </div>
-    <div class="logo d-md-none d-block">
+    <div class="logo d-xl-none d-block">
         <img src="images/logo%20med.svg">
     </div>
-    <div class="d-none d-md-block text-light  logo">
-        <h2 class="oplevelse">
+    <div class="d-none d-xl-block text-light  logo">
+        <h2 class="oplevelse text-center">
             En unik oplevelse
         </h2>
         <p class="syet">
@@ -65,7 +65,7 @@
 
         </p>
 
-        <div>
+        <div class="mb-3 p-3">
             <a class="btn btn-btn1" href="Omkring%20os.php">LÆS MERE</a>
         </div>
     </div>
@@ -90,29 +90,29 @@
             At vero eos et accusam et justo duo dolores et ea
         </p>
 
-        <div>
+        <div class="mb-3 p-3">
             <a class="btn btn-btn1" href="Omkring%20os.php">LÆS MERE</a>
         </div>
     </div>
 
-    <div class="col-md-6 order-lg-1">
-        <img src="images/w-vin.png" alt="vin2">
+    <div class="col-md-6 order-lg-1 ">
+        <img class="w-100" src="images/w-vin.png" alt="vin2">
     </div>
 
 </section>
 <section class="bg-om">
-    <h2 class="text-center mt-4">
+    <h2 class="text-center pt-4 text-light">
         VINOTEQUE
     </h2>
-    <p class="text-center mt-2">
+    <p class="text-center mt-3 text-light">
         Strandvejen 28, 4800 Nykøbing Falster
     </p>
-    <h2 class="mt-2 text-center">
+    <h2 class="mt-3 text-center text-light">
         Åbningstider
     </h2>
     <div class="row mx-auto m-w">
         <div class="col-6">
-            <ul class="list-unstyled p-3 d-flex flex-column align-items-center">
+            <ul class="list-unstyled  d-flex flex-column align-items-center text-light">
                 <li class="p-2">
                     <p>
                         Mandag
@@ -153,7 +153,7 @@
             </ul>
         </div>
         <div class="col-6">
-            <ul class="list-unstyled p-3 d-flex flex-column align-items-center ">
+            <ul class="list-unstyled  d-flex flex-column align-items-center text-light ">
                 <li class="p-2">
                     <p>
                         18.00 - 02.30
