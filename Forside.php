@@ -9,28 +9,26 @@
     <meta name="author" content="Udgiver">
     <meta name="copyright" content="Information om copyright">
 
-
-
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
     <link href="css/styles.css" rel="stylesheet" type="text/css">
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 
-<body class="vh-100">
+<body class="h-100">
 
-<script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+<script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js" defer></script>
 
-<?php include "includes/nav.php";?>
-<header class=" h-100 position-relative overflow">
+<?php include "includes/nav.php"; ?>
+<header class="video-container h-100 position-relative overflow">
     <div class="video">
-    <video playsinline autoplay muted loop  id="myVideo" class="d-block position-absolute">
-        <source src="images/Forsidevideo.mp4">
-    </video>
+        <video playsinline autoplay muted loop id="myVideo" class="d-block position-absolute">
+            <source src="images/Forsidevideo.mp4">
+        </video>
     </div>
-<div class="logo d-md-none d-block">
-    <img src="images/logo%20med.svg">
-</div>
+    <div class="logo d-md-none d-block">
+        <img src="images/logo%20med.svg">
+    </div>
     <div class="d-none d-md-block text-light  logo">
         <h2 class="oplevelse">
             En unik oplevelse
@@ -39,162 +37,164 @@
             Skræddersyet lige til dig.
         </p>
     </div>
-<div class="btn1 m-2 ">
-    <a class="btn-minFarve btn   rounded-1 d-flex justify-content-center ">
-        <p>LAV EN RESERVATION</p>
-    </a>
-    <a class="btn btn-minFarve  rounded-1 d-flex mt-3 justify-content-center">
-       <p>ÅBNINGSTIDER</p>
-    </a>
-</div>
+    <div class="btn1 m-2 ">
+        <a class="btn-minFarve btn  btn-btn1   d-flex justify-content-center ">
+            <p>LAV EN RESERVATION</p>
+        </a>
+        <a class="btn btn-minFarve btn-btn1  d-flex mt-3 justify-content-center">
+            <p>ÅBNINGSTIDER</p>
+        </a>
+    </div>
 
 </header>
 
 
-<section>
-    <div class="container-fluid">
-        <img class="img-fluid img-thumbnail d-flex justify-content-center " src="images/logosortudenslogan%20.svg">
-        <div class=" row-cols-md-12">
-        <p class=" row-cols-md-6">
+<section class="row gx-0">
+    <div class="col-md-6">
+        <div class="d-flex justify-content-center mt-3">
+            <img class=" d-flex justify-content-center w-25 mt-3 " src="images/logosortudenslogan%20.svg">
+        </div>
+        <p class="mt-3 p-3">
             Hos Marittima ønsker vi at skabe en god oplevelse for hele familien.
 
-            Marittima blev skabt ud fra drømmen om en vinbar. Historien bag Marius Mortensen går hånd i hånd med Skibet Marittima, og fører den næste generations historie videre.
+            Marittima blev skabt ud fra drømmen om en vinbar. Historien bag Marius Mortensen går hånd i hånd med Skibet
+            Marittima, og fører den næste generations historie videre.
 
-            Folk der har været på skibet vil være i stand til at kunne fortælle om historier om dengang de holdt fest på bølgen blå, med den synlige solnedgang ud af vinduet, lige før den når halvvejs under horisonten.
+            Folk der har været på skibet vil være i stand til at kunne fortælle om historier om dengang de holdt fest på
+            bølgen blå, med den synlige solnedgang ud af vinduet, lige før den når halvvejs under horisonten.
 
         </p>
 
-    <div>
-        <a class="btn btn-minFarve m-3" href="Omkring%20os.php">
-          <p>
-              LÆS MERE
-          </p>
-        </a>
+        <div>
+            <a class="btn btn-btn1" href="Omkring%20os.php">LÆS MERE</a>
+        </div>
     </div>
-     <div class="row-cols-md-6">
-    <img  src="images/#" alt="vin">
-     </div>
-    </div>
+
+    <div class="col-md-6">
+        <img class="img-fluid" src="images/vin.png" alt="vin">
     </div>
 
 </section>
 
-         <section class="container-fluid">
-    <h2>Private Arrangementer</h2>
-    <p>
-        Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
+<section class="row gx-0">
+    <div class="col-md-6 order-lg-2">
+        <h2 class="text-center mt-4">Private Arrangementer</h2>
+        <p class="mt-3 p-3">
+            Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
+            dolore magna aliquyam erat, sed diam voluptua.
 
-        At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
+            At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus
+            est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
+            eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
 
-        At vero eos et accusam et justo duo dolores et ea
-    </p>
-    <a class=" btn ">
-        <p class="">
-            BOOK NU
+            At vero eos et accusam et justo duo dolores et ea
         </p>
-    </a>
-<img src="images/#" alt="vin">
 
-         </section>
-<section class="container-fluid">
-    <h2>
+        <div>
+            <a class="btn btn-btn1" href="Omkring%20os.php">LÆS MERE</a>
+        </div>
+    </div>
+
+    <div class="col-md-6 order-lg-1">
+        <img src="images/w-vin.png" alt="vin2">
+    </div>
+
+</section>
+<section class="bg-om">
+    <h2 class="text-center mt-4">
         VINOTEQUE
     </h2>
-    <p>
+    <p class="text-center mt-2">
         Strandvejen 28, 4800 Nykøbing Falster
     </p>
-    <h2>
+    <h2 class="mt-2 text-center">
         Åbningstider
     </h2>
-<div>
-    <div>
-    <ul>
-        <li>
-            <p>
-                Mandag
-            </p>
-        </li>
-        <li>
-            <p>
-                Tirsdag
-            </p>
-        </li>
-        <li>
-            <p>
-                Onsdag
-            </p>
-        </li>
-        <li>
-            <p>
-                Torsdag
-            </p>
-        </li>
-        <li>
-            <p>
-                Fredag
-            </p>
-        </li>
-        <li>
-            <p>
-                Lørdag
-            </p>
-        </li>
-        <li>
-            <p>
-                Søndag
-            </p>
-        </li>
+    <div class="row mx-auto m-w">
+        <div class="col-6">
+            <ul class="list-unstyled p-3 d-flex flex-column align-items-center">
+                <li class="p-2">
+                    <p>
+                        Mandag
+                    </p>
+                </li>
+                <li class="p-2">
+                    <p>
+                        Tirsdag
+                    </p>
+                </li>
+                <li class="p-2">
+                    <p>
+                        Onsdag
+                    </p>
+                </li>
+                <li class="p-2">
+                    <p>
+                        Torsdag
+                    </p>
+                </li>
+                <li class="p-2">
+                    <p>
+                        Fredag
+                    </p>
+                </li>
+                <li class="p-2">
+                    <p>
+                        Lørdag
+                    </p>
+                </li>
+                <li class="p-2">
+                    <p>
+                        Søndag
+                    </p>
+                </li>
 
 
-    </ul>
+            </ul>
+        </div>
+        <div class="col-6">
+            <ul class="list-unstyled p-3 d-flex flex-column align-items-center ">
+                <li class="p-2">
+                    <p>
+                        18.00 - 02.30
+                    </p>
+                </li>
+                <li class="p-2">
+                    <p>
+                        18.00 - 02.30
+                    </p>
+                </li>
+                <li class="p-2">
+                    <p>
+                        18.00 - 02.30
+                    </p>
+                </li>
+                <li class="p-2">
+                    <p>
+                        18.00 - 02.30
+                    </p>
+                </li>
+                <li class="p-2">
+                    <p>
+                        18.00 - 02.30
+                    </p>
+                </li>
+                <li class="p-2">
+                    <p>
+                        18.00 - 02.30
+                    </p>
+                </li>
+                <li class="p-2">
+                    <p>
+                        18.00 - 02.30
+                    </p>
+                </li>
+        </div>
     </div>
-    <div>
-        <ul>
-            <li>
-                <p>
-                    18.00 - 02.30
-                </p>
-            </li>
-            <li>
-                <p>
-                    18.00 - 02.30
-                </p>
-            </li>
-            <li>
-                <p>
-                    18.00 - 02.30
-                </p>
-            </li>
-            <li>
-                <p>
-                    18.00 - 02.30
-                </p>
-            </li>
-            <li>
-                <p>
-                    18.00 - 02.30
-                </p>
-            </li>
-            <li>
-                <p>
-                    18.00 - 02.30
-                </p>
-            </li>
-            <li>
-                <p>
-                    18.00 - 02.30
-                </p>
-            </li>
-    </div>
-</div>
 </section>
 
 
-
-
-
-
-<?php include "includes/footer.php";?>
+<?php include "includes/footer.php"; ?>
 
 </body>
 </html>

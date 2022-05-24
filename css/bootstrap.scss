@@ -4,9 +4,7 @@
 @import "../node_modules/bootstrap/scss/variables";
 @import "../node_modules/bootstrap/scss/mixins";
 
-@font-face {
-  font-family: myFirstFont; src: url("images/");
-}
+$nav-link-color: #FFF;
 
 //Tilføj eller ret farver i Bootstrap. Herunder er primary blot sat til den normale primary
 $custom-colors: (
@@ -16,7 +14,7 @@ $custom-colors: (
   "background1":#B28E76,
   "talfarve":#2E3B5F,
         "btn2":#77A1F2,
-  "om": #512639,
+  "om": #512639
 
 );
 $theme-colors: map-merge($theme-colors, $custom-colors);
