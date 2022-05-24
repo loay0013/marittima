@@ -1,6 +1,4 @@
 
-
-
 <nav class="navbar navbar-expand-xl navbar-dark bg-transparent position-absolute w-100">
     <div class="container-fluid d-flex align-items-center">
         <a href="Forside.php">

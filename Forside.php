@@ -30,10 +30,10 @@
         <img src="images/logo%20med.svg">
     </div>
     <div class="d-none d-xl-block text-light  logo">
-        <h2 class="oplevelse text-center">
+        <h1 class="oplevelse text-center">
             En unik oplevelse
-        </h2>
-        <p class="syet">
+        </h1>
+        <p class="text-center mt-2">
             Skræddersyet lige til dig.
         </p>
     </div>
