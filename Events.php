@@ -23,13 +23,13 @@
 
 <?php include "includes/nav.php";?>
 
-<header id="hero">
-    <div class="container">
-        <div class="row">
-            <div class="col-12 position-absolute hero-text text-light text-center">
-                <h1>EVENTS</h1>
-                <p>Få en ekstraodinær aften og deltag i sjove events på båden Marittima.</p>
-            </div>
+<header id="hero" class="container-fluid">
+    <div class="overlay"></div>
+
+    <div class="row">
+        <div class="col-12 hero-text text-light text-center">
+            <h1>Events</h1>
+            <p class="g-2">Få en ekstraodinær aften og deltag i sjove events på båden Marittima.</p>
         </div>
     </div>
 </header>
