@@ -11,6 +11,8 @@
 
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
     <link href="css/styles.css" rel="stylesheet" type="text/css">
+    <script src="https://kit.fontawesome.com/b7f7f27b49.js" crossorigin="anonymous"></script>
+
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
@@ -28,6 +30,10 @@
             <h1 class="oplevelse">Vinoteque</h1>
             <p class="g-2">Vin er vores speciale</p>
         </div>
+    </div>
+
+    <div class="icon position-absolute bottom-0 text-center w-100 text-light">
+        <i class="fa-solid fa-chevron-down fa-2x"></i>
     </div>
 </header>
 

@@ -7,7 +7,7 @@
                 <p class="adress mt-2">4800 Nykøbing Falster</p>
                 <p class="adress mt-2"><a href="tel:45 11 22 33 44" class="link-light text-decoration-none"> +45 11 22 33 44</a></p>
 
-             <a href="Maps.php">
+             <a href="https://goo.gl/maps/a4qf6aA3pwes6oTz8">
             <button class="findway btn btn-primary bg-Footer border-light rounded-0 mt-2" type="button">FIND VEJ</button></a>
 
 

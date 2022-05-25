@@ -11,6 +11,8 @@
 
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
     <link href="css/styles.css" rel="stylesheet" type="text/css">
+    <script src="https://kit.fontawesome.com/b7f7f27b49.js" crossorigin="anonymous"></script>
+
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
@@ -38,12 +40,16 @@
         </p>
     </div>
     <div class="btn1 m-2 ">
-        <a  class="btn-minFarve btn  btn-btn1   d-flex justify-content-center rounded-0 " href="Booking.php">
+        <a class="btn-minFarve btn  btn-btn1   d-flex justify-content-center rounded-0 " href="Booking.php">
             <p>LAV EN RESERVATION</p>
         </a>
-        <a  class="btn btn-minFarve btn-btn1  d-flex mt-3 justify-content-center rounded-0" href="#Tid">
+        <a class="btn btn-minFarve btn-btn1  d-flex mt-3 justify-content-center rounded-0" href="#Tid">
             <p>ÅBNINGSTIDER</p>
         </a>
+    </div>
+
+    <div class="icon position-absolute bottom-0 text-center w-100 text-light">
+        <i class="fa-solid fa-chevron-down fa-2x"></i>
     </div>
 
 </header>
