@@ -38,10 +38,10 @@
         </p>
     </div>
     <div class="btn1 m-2 ">
-        <a class="btn-minFarve btn  btn-btn1   d-flex justify-content-center ">
+        <a class="btn-minFarve btn  btn-btn1   d-flex justify-content-center rounded-0 ">
             <p>LAV EN RESERVATION</p>
         </a>
-        <a class="btn btn-minFarve btn-btn1  d-flex mt-3 justify-content-center">
+        <a class="btn btn-minFarve btn-btn1  d-flex mt-3 justify-content-center rounded-0">
             <p>ÅBNINGSTIDER</p>
         </a>
     </div>

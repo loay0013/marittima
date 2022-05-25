@@ -11,6 +11,7 @@
 
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
     <link href="css/styles.css" rel="stylesheet" type="text/css">
+    <link href="css/Maloustyles.css" rel="stylesheet" type="text/css">
 
     <script src="https://kit.fontawesome.com/b7f7f27b49.js" crossorigin="anonymous"></script>
 
@@ -24,38 +25,21 @@
 <?php include "includes/nav.php";?>
 
 <!-- test -->
-<header class="video-container h-100 position-relative overflow">
-    <div class="ship h-100 w-100 position-relative">
-    </div>
-    <div class="logo d-xl-none d-block">
-        <img src="images/logo%20med.svg">
-    </div>
-    <div class="d-none d-xl-block text-light  logo">
-        <h1 class="oplevelse text-center">
-            Historien
-        </h1>
-        <p class="text-center mt-2">
-            Skræddersyet lige til dig.
-        </p>
-    </div>
 
-</header>
-<!-- test -->
+<header id="hero" class="container-fluid">
+    <div class="overlay"></div>
 
-<div class="ship h-100 w-100 position-relative">
-    <div class="tekst text-light">
-        <h2 class="oplevelse p-2 justify-content-center d-flex">
-            Historien
-        </h2>
-        <p class="d-none d-md-block historie text-light">
-            En lille historie om hvem vi er
-        </p>
+    <div class="row">
+        <div class="col-12 hero-text text-light text-center">
+            <h1>Historien</h1>
+            <p class="g-2">En lille historie om hvem vi er</p>
+        </div>
     </div>
-
     <div class="icon position-absolute bottom-0 text-center w-100 text-light">
         <i class="fa-solid fa-chevron-down fa-2x"></i>
     </div>
-</div>
+</header>
+
 
 <div class="col-12 text-center p-5">
     <h2 class="text">
