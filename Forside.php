@@ -9,6 +9,7 @@
     <meta name="author" content="Udgiver">
     <meta name="copyright" content="Information om copyright">
 
+    <link rel='icon' href='images/logosortudenslogan%20.svg' type='image/x-icon' sizes="40x40" />
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
     <link href="css/styles.css" rel="stylesheet" type="text/css">
     <script src="https://kit.fontawesome.com/b7f7f27b49.js" crossorigin="anonymous"></script>
@@ -31,7 +32,7 @@
     <div class="logo d-xl-none d-block">
         <img src="images/logo%20med.svg">
     </div>
-    <div class="d-none d-xl-block text-light  logo">
+    <div class="d-none d-xl-block text-light logo">
         <h1 class="oplevelse text-center">
             En unik oplevelse
         </h1>
@@ -49,18 +50,18 @@
     </div>
 
     <div class="icon position-absolute bottom-0 text-center w-100 text-light">
-        <i class="fa-solid fa-chevron-down fa-2x"></i>
+        <i class="fa-solid fa-chevron-down fa-2x p-3"></i>
     </div>
 
 </header>
 
 
-<section class="row gx-0">
+<section class="row gx-0 historie-læsmere">
     <div class="col-md-6">
         <div class="d-flex justify-content-center mt-3">
             <img class=" d-flex justify-content-center w-25 mt-3 " src="images/logosortudenslogan%20.svg">
         </div>
-        <p class="mt-3 p-3">
+        <p class="mt-3 p-3 vino-tekst">
             Hos Marittima ønsker vi at skabe en god oplevelse for hele familien.
 
             Marittima blev skabt ud fra drømmen om en vinbar. Historien bag Marius Mortensen går hånd i hånd med Skibet
@@ -71,8 +72,8 @@
 
         </p>
 
-        <div class="mb-3 p-3">
-            <a class="btn btn-btn1" href="Omkring%20os.php">LÆS MERE</a>
+        <div class="mb-3  p-3">
+            <a class="btn btn-btn1 rounded-0" href="Omkring%20os.php">LÆS MERE</a>
         </div>
     </div>
 
@@ -82,10 +83,10 @@
 
 </section>
 
-<section class="row gx-0">
+<section class="row gx-0 historie-læsmere">
     <div class="col-md-6 order-lg-2">
         <h2 class="text-center mt-4">Private Arrangementer</h2>
-        <p class="mt-3 p-3">
+        <p class="mt-3 p-3 vino-tekst">
             Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
             dolore magna aliquyam erat, sed diam voluptua.
 
@@ -94,10 +95,15 @@
             eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
 
             At vero eos et accusam et justo duo dolores et ea
+            lorem.
+
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet animi aspernatur autem blanditiis commodi, deleniti dignissimos dolorum hic illo ipsum molestiae, mollitia non nulla officia perferendis quasi tempore tenetur veritatis!
+
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem dolore porro reiciendis! Animi atque, dolorem dolores molestias officia vel vero voluptas! Animi beatae dolorem dolores libero recusandae! Odit tenetur, vitae.
         </p>
 
         <div class="mb-3 p-3">
-            <a class="btn btn-btn1" href="Omkring%20os.php">LÆS MERE</a>
+            <a class="btn btn-btn1 rounded-0" href="Omkring%20os.php">LÆS MERE</a>
         </div>
     </div>
 
@@ -106,19 +112,19 @@
     </div>
 
 </section>
-<section class="bg-om">
-    <h2 class="text-center pt-4 text-light">
+<section class="bg-om ">
+    <h2 class="vinoteque text-center pt-4 text-light">
         VINOTEQUE
     </h2>
     <p class="text-center mt-3 text-light">
         Strandvejen 28, 4800 Nykøbing Falster
     </p>
-    <h2  class="mt-3 text-center text-light">
+    <h2  class="open mt-5 text-center text-light">
         Åbningstider
     </h2>
-    <div id="Tid" class="row mx-auto m-w">
+    <div id="Tid" class="row mx-auto m-w p-3">
         <div class="col-6">
-            <ul class="list-unstyled  d-flex flex-column align-items-center text-light">
+            <ul class="list-unstyled  d-flex flex-column align-items-center text-light days">
                 <li class="p-2">
                     <p>
                         Mandag
@@ -159,7 +165,7 @@
             </ul>
         </div>
         <div class="col-6">
-            <ul class="list-unstyled  d-flex flex-column align-items-center text-light ">
+            <ul class="list-unstyled  d-flex flex-column align-items-center text-light time">
                 <li class="p-2">
                     <p>
                         18.00 - 02.30

@@ -9,6 +9,7 @@
     <meta name="author" content="Udgiver">
     <meta name="copyright" content="Information om copyright">
 
+    <link rel='icon' href='images/logosortudenslogan%20.svg' type='image/x-icon' sizes="40x40" />
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
     <link href="css/styles.css" rel="stylesheet" type="text/css">
     <script src="https://kit.fontawesome.com/b7f7f27b49.js" crossorigin="anonymous"></script>
@@ -33,7 +34,7 @@
     </div>
 
     <div class="icon position-absolute bottom-0 text-center w-100 text-light">
-        <i class="fa-solid fa-chevron-down fa-2x p-4"></i>
+        <i class="fa-solid fa-chevron-down fa-2x p-3"></i>
     </div>
 </header>
 
