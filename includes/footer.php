@@ -8,7 +8,7 @@
                 <p class="adress mt-2"><a href="tel:45 11 22 33 44" class="link-light text-decoration-none"> +45 11 22 33 44</a></p>
 
              <a href="https://goo.gl/maps/a4qf6aA3pwes6oTz8">
-            <button class="findway btn btn-primary bg-Footer border-light rounded-0 mt-2" type="button">FIND VEJ</button></a>
+            <button class="findway btn btn-primary bg-Footer border-light rounded-0 mt-5" type="button">FIND VEJ</button></a>
 
 
         </div>
@@ -23,7 +23,7 @@
 
         <div class="col-md-4 align-items-center col-12 mt-5 mt-md-0">
             <h5 class="social text-center p-3 p-md-0">FØLG OS</h5>
-            <div class="d-flex justify-content-center p-3">
+            <div class="d-flex justify-content-center p-3 mt-2">
                 <div class="p-2">
                 <a>
                     <img src="images/fb.svg" class="text-light" alt="fb">
@@ -45,32 +45,38 @@
             </div>
 
                 <div class="d-flex w-100 gap-2 flex-column align-items-center">
-                    <p class="adress">NYHEDSBREV</p>
-                    <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">
-                        Launch demo modal
+                    <p class="adress mt-2">NYHEDSBREV</p>
+                    <button type="button" class="findway btn btn-primary bg-Footer border-light rounded-0 mt-4" data-bs-toggle="modal" data-bs-target="#exampleModal">
+                        TILMELD DIG
                     </button>
 
                     <!-- Modal -->
                     <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                         <div class="modal-dialog">
-                            <div class="modal-content">
+                            <div class="modal-content bg-news">
                                 <div class="modal-header">
-                                    <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
+                                    <h2 class="modal-title" id="exampleModalLabel">Tilmeld dig vores nyhedsbrev</h2>
                                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                                 </div>
-                                <div class="modal-body">
-                                    ...
+                                    <div>
+                                    <p class="p-2">Tilmeld dig vores nyhedsbrev og få en masse lækre opdatering
+                                        på kommende events, vinudvalg og tilbud.</p>
+                                    </div>
+                                    <div class="row gx-0">
+                                    <div class="col-md-6">
+                                    <input class="border-0 p-2 m-2 " id="email" name="email" type="email" placeholder="Email">
+                                    </div>
+                                        <div class="col-md-6">
+                                    <button type="button" class="btn btn-btn1 p-2 m-2 border-0" data-bs-dismiss="modal">Tilmeld</button>
+                                        </div>
                                 </div>
-                                <div class="modal-footer">
-                                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-                                    <button type="button" class="btn btn-primary">Save changes</button>
-                                </div>
+                            </div>
                             </div>
                         </div>
                     </div>
                 </div>
-        </div>
     </div>
+
 
     <div class=" d-flex align-items-center py-4 my-4 flex-column">
         <p class="adress">© MARITTIMA 2022</p>
