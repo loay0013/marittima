@@ -35,7 +35,7 @@
     </div>
 
     <div class="icon position-absolute bottom-0 text-center w-100 text-light">
-        <i class="fa-solid fa-chevron-down fa-2x"></i>
+        <i class="fa-solid fa-chevron-down fa-2x p-4"></i>
     </div>
 </header>
 

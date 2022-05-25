@@ -33,19 +33,19 @@
     </div>
 
     <div class="icon position-absolute bottom-0 text-center w-100 text-light">
-        <i class="fa-solid fa-chevron-down fa-2x"></i>
+        <i class="fa-solid fa-chevron-down fa-2x p-4"></i>
     </div>
 </header>
 
 <section class="row gx-0 ">
     <div class="col-md-6 pt-4">
-    <p class="text-center">
+    <p class="text-center idéen">
         idéen bag
     </p>
-    <h2 class="text-center">
+    <h2 class="text-center konceptet">
         Konceptet
     </h2>
-    <p class="p-3">
+    <p class="p-3 vino-tekst">
         Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
 
         At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
@@ -62,44 +62,44 @@
     </div>
 </section>
 
-<section class="bg-background1">
+<section class="bg-background1 text-light">
     <div class="text-center pt-4">
-        <h2>
+        <h2 class="wine">
             Vinen
         </h2>
-        <p>
+        <p class="idéen">
             vores speciale
         </p>
     </div>
 
     <div class="row gx-0">
         <div class="col-md-4 pt-4">
-            <h3 class="p-3">
+            <h3 class="p-3 konceptet">
                 Leverandøren
             </h3>
-            <p class="p-3">
+            <p class="p-3 vino-tekst">
                 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
             </p>
             <img src="images/vinteq-img2.png">
         </div>
         <div class="col-md-4 pt-4">
-            <h3 class="p-3">
+            <h3 class="p-3 konceptet">
                 Druerne
             </h3>
-            <p class="p-3">
+            <p class="p-3 vino-tekst">
                 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
 
             </p>
             <img src="images/vinteq-img3.png">
         </div>
         <div class="col-md-4 pt-4">
-            <h3 class="p-3">
+            <h3 class="p-3 konceptet">
                 Udvalget
             </h3>
-            <p class="p-3">
+            <p class="p-3 vino-tekst">
                 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
             </p>
-            <img src="images/vinteq-img4.png">
+            <img src="images/vinteq-img4.png" class="mb-4">
         </div>
 
     </div>
@@ -112,13 +112,13 @@
     <img class="img-fluid w-100" src="images/vinteq-img6.png">
 </div>
     <div class="col-md-6 order-1 order-lg-2 pt-4">
-        <p class="text-center">
+        <p class="text-center idéen">
             vi serverer også
         </p>
-        <h3 class="text-center">
+        <h3 class="text-center konceptet">
             ØL & DRINKS
         </h3>
-        <p class="p-3">
+        <p class="p-3 vino-tekst">
             Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
 
             Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.

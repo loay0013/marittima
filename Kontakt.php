@@ -34,12 +34,12 @@
         </div>
     </div>
     <div class="icon position-absolute bottom-0 text-center w-100 text-light">
-        <i class="fa-solid fa-chevron-down fa-2x"></i>
+        <i class="fa-solid fa-chevron-down fa-2x p-4"></i>
     </div>
 </header>
 <section>
     <div class="text-center p-3">
-        <h2>
+        <h2 class="contact-us">
             Kontakt os her
         </h2>
     </div>
@@ -48,23 +48,23 @@
 
 <section>
     <div class="d-flex justify-content-center p-5">
-        <form action="mailto:#" method="post" enctype="text/plain">
+        <form action="mailto:#" method="post" enctype="text/plain" class="smalltext">
             <div class="pb-3">
 
-                <input class="border-1 p-1" id="Name" name="Navn" type="text" placeholder="Navn">
+                <input class="border-1 p-2" id="Name" name="Navn" type="text" placeholder="Navn">
             </div>
 
             <div class="pb-3" >
 
-                <input class="border-1 p-1" id="email" name="email" type="email" placeholder="Email">
+                <input class="border-1 p-2" id="email" name="email" type="email" placeholder="Email">
             </div>
             <div class="pb-3" >
 
-                <textarea class="border-1 p-3" id="besked" name="besked" placeholder="Besked" ></textarea>
+                <textarea class="border-1 p-2"  rows="5" id="besked" name="besked" placeholder="Besked" ></textarea>
             </div>
 
             <div class="d-flex pb-3">
-                <input   type="submit"  value="Send" class="d-flex btn-btn1 border-1">
+                <input   type="submit"  value="Send" class="d-flex btn-btn1 border-1 px-3">
 
             </div>
         </form>

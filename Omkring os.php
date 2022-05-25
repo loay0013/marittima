@@ -32,11 +32,11 @@
     <div class="row">
         <div class="col-12 hero-text text-light text-center">
             <h1>Historien</h1>
-            <p class="g-2">En lille historie om hvem vi er</p>
+            <p class="little g-2 d-sm-none d-lg-block">En lille historie om hvem vi er</p>
         </div>
     </div>
     <div class="icon position-absolute bottom-0 text-center w-100 text-light">
-        <i class="fa-solid fa-chevron-down fa-2x"></i>
+        <i class="fa-solid fa-chevron-down fa-2x p-4"></i>
     </div>
 </header>
 
@@ -50,13 +50,12 @@
     </p>
 </div>
 
-<div class="ship h-100 w-100 d-sm-block">
-    <img src="images/ship.jpeg" alt="ship" class="h-100 w-100">
+<div class="ror d-sm-block">
 </div>
 
 <div class="container-fluid">
     <div class="row p-5 px-4 history">
-        <div class="col-sm-6">
+        <div class="col-sm-6 text">
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium aliquid animi commodi ducimus, exercitationem iste, iure minima, minus nam perferendis qui sapiente sequi sit suscipit tempora totam vitae voluptas voluptatum!
         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam aperiam, culpa cupiditate deleniti enim excepturi in libero molestiae nobis obcaecati officia similique veritatis voluptatem? Autem dignissimos esse iusto qui quidem.
         <br>

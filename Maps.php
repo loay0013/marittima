@@ -34,25 +34,25 @@
     </div>
 
     <div class="icon position-absolute bottom-0 text-center w-100 text-light">
-        <i class="fa-solid fa-chevron-down fa-2x"></i>
+        <i class="fa-solid fa-chevron-down fa-2x p-4"></i>
     </div>
 </header>
 
 
-<section class="row m-0">
+<section class="row m-0 maps pt-5">
     <div class="p-3 col-md-4">
         <h2 class="text-center">
             Rutevejledning
         </h2>
         <div class="d-flex justify-content-center p-3">
-        <a href="https://goo.gl/maps/a4qf6aA3pwes6oTz8" class="btn-btn2 border-0 text-light p-2 text-center  w-50 ">Maps</a></div>
+        <a href="https://goo.gl/maps/a4qf6aA3pwes6oTz8" class="btn-btn2 border-0 text-light p-2 px-2 py-2 text-center  w-50 link-light text-decoration-none ">MAPS</a></div>
     </div>
 
     <div class="p-3 col-md-4">
     <h2 class="text-center">
         Hvor er vi?
     </h2>
-        <p class="text-center p-3">
+        <p class="little-map text-center p-3">
             Find hurtigt ud af hvor
             vi befinder os.
         </p>
@@ -61,8 +61,9 @@
         <h2 class="text-center">
             Adresse
         </h2>
-        <p class="text-center p-3">
+        <p class="little-map text-center p-3">
             Strandvejen 28
+            <br>
             4800 Nykøbing Falster
         </p>
     </div>
@@ -72,7 +73,7 @@
 
 
 <section>
-     <img class="img-fluid p-md-5 d-flex justify-content-center w-100 " src="images/Maps-img.png" alt="Maps">
+     <img class="img-fluid p-md-5 d-flex justify-content-center w-100 p-2" src="images/Maps-img.png" alt="Maps">
 </section>
 
 

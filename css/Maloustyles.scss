@@ -5,6 +5,13 @@
   background-size: cover;
 }
 
+.ror{
+  height: 100%;
+  width: 100%;
+  background-image: url("../images/ror.jpeg");
+  background-size: cover;
+}
+
 .contact {
   font-family: "Source Sans Pro", "Times New Roman";
   font-size: 20px;
@@ -24,6 +31,10 @@
 .copyright {
   font-family: "Futura PT", "Times New Roman";
   font-weight: lighter;
+}
+
+.little{
+  font-family: Poppins;
 }
 
 .news {
@@ -92,8 +103,19 @@ p.idea {
   letter-spacing: 2px;
   font-size: 14px;
   font-family: "Futura PT", sans-serif;
-
 }
+
+.overskrift{
+  font-family: "Futura PT", sans-serif;
+  font-size: 28px;
+}
+
+.history{
+  font-family: "Open Sans", sans-serif;
+  font-size: 15px;
+}
+
+
 
 // Mikkels styles
 
@@ -120,3 +142,4 @@ h1 {
   font-size: 73px;
 
 }
+

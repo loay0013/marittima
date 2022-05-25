@@ -87,9 +87,10 @@ img {
 
 .logo {
   position: absolute;
-  top: 30%;
+  top: 40%;
   left: 50%;
   transform: translate(-50%, -50%);
+  margin: -312px;
 }
 
 .btn1 {
@@ -216,4 +217,73 @@ p.idea {
     z-index: -1;
   }
 
+}
+
+.maps{
+  font-family: "Futura PT", sans-serif;
+}
+
+.little-map{
+  font-family: "Futura PT", sans-serif;
+  font-weight: lighter;
+}
+
+.contact-us{
+  font-family: "futura pt", sans-serif;
+}
+
+.smalltext{
+  font-family: "futura pt", sans-serif;
+}
+
+.historie-læsmere{
+  font-family: "futura pt", sans-serif;
+  font-size: 18px;
+}
+
+.days, .time{
+  font-family: "futura pt", sans-serif;
+  font-size: 20px;
+  font-weight: lighter;
+}
+
+.open{
+  font-family: "Futura PT", sans-serif;
+}
+
+.vinoteque{
+  font-family: "Futura PT", sans-serif;
+  font-weight: bolder;
+}
+
+.card-title{
+  font-family: "Futura PT", sans-serif;
+  font-size: 22px;
+}
+
+.card-text{
+  font-family: "Futura PT", sans-serif;
+  font-size: 17px;
+}
+
+.idéen{
+  font-family: "Futura PT", sans-serif;
+  font-size: 20px;
+  font-weight: lighter;
+}
+
+.konceptet{
+  font-family: "Futura PT", sans-serif;
+  font-size: 30px;
+}
+
+.vino-tekst{
+  font-family: "Open Sans", sans-serif;
+  font-size: 15px;
+  font-weight: normal;
+}
+
+.wine{
+  font-family: "Futura PT", sans-serif;
+  font-size: 40px;
 }
