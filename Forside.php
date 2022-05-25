@@ -71,7 +71,7 @@
     </div>
 
     <div class="col-md-6">
-        <img class="img-fluid" src="images/vin.png" alt="vin">
+        <img class="img-fluid w-100" src="images/vin.png" alt="vin">
     </div>
 
 </section>
