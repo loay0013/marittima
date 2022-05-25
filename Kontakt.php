@@ -37,7 +37,39 @@
         <i class="fa-solid fa-chevron-down fa-2x"></i>
     </div>
 </header>
+<section>
+    <div class="text-center p-3">
+        <h2>
+            Kontakt os her
+        </h2>
+    </div>
+</section>
 
+
+<section>
+    <div class="d-flex justify-content-center p-5">
+        <form action="mailto:#" method="post" enctype="text/plain">
+            <div class="pb-3">
+
+                <input class="border-1 p-1" id="Name" name="Navn" type="text" placeholder="Navn">
+            </div>
+
+            <div class="pb-3" >
+
+                <input class="border-1 p-1" id="email" name="email" type="email" placeholder="Email">
+            </div>
+            <div class="pb-3" >
+
+                <textarea class="border-1 p-3" id="besked" name="besked" placeholder="Besked" ></textarea>
+            </div>
+
+            <div class="d-flex pb-3">
+                <input   type="submit"  value="Send" class="d-flex btn-btn1 border-1">
+
+            </div>
+        </form>
+    </div>
+</section>
 
 
 <?php include "includes/footer.php";?>
