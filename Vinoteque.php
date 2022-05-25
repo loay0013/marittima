@@ -38,14 +38,14 @@
 </header>
 
 <section class="row gx-0 ">
-    <div class="col-md-6">
-    <p>
+    <div class="col-md-6 pt-4">
+    <p class="text-center">
         idéen bag
     </p>
-    <h2>
+    <h2 class="text-center">
         Konceptet
     </h2>
-    <p>
+    <p class="p-3">
         Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
 
         At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
@@ -58,12 +58,12 @@
     </div>
 
     <div class="col-md-6">
-        <img class="img-fluid w-100" src="images/vinoteque-img1.png">
+        <img class="w-100 h-100" src="images/vinoteque-img1.png">
     </div>
 </section>
 
 <section class="bg-background1">
-    <div class="text-center">
+    <div class="text-center pt-4">
         <h2>
             Vinen
         </h2>
@@ -73,30 +73,30 @@
     </div>
 
     <div class="row gx-0">
-        <div class="col-md-4">
-            <h3>
+        <div class="col-md-4 pt-4">
+            <h3 class="p-3">
                 Leverandøren
             </h3>
-            <p>
+            <p class="p-3">
                 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
             </p>
             <img src="images/vinteq-img2.png">
         </div>
-        <div class="col-md-4">
-            <h3>
+        <div class="col-md-4 pt-4">
+            <h3 class="p-3">
                 Druerne
             </h3>
-            <p>
+            <p class="p-3">
                 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
 
             </p>
             <img src="images/vinteq-img3.png">
         </div>
-        <div class="col-md-4">
-            <h3>
+        <div class="col-md-4 pt-4">
+            <h3 class="p-3">
                 Udvalget
             </h3>
-            <p>
+            <p class="p-3">
                 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
             </p>
             <img src="images/vinteq-img4.png">
@@ -108,17 +108,17 @@
 
 
 <section class="row gx-0">
-<div class="col-md-6">
+<div class="col-md-6 order-2 order-lg-1">
     <img class="img-fluid w-100" src="images/vinteq-img6.png">
 </div>
-    <div class="col-md-6">
-        <p>
+    <div class="col-md-6 order-1 order-lg-2 pt-4">
+        <p class="text-center">
             vi serverer også
         </p>
-        <h3>
+        <h3 class="text-center">
             ØL & DRINKS
         </h3>
-        <p>
+        <p class="p-3">
             Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
 
             Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
