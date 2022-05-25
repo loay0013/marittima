@@ -9,7 +9,6 @@
     <meta name="author" content="Udgiver">
     <meta name="copyright" content="Information om copyright">
 
-    <link rel='icon' href='images/logosortudenslogan%20.svg' type='image/x-icon' sizes="40x40" />
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
     <link href="css/styles.css" rel="stylesheet" type="text/css">
     <script src="https://kit.fontawesome.com/b7f7f27b49.js" crossorigin="anonymous"></script>
@@ -34,19 +33,19 @@
     </div>
 
     <div class="icon position-absolute bottom-0 text-center w-100 text-light">
-        <i class="fa-solid fa-chevron-down fa-2x p-3"></i>
+        <i class="fa-solid fa-chevron-down fa-2x"></i>
     </div>
 </header>
 
 <section class="row gx-0 ">
     <div class="col-md-6 pt-4">
-    <p class="text-center idéen">
+    <p class="text-center">
         idéen bag
     </p>
-    <h2 class="text-center konceptet">
+    <h2 class="text-center">
         Konceptet
     </h2>
-    <p class="p-3 vino-tekst">
+    <p class="p-3">
         Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
 
         At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
@@ -63,44 +62,48 @@
     </div>
 </section>
 
-<section class="bg-background1 text-light">
+<section class="bg-background1">
     <div class="text-center pt-4">
-        <h2 class="wine">
+        <h2>
             Vinen
         </h2>
-        <p class="idéen">
+        <p>
             vores speciale
         </p>
     </div>
 
     <div class="row gx-0">
         <div class="col-md-4 pt-4">
-            <h3 class="p-3 konceptet">
+            <h2 class="p-3">
                 Leverandøren
-            </h3>
-            <p class="p-3 vino-tekst">
+            </h2>
+            <p class="p-3">
                 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
             </p>
-            <img src="images/vinteq-img2.png">
+            <div class="d-flex justify-content-center">
+            <img src="images/vinteq-img2.png"></div>
         </div>
         <div class="col-md-4 pt-4">
-            <h3 class="p-3 konceptet">
+            <h2 class="p-3">
                 Druerne
-            </h3>
-            <p class="p-3 vino-tekst">
+            </h2>
+            <p class="p-3">
                 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
 
             </p>
-            <img src="images/vinteq-img3.png">
+            <div class="d-flex justify-content-center">
+                <img src="images/vinteq-img3.png"></div>
         </div>
         <div class="col-md-4 pt-4">
-            <h3 class="p-3 konceptet">
+
+            <h2 class="p-3">
                 Udvalget
-            </h3>
-            <p class="p-3 vino-tekst">
+            </h2>
+            <p class="p-3">
                 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
             </p>
-            <img src="images/vinteq-img4.png" class="mb-4">
+            <div class="d-flex justify-content-center">
+                <img src="images/vinteq-img4.png"></div>
         </div>
 
     </div>
@@ -113,13 +116,13 @@
     <img class="img-fluid w-100" src="images/vinteq-img6.png">
 </div>
     <div class="col-md-6 order-1 order-lg-2 pt-4">
-        <p class="text-center idéen">
+        <p class="text-center">
             vi serverer også
         </p>
-        <h3 class="text-center konceptet">
+        <h3 class="text-center">
             ØL & DRINKS
         </h3>
-        <p class="p-3 vino-tekst">
+        <p class="p-3">
             Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
 
             Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.

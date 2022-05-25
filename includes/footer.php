@@ -45,17 +45,18 @@
             </div>
             <form>
                 <div class="d-flex w-100 gap-2 flex-column align-items-center">
-                    <p class="news">NYHEDSBREV</p>
+                    <p class="adress">NYHEDSBREV</p>
                     <a href="#">
-                    <button class="findway btn btn-primary bg-Footer border-light rounded-0 mt-1" type="button">TILMELD DIG</button></a>
+                    <button class="social btn btn-primary bg-Footer border-light rounded-0 mt-1" type="button">TILMELD DIG</button></a>
+
                 </div>
             </form>
         </div>
     </div>
 
-    <div class="copyright d-flex align-items-center py-4 my-4 flex-column">
-        <p class="copyright">© MARITTIMA 2022</p>
-        <p class="rights">All rights reserved.</p>
+    <div class=" d-flex align-items-center py-4 my-4 flex-column">
+        <p class="adress">© MARITTIMA 2022</p>
+        <p class="adress">All rights reserved.</p>
     </div>
 
 

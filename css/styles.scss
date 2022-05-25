@@ -6,9 +6,16 @@ body {
   margin: 0;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1 {
   margin: 0;
   padding: 0;
+  font-family: "Anjelina Modern Calligraphy", sans-serif;
+  font-size: 73px;
+}
+
+h2{
+  font-family: "Futura PT",sans-serif;
+  font-size: 25px;
 }
 
 ul, ol {
@@ -24,6 +31,8 @@ li {
 p {
   margin: 0;
   padding: 0;
+  font-family: "Open Sans",sans-serif;
+  font-size: 16px;
 }
 
 
@@ -35,12 +44,6 @@ img {
 
 .header {
   height: 100%;
-}
-
-.ship {
-  object-fit: cover;
-  height: 100%;
-  width: 100%;
 }
 
 .video-container{
@@ -66,24 +69,8 @@ img {
   font-weight: lighter;
 }
 
-.copyright {
-  font-family: "Futura PT", "Times New Roman";
-  font-weight: lighter;
-}
 
-.news {
-  font-family: "Futura PT", "Times New Roman";
-}
 
-.rights {
-  font-family: "Futura PT", "Times New Roman";
-  font-size: 14px;
-
-}
-.oplevelse{
-  font-family: "Anjelina Modern Calligraphy", sans-serif;
-  font-size: 73px;
-}
 
 .logo {
   position: absolute;
@@ -103,6 +90,9 @@ img {
 }
 
 .home:hover {
+}
+
+.home:hover {
   color: red;
 }
 
@@ -110,9 +100,6 @@ img {
   font-family: "Source sans Pro", "Times New Roman";
 }
 
-.findway {
-  font-family: "Source Sans Pro", "Times New Roman";
-}
 .m-w{
   max-width: 400px;
 }
