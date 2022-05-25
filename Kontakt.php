@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="da">
+<html class="h-100" lang="da">
 <head>
     <meta charset="utf-8">
 
@@ -15,13 +15,22 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 
-<body>
+<body class="h-100">
 
 <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
 
 <?php include "includes/nav.php";?>
 
+<header id="hero2" class="container-fluid">
+    <div class="overlay"></div>
 
+    <div class="row">
+        <div class="col-12 hero-text text-light text-center">
+            <h1 class="oplevelse">Kontakt os</h1>
+            <p class="g-2">Kom nemt i kontakt med os her.</p>
+        </div>
+    </div>
+</header>
 
 
 
