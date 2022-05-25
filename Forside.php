@@ -9,7 +9,6 @@
     <meta name="author" content="Udgiver">
     <meta name="copyright" content="Information om copyright">
 
-    <link rel='icon' href='images/logosortudenslogan%20.svg' type='image/x-icon' sizes="40x40" />
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
     <link href="css/styles.css" rel="stylesheet" type="text/css">
     <script src="https://kit.fontawesome.com/b7f7f27b49.js" crossorigin="anonymous"></script>
@@ -21,7 +20,6 @@
 <body class="h-100">
 
 <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js" defer></script>
-
 <?php include "includes/nav.php"; ?>
 <header class="video-container h-100 position-relative overflow">
     <div class="video">
@@ -207,7 +205,7 @@
 
 
 <?php include "includes/footer.php"; ?>
-
+<script src="js/news.js"></script>
 </body>
 </html>
 

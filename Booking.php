@@ -51,6 +51,6 @@
 
 
 <?php include "includes/footer.php";?>
-
+<script src="js/news.js"></script>
 </body>
 </html>

@@ -36,6 +36,6 @@
 
 
 
-
+<script src="js/news.js"></script>
 </body>
 </html>

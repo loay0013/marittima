@@ -104,8 +104,6 @@
 <?php include "includes/footer.php";?>
 
 <!-- Nyhedsbrev -->
-
+<script src="js/news.js"></script>
 </body>
-
-
 </html>
