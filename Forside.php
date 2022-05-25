@@ -38,10 +38,10 @@
         </p>
     </div>
     <div class="btn1 m-2 ">
-        <a class="btn-minFarve btn  btn-btn1   d-flex justify-content-center rounded-0 ">
+        <a  class="btn-minFarve btn  btn-btn1   d-flex justify-content-center rounded-0 " href="Booking.php">
             <p>LAV EN RESERVATION</p>
         </a>
-        <a class="btn btn-minFarve btn-btn1  d-flex mt-3 justify-content-center rounded-0">
+        <a  class="btn btn-minFarve btn-btn1  d-flex mt-3 justify-content-center rounded-0" href="#Tid">
             <p>ÅBNINGSTIDER</p>
         </a>
     </div>
@@ -107,10 +107,10 @@
     <p class="text-center mt-3 text-light">
         Strandvejen 28, 4800 Nykøbing Falster
     </p>
-    <h2 class="mt-3 text-center text-light">
+    <h2  class="mt-3 text-center text-light">
         Åbningstider
     </h2>
-    <div class="row mx-auto m-w">
+    <div id="Tid" class="row mx-auto m-w">
         <div class="col-6">
             <ul class="list-unstyled  d-flex flex-column align-items-center text-light">
                 <li class="p-2">
