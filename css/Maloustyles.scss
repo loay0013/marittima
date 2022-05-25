@@ -1,60 +1,9 @@
-* {
-  box-sizing: border-box;
-}
-
-body {
-  margin: 0;
-}
-
-h1, h2, h3, h4, h5, h6 {
-  margin: 0;
-  padding: 0;
-}
-
-ul, ol {
-  margin: 2px 10px 2px 10px;
-  padding: 0;
-  list-style-position: inside;
-}
-
-li {
-  margin: 0;
-}
-
-p {
-  margin: 0;
-  padding: 0;
-}
-
-
-img {
-  display: block;
-  max-width: 100%;
-  height: auto;
-}
-
-.header {
-  height: 100%;
-}
-
 .ship {
-  object-fit: cover;
   height: 100%;
   width: 100%;
+  background-image: url("../images/ship.jpeg") ;
+  background-size: cover;
 }
-
-.video-container{
-  z-index: -1;
-}
-
-#myVideo {
-  filter: brightness(70%);
-  height: 100%;
-  width: 100%;
-  object-fit: cover;
-  z-index: -1;
-}
-
 
 .contact {
   font-family: "Source Sans Pro", "Times New Roman";
@@ -64,6 +13,12 @@ img {
 .adress {
   font-family: "Futura PT", "Times New Roman";
   font-weight: lighter;
+}
+
+.oplevelse{
+  font-family: "Anjelina Modern Calligraphy", sans-serif;
+  font-size: 73px;
+  color: black;
 }
 
 .copyright {
@@ -80,28 +35,13 @@ img {
   font-size: 14px;
 
 }
-.oplevelse{
-  font-family: "Anjelina Modern Calligraphy", sans-serif;
-  font-size: 73px;
-}
+
 
 .logo {
   position: absolute;
   top: 30%;
   left: 50%;
   transform: translate(-50%, -50%);
-}
-
-.btn1 {
-  position: absolute;
-  top: 60%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-
-}
-
-.home:hover {
-  color: red;
 }
 
 .social {
@@ -111,6 +51,27 @@ img {
 .findway {
   font-family: "Source Sans Pro", "Times New Roman";
 }
+
+#text {
+  font-family: 'Futura PT', sans-serif;
+  font-weight: bolder;
+}
+
+p.idea {
+  font-family: "Futura PT", "Times New Roman";
+  font-weight: lighter;
+}
+
+
+
+.home:hover {
+  color: red;
+}
+
+.social {
+  font-family: "Source sans Pro", "Times New Roman";
+}
+
 .m-w{
   max-width: 400px;
 }
@@ -133,4 +94,3 @@ p.idea {
   font-family: "Futura PT", sans-serif;
 
 }
-

@@ -23,6 +23,25 @@
 
 <?php include "includes/nav.php";?>
 
+<!-- test -->
+<header class="video-container h-100 position-relative overflow">
+    <div class="ship h-100 w-100 position-relative">
+    </div>
+    <div class="logo d-xl-none d-block">
+        <img src="images/logo%20med.svg">
+    </div>
+    <div class="d-none d-xl-block text-light  logo">
+        <h1 class="oplevelse text-center">
+            Historien
+        </h1>
+        <p class="text-center mt-2">
+            Skræddersyet lige til dig.
+        </p>
+    </div>
+
+</header>
+<!-- test -->
+
 <div class="ship h-100 w-100 position-relative">
     <div class="tekst text-light">
         <h2 class="oplevelse p-2 justify-content-center d-flex">
@@ -48,7 +67,7 @@
 </div>
 
 <div class="ship h-100 w-100 d-sm-block">
-    <img src="images/ship.jpeg" alt="ship" class="h-100 w-100" style="object-fit: cover" ">
+    <img src="images/ship.jpeg" alt="ship" class="h-100 w-100">
 </div>
 
 <div class="container-fluid">

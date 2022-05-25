@@ -19,7 +19,7 @@
                     <a class="nav-link links" href="Booking.php">BOOKING</a>
                 </li>
                 <li class="nav-item p-xl-3">
-                    <a class="nav-link links" href="Selskabslokaler.php">PRIVATE EVENTS</a>
+                    <a class="nav-link links" href="Private%20%20events.php">PRIVATE EVENTS</a>
                 </li>
 
                 <li class="nav justify-content-center p-xl-4">

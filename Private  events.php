@@ -35,7 +35,10 @@
 </header>
 
 <div class="ship h-100 w-100">
-    <img src="images/ship.jpeg" alt="ship" class="h-100 w-100" style="object-fit: cover" ">
+    <img src="images/ship.jpeg" alt="ship" class="h-100 w-100">
+    <div class="icon position-absolute bottom-0 text-center w-100 text-dark">
+        <i class="fa-solid fa-chevron-down fa-2x"></i>
+    </div>
 </div>
 
 <div class="container-fluid flex-column text-center">
