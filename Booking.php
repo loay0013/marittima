@@ -13,8 +13,8 @@
     <link href="css/styles.css" rel="stylesheet" type="text/css">
     <script src="https://kit.fontawesome.com/b7f7f27b49.js" crossorigin="anonymous"></script>
 
-    <link href='fullcalendar/main.css' rel='stylesheet' />
-    <script src='fullcalendar/main.js'></script>
+
+
     <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 
@@ -39,14 +39,9 @@
     </div>
 </header>
 
+<div id="demo-booking-single"></div>
 
-<script>
-    ...
-    var calendar = new FullCalendar.Calendar(calendarEl, {
-        themeSystem: 'bootstrap5'
-    });
-    ...
-</script>
+<script src="js/calendar.js"></script>
 
 
 

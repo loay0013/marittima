@@ -16,7 +16,8 @@ $custom-colors: (
         "btn2":#77A1F2,
   "om": #512639,
         "nav-M":#010000,
-        "news":#A24F53
+        "news":#A24F53,
+        "talfarve2":#B53339
 
 );
 $theme-colors: map-merge($theme-colors, $custom-colors);

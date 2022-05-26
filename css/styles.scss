@@ -68,7 +68,11 @@ img {
   font-family: "Futura PT", "Times New Roman";
   font-weight: lighter;
 }
-
+.w{
+  height: 2px;
+  width: 75%;
+  background-color:#FFFFFF;
+}
 
 
 
@@ -77,7 +81,6 @@ img {
   top: 40%;
   left: 50%;
   transform: translate(-50%, -50%);
-  margin: -312px;
 }
 
 .btn1 {
@@ -86,7 +89,6 @@ img {
   left: 50%;
   transform: translate(-50%, -50%);
   font-family: "Futura PT", sans-serif;
-
 }
 
 .home:hover {
