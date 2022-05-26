@@ -25,7 +25,7 @@
 <header id="hero4" class="container-fluid">
     <div class="overlay"></div>
 
-    <div class="row">
+    <div class="row gx-0">
         <div class="col-12 hero-text text-light text-center">
             <h1 class="oplevelse">Private Events</h1>
             <p class="g-2">Lej vores smukke lokaler til din næste firmafest, fødselsdag eller en privat vinsmagning.</p>
@@ -113,7 +113,113 @@
     </div>
 
 </section>
+<section class="row gx-0 bg-om">
+ <div class="col-md-6">
+        <h2 class="text-light">
+            Priser
+        </h2>
+<div class="row gx-0">
+    <div class="col-6">
+<ul class="text-light">
+    <li>
+        Lokale
+    </li>
+    <li>
+        Bådvagt
 
+    </li>
+    <li>
+        Rengøring
+    </li>
+</ul>
+    </div>
+    <div class="col-6">
+        <ul class="text-light">
+            <li>
+                4200 kr.
+            </li>
+            <li>
+                1850 kr.
+            </li>
+            <li>
+                1850 kr.
+            </li>
+        </ul>
+    </div>
+
+</div>
+        <div class="w"></div>
+
+<div class="row gx-0">
+    <div class="col-6">
+        <ul class="text-light">
+            <li>
+                I alt
+            </li>
+        </ul>
+    </div>
+    <div class="col-6">
+        <ul class="text-light">
+            <li>
+                7900 kr.
+            </li>
+        </ul>
+    </div>
+</div>
+    </div>
+    <div class="col-md-6 bg-light rounded-2">
+        <h2>
+            Sådan booker du
+        </h2>
+        <p>
+            3-step guide
+        </p>
+        <div class="row gx-0">
+            <div class="col-6 bg-talfarve2 rounded-circle">
+
+                    1
+
+            </div>
+            <div class="col-6">
+                <p>
+                    At vero eos et accusam et justo duo dolores et ea rebum.
+                </p>
+            </div>
+
+            <div class="row gx-0">
+                <div class="col-6 bg-talfarve2 rounded-circle">
+                    <p>
+                        1
+                    </p>
+                </div>
+                <div class="col-6">
+                    <p>
+                        At vero eos et accusam et justo duo dolores et ea rebum.
+                    </p>
+                </div>
+
+                <div class="row gx-0">
+                    <div class="col-6 bg-talfarve2 rounded-circle">
+                        <p>
+                            1
+                        </p>
+                    </div>
+                    <div class="col-6">
+                        <p>
+                            At vero eos et accusam et justo duo dolores et ea rebum.
+                        </p>
+                    </div>
+
+        </div>
+
+
+
+
+    </div>
+
+
+
+</section>
 
 
 
