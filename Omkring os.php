@@ -56,19 +56,21 @@
 
 <div class="container-fluid">
     <div class="row p-5 px-4 history">
-        <div class="col-sm-6 text">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium aliquid animi commodi ducimus, exercitationem iste, iure minima, minus nam perferendis qui sapiente sequi sit suscipit tempora totam vitae voluptas voluptatum!
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam aperiam, culpa cupiditate deleniti enim excepturi in libero molestiae nobis obcaecati officia similique veritatis voluptatem? Autem dignissimos esse iusto qui quidem.
-        <br>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium aliquid animi commodi ducimus, exercitationem iste, iure minima, minus nam perferendis qui sapiente sequi sit suscipit tempora totam vitae voluptas voluptatum!
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam aperiam, culpa cupiditate deleniti enim excepturi in libero molestiae nobis obcaecati officia similique veritatis voluptatem? Autem dignissimos esse iusto qui quidem.
+        <div class="col-sm-6">
+            <h6>Det skønne skib, Marittima stammer fra Tyskland i 1958. Der er flere steder på skibet, som er i sin originale stand, såsom plankerne. I sine første ti år sejlede skibet øfart i den tyske del af Vadehavet og til det toldfrie paradis Helgoland.
+                Skibet har været verden rundt, og hvis skibet kunne tale, kunne den fortælle en hel del. I 1987 fik skibet en ny tysk ejer og kom til De Kanariske Øer med spansk flag på masten.
+                <br>
+                Den øverste salon er forlænget to gange, senest i 2005. Af samme ejere, har Marittima de seneste 25 år primært sejlet med turister i sit lokale farvand ved Lübeck og Travemünde ved den tyske Østersø-kyst.
+                <br>
+                Corona lagde hindringer i vejen for skibets turisme, så ejeren satte Marittima til salg. Det er så her, at jeg (Jes), valgte at købe det dejlige skib.
 
             <br>
+            </h6>
         </div>
         <div class="col-sm-6">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus, aliquid autem labore modi mollitia nemo quisquam reiciendis reprehenderit vel voluptatibus. Ad dolores illum totam. Eligendi id natus nobis odio quidem.
+           <h6> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus, aliquid autem labore modi mollitia nemo quisquam reiciendis reprehenderit vel voluptatibus. Ad dolores illum totam. Eligendi id natus nobis odio quidem.
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet consequatur corporis culpa delectus deserunt facere in iste nemo praesentium similique tenetur, velit vero voluptatem! Aperiam assumenda est reprehenderit temporibus veniam!
-        </div>
+           </h6></div>
     </div>
 </div>
 
@@ -78,14 +80,14 @@
         <h4 class="overskrift p-3">TEAMET BAG MARITTIMA</h4>
         <div class="col-md-12  d-flex row justify-content-center">
             <div class="card bg-om col-md-6 p-2 border-0" style="width: 18rem;">
-                <h4 class="card-title">JES</h4>
+                <h4 class="card-title">JES JONIGK</h4>
                 <div class="d-flex justify-content-center">
                 <img src="images/jes.png" class="card-img-top rounded-circle bg-om w-50" alt="..."></div>
                 <div class="card-body">
-                    <p class="card-text text-start">TEKST OM JES. TEKST OM JES. TEKST OM JES. TEKST OM JES. TEKST OM JES. TEKST OM JES. </div>
+                    <p class="card-text text-start">JTEKST OM JES. TEKST OM JES. TEKST OM JES. TEKST OM JES. TEKST OM JES. TEKST OM JES. </div>
             </div>
             <div class="card bg-om  col-md-6 p-2 border-0" style="width: 18rem;">
-                <h4 class="card-title text-center">GITTE</h4>
+                <h4 class="card-title text-center">GITTE HAAHR FORNITZ</h4>
                 <div class="justify-content-center d-flex">
                 <img src="images/jes.png" class="card-img-top rounded-circle bg-om w-50" alt="..."></div>
                 <div class="card-body">

@@ -9,6 +9,7 @@
     <meta name="author" content="Udgiver">
     <meta name="copyright" content="Information om copyright">
 
+    <link rel='icon' href='images/logosortudenslogan%20.svg' type='image/x-icon' sizes="40x40" />
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
     <link href="css/styles.css" rel="stylesheet" type="text/css">
     <script src="https://kit.fontawesome.com/b7f7f27b49.js" crossorigin="anonymous"></script>
@@ -31,7 +32,7 @@
         </div>
     </div>
     <div class="icon position-absolute bottom-0 text-center w-100 text-light">
-        <i class="fa-solid fa-chevron-down fa-2x"></i>
+        <i class="fa-solid fa-chevron-down fa-2x p-3"></i>
     </div>
 </header>
 <section class="row gx-0 ">
@@ -67,7 +68,7 @@
 
 
     <div class="col-md-6 order-md-2">
-        <h2>Mad</h2>
+        <h2 class="p-3">Mad</h2>
         <div class="mt-3 p-3 vino-tekst">
         <p>
 
@@ -93,8 +94,8 @@
 </section>
 
 <section class="row gx-0 historie-læsmere">
-    <div class="col-md-6">
-        <h2>Drikke</h2>
+    <div class="col-md-6 p-4">
+        <h2 class="mx-3">Drikke</h2>
         <div  class="mt-3 p-3 vino-tekst">
         <p>
             Hos Marittima ønsker vi at skabe en god oplevelse for hele familien.
@@ -108,7 +109,7 @@
         </p>
     </div>
         <div class="mb-3  p-3">
-            <a class="btn btn-btn1 rounded-0" href="#">SE VINKORT</a>
+            <a class="btn btn-btn1 rounded-0" href="images/Marittima%20-%20vinkort'.pdf" download="">SE VINKORT</a>
         </div>
     </div>
 
@@ -119,12 +120,12 @@
 </section>
 <section class="row gx-0 bg-om">
  <div class="col-md-6">
-        <h2 class="text-light">
+        <h2 class="text-light p-5 text-center">
             Priser
         </h2>
 <div class="row gx-0">
     <div class="col-6">
-<ul class="text-light">
+<ul class="text-light text-center me-5 -5 list-unstyled">
     <li>
         Lokale
     </li>
@@ -137,8 +138,8 @@
     </li>
 </ul>
     </div>
-    <div class="col-6">
-        <ul class="text-light">
+    <div class="col-6 text-center ">
+        <ul class="text-light list-unstyled">
             <li>
                 4200 kr.
             </li>
@@ -152,18 +153,18 @@
     </div>
 
 </div>
-        <div class="w"></div>
+        <div class="w "></div>
 
 <div class="row gx-0">
     <div class="col-6">
-        <ul class="text-light">
+        <ul class="text-light text-center list-unstyled">
             <li>
                 I alt
             </li>
         </ul>
     </div>
     <div class="col-6">
-        <ul class="text-light">
+        <ul class="text-light list-unstyled">
             <li>
                 7900 kr.
             </li>
@@ -171,14 +172,14 @@
     </div>
 </div>
     </div>
-    <div class="col-md-6 bg-light rounded-2">
-        <h2>
+    <div class="col-md-6 bg-light rounded-2 ">
+        <h2 class="text-center p-5">
             Sådan booker du
         </h2>
-        <p>
+        <p class="text-center">
             3-step guide
         </p>
-        <div class="row gx-0">
+        <div class="row gx-0 p-5">
             <div class="col-6 bg-talfarve2 rounded-circle">
 
                     1
