@@ -61,7 +61,11 @@
 </section>
 
 <section class="row gx-0 historie-læsmere">
-    <div class="col-md-6">
+
+
+
+
+    <div class="col-md-6 order-md-2">
         <h2>Mad</h2>
         <p class="mt-3 p-3 vino-tekst">
             Hos Marittima ønsker vi at skabe en god oplevelse for hele familien.
@@ -79,7 +83,7 @@
         </div>
     </div>
 
-    <div class="col-md-6">
+    <div class="col-md-6 order-md-1">
         <img class="img-fluid w-100" src="images/Mad-img.png" alt="vin">
     </div>
 
@@ -109,6 +113,11 @@
     </div>
 
 </section>
+
+
+
+
+
 
 
 <?php include "includes/footer.php";?>
