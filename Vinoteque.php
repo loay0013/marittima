@@ -33,11 +33,11 @@
     </div>
 
     <div class="icon position-absolute bottom-0 text-center w-100 text-light">
-        <i class="fa-solid fa-chevron-down fa-2x"></i>
+		<a class="text-light" href="#Vinoteque"><i class="fa-solid fa-chevron-down fa-2x"></i></a>
     </div>
 </header>
 
-<section class="row gx-0 ">
+<section id="Vinoteque" class="row gx-0 ">
     <div class="col-md-6 pt-4">
     <p class="text-center">
         idéen bag

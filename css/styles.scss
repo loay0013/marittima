@@ -55,9 +55,11 @@ img {
   height: 100%;
   width: 100%;
   object-fit: cover;
-  z-index: -1;
 }
 
+.button-forside {
+  z-index: 2;
+}
 
 .contact {
   font-family: "Source Sans Pro", "Times New Roman";
@@ -89,6 +91,7 @@ img {
   left: 50%;
   transform: translate(-50%, -50%);
   font-family: "Futura PT", sans-serif;
+  z-index: 2;
 }
 
 .home:hover {
@@ -120,8 +123,12 @@ p.idea {
   letter-spacing: 2px;
   font-size: 14px;
   font-family: "Futura PT", sans-serif;
-
 }
+
+.links:hover {
+  color: #B53339;
+}
+
 #hero {
   display: grid;
   place-content: center;

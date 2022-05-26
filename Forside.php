@@ -39,21 +39,21 @@
         </p>
     </div>
     <div class="btn1 m-2 ">
-        <a class="btn-minFarve btn  btn-btn1   d-flex justify-content-center rounded-0 " href="Booking.php">
+        <a class="button-forside btn  btn-btn1   d-flex justify-content-center rounded-0 " href="Booking.php">
             <p>LAV EN RESERVATION</p>
         </a>
-        <a class="btn btn-minFarve btn-btn1  d-flex mt-3 justify-content-center rounded-0" href="#Tid">
+        <a class="button-forside btn btn-btn1  d-flex mt-3 justify-content-center rounded-0" href="#Tid">
             <p>ÅBNINGSTIDER</p>
         </a>
     </div>
 
     <div class="icon position-absolute bottom-0 text-center w-100 text-light">
-        <i class="fa-solid fa-chevron-down fa-2x p-3"></i>
+		<a href="#Forside" class="text-light"><i class="fa-solid fa-chevron-down fa-2x p-3"></i></a>
     </div>
 </header>
 
 
-<section class="row gx-0 historie-læsmere">
+<section id="Forside" class="row gx-0 historie-læsmere">
     <div class="col-md-6">
         <div class="d-flex justify-content-center mt-3">
             <img class=" d-flex justify-content-center w-25 mt-3 " src="images/logosortudenslogan%20.svg">

@@ -11,6 +11,7 @@
 
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
     <link href="css/styles.css" rel="stylesheet" type="text/css">
+    <link href="css/Kalender.css" rel="stylesheet" type="text/css">
     <script src="https://kit.fontawesome.com/b7f7f27b49.js" crossorigin="anonymous"></script>
 
 
@@ -20,9 +21,12 @@
 
 <body class="h-100">
 
+
 <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
 
+
 <?php include "includes/nav.php";?>
+
 
 <header id="hero" class="container-fluid">
     <div class="overlay"></div>
@@ -39,7 +43,29 @@
     </div>
 </header>
 
-<div id="demo-booking-single"></div>
+<div class="container">
+	<div class="calendar">
+		<div class="month">
+			<i class="fas fa-angle-left prev"></i>
+			<div class="date">
+				<h1 class="calendar-text"></h1>
+				<p></p>
+			</div>
+			<i class="fas fa-angle-right next"></i>
+		</div>
+		<div class="weekdays">
+			<div>Søn</div>
+			<div>Man</div>
+			<div>Tirs</div>
+			<div>Ons</div>
+			<div>Tors</div>
+			<div>Fre</div>
+			<div>Lør</div>
+		</div>
+		<div class="days"></div>
+	</div>
+</div>
+
 
 <script src="js/calendar.js"></script>
 
