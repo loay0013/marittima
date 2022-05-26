@@ -11,7 +11,6 @@
 
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
     <link href="css/styles.css" rel="stylesheet" type="text/css">
-
     <script src="https://kit.fontawesome.com/b7f7f27b49.js" crossorigin="anonymous"></script>
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -43,7 +42,8 @@
         <h2 class="text-center">
             Information
         </h2>
-        <p class="p-3">
+        <div class="mt-3 p-3 vino-tekst">
+        <p>
             Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
 
             At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
@@ -53,6 +53,7 @@
             At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
         </p>
+        </div>
     </div>
 
     <div class="col-md-6">
@@ -67,7 +68,9 @@
 
     <div class="col-md-6 order-md-2">
         <h2>Mad</h2>
-        <p class="mt-3 p-3 vino-tekst">
+        <div class="mt-3 p-3 vino-tekst">
+        <p>
+
             Hos Marittima ønsker vi at skabe en god oplevelse for hele familien.
 
             Marittima blev skabt ud fra drømmen om en vinbar. Historien bag Marius Mortensen går hånd i hånd med Skibet
@@ -77,7 +80,7 @@
             bølgen blå, med den synlige solnedgang ud af vinduet, lige før den når halvvejs under horisonten.
 
         </p>
-
+    </div>
         <div class="mb-3  p-3">
             <a class="btn btn-btn1 rounded-0" href="#">SE ANBEFALINGER</a>
         </div>
@@ -92,7 +95,8 @@
 <section class="row gx-0 historie-læsmere">
     <div class="col-md-6">
         <h2>Drikke</h2>
-        <p class="mt-3 p-3 vino-tekst">
+        <div  class="mt-3 p-3 vino-tekst">
+        <p>
             Hos Marittima ønsker vi at skabe en god oplevelse for hele familien.
 
             Marittima blev skabt ud fra drømmen om en vinbar. Historien bag Marius Mortensen går hånd i hånd med Skibet
@@ -102,7 +106,7 @@
             bølgen blå, med den synlige solnedgang ud af vinduet, lige før den når halvvejs under horisonten.
 
         </p>
-
+    </div>
         <div class="mb-3  p-3">
             <a class="btn btn-btn1 rounded-0" href="#">SE VINKORT</a>
         </div>
