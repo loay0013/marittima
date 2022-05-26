@@ -69,7 +69,7 @@
 <!--- Casino --->
 
 <section class="row gx-0 casino-night">
-    <div class="col-md-6 order-lg-2">
+    <div class="col-md-6 order-md-2">
         <h2 class="text-center mt-5">Private Arrangementer</h2>
         <p class="mt-4 p-3 wine-text">
             Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
