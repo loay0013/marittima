@@ -35,9 +35,80 @@
         <i class="fa-solid fa-chevron-down fa-2x"></i>
     </div>
 </header>
+<section class="row gx-0 ">
+    <div class="col-md-6 pt-4">
+        <p class="text-center">
+            praktisk
+        </p>
+        <h2 class="text-center">
+            Information
+        </h2>
+        <p class="p-3">
+            Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
 
+            At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
 
+            At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
+            At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+
+        </p>
+    </div>
+
+    <div class="col-md-6">
+        <img class="w-100 h-100" src="images/Private-img1.png">
+    </div>
+</section>
+
+<section class="row gx-0 historie-læsmere">
+    <div class="col-md-6">
+        <h2>Mad</h2>
+        <p class="mt-3 p-3 vino-tekst">
+            Hos Marittima ønsker vi at skabe en god oplevelse for hele familien.
+
+            Marittima blev skabt ud fra drømmen om en vinbar. Historien bag Marius Mortensen går hånd i hånd med Skibet
+            Marittima, og fører den næste generations historie videre.
+
+            Folk der har været på skibet vil være i stand til at kunne fortælle om historier om dengang de holdt fest på
+            bølgen blå, med den synlige solnedgang ud af vinduet, lige før den når halvvejs under horisonten.
+
+        </p>
+
+        <div class="mb-3  p-3">
+            <a class="btn btn-btn1 rounded-0" href="#">SE ANBEFALINGER</a>
+        </div>
+    </div>
+
+    <div class="col-md-6">
+        <img class="img-fluid w-100" src="images/Mad-img.png" alt="vin">
+    </div>
+
+</section>
+
+<section class="row gx-0 historie-læsmere">
+    <div class="col-md-6">
+        <h2>Drikke</h2>
+        <p class="mt-3 p-3 vino-tekst">
+            Hos Marittima ønsker vi at skabe en god oplevelse for hele familien.
+
+            Marittima blev skabt ud fra drømmen om en vinbar. Historien bag Marius Mortensen går hånd i hånd med Skibet
+            Marittima, og fører den næste generations historie videre.
+
+            Folk der har været på skibet vil være i stand til at kunne fortælle om historier om dengang de holdt fest på
+            bølgen blå, med den synlige solnedgang ud af vinduet, lige før den når halvvejs under horisonten.
+
+        </p>
+
+        <div class="mb-3  p-3">
+            <a class="btn btn-btn1 rounded-0" href="#">SE VINKORT</a>
+        </div>
+    </div>
+
+    <div class="col-md-6">
+        <img class="img-fluid w-100" src="images/Vinkort-img.png" alt="vin">
+    </div>
+
+</section>
 
 
 <?php include "includes/footer.php";?>
