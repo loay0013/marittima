@@ -83,11 +83,8 @@
 
         </p>
     </div>
-        <div class="mb-3  p-3">
-            <a class="btn btn-btn1 rounded-0" download="" href="images/Marittimas%20madvenner.pdf">SE ANBEFALINGER</a>
         <div class="px-3">
-            <a class="btn btn-btn1 rounded-0" href="#">SE ANBEFALINGER</a>
-        </div>
+            <a class="btn btn-btn1 rounded-0" download="" href="images/Marittimas%20madvenner.pdf">SE ANBEFALINGER</a>
     </div>
 
     <div class="col-md-6 order-md-1">
@@ -108,12 +105,10 @@
 
             Folk der har været på skibet vil være i stand til at kunne fortælle om historier om dengang de holdt fest på
             bølgen blå, med den synlige solnedgang ud af vinduet, lige før den når halvvejs under horisonten.
-
         </p>
     </div>
-        <div class="mb-3  p-3">
-            <a class="btn btn-btn1 rounded-0" href="images/Marittimas%20vinkort.pdf" download="">SE VINKORT</a>
-        <div >
+
+        <div>
             <a class="btn btn-btn1 rounded-0" href="images/Marittima%20-%20vinkort'.pdf" download="">SE VINKORT</a>
         </div>
     </div>
