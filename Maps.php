@@ -40,14 +40,16 @@
 
 
 <section class="row m-0 maps pt-5">
-    <div class="p-3 col-md-4">
-        <h2 class="text-center">
-            Rutevejledning
-        </h2>
-        <div class="d-flex justify-content-center p-3">
-        <a href="https://goo.gl/maps/yxyHgbNWRJra5FMS9" class="btn-btn2 border-0 text-light p-2 px-2 py-2 text-center  w-50 link-light text-decoration-none ">MAPS</a></div>
-    </div>
-
+	<div class="p-3 col-md-4">
+		<h2 class="text-center">
+			Adresse
+		</h2>
+		<p class="little-map text-center p-3">
+			Strandvejen 28
+			<br>
+			4800 Nykøbing Falster
+		</p>
+	</div>
     <div class="p-3 col-md-4">
     <h2 class="text-center">
         Hvor er vi?
@@ -57,16 +59,13 @@
             vi befinder os.
         </p>
     </div>
-    <div class="p-3 col-md-4">
-        <h2 class="text-center">
-            Adresse
-        </h2>
-        <p class="little-map text-center p-3">
-            Strandvejen 28
-            <br>
-            4800 Nykøbing Falster
-        </p>
-    </div>
+	<div class="p-3 col-md-4">
+		<h2 class="text-center">
+			Rutevejledning
+		</h2>
+		<div class="d-flex justify-content-center p-3">
+			<a href="https://goo.gl/maps/yxyHgbNWRJra5FMS9" class="btn-btn2 border-0 text-light p-2 px-2 py-2 text-center  w-50 link-light text-decoration-none ">MAPS</a></div>
+	</div>
 
 </section>
 
