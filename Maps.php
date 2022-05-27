@@ -23,7 +23,7 @@
 
 <?php include "includes/nav.php";?>
 
-<header id="hero2" class="container-fluid">
+<header id="hero7" class="container-fluid">
     <div class="overlay"></div>
 
     <div class="row">

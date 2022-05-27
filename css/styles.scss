@@ -178,8 +178,8 @@ p.idea {
     background-color: rgba(0, 0, 0, .5);
     z-index: -1;
   }
-
 }
+
 #hero3{
   display: grid;
   place-content: center;
@@ -212,8 +212,28 @@ p.idea {
     background-color: rgba(0, 0, 0, .5);
     z-index: -1;
   }
-
 }
+
+#hero7{
+  background-position: center;
+  background-repeat: no-repeat;
+  display: grid;
+  place-content: center;
+  z-index: -1;
+  position: relative;
+  background-image: url(../images/pexels-kursat-akkoyunlu-3800181.jpg);
+  background-size: cover;
+  height: 100%;
+  .overlay{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, .5);
+    z-index: -1;
+  }
+}
+
+
 
 .maps{
   font-family: "Futura PT", sans-serif;
