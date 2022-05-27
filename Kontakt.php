@@ -58,7 +58,7 @@
 				<label for="message" class="label-kontakt">besked</label>
 			</div>
 			<div class="form-field-kontakt col-lg-12 d-flex">
-				<input class="submit-btn" type="submit" value="send" name="Send">
+				<input class="submit-btn bg-btn1" type="submit" value="send" name="Send">
 			</div>
 		</div>
 	</div>
