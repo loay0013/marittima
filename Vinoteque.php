@@ -37,30 +37,28 @@
     </div>
 </header>
 
-<section id="Vinoteque" class="row gx-0 ">
-    <div class="col-md-6 pt-4">
-    <p class="text-center">
-        idéen bag
-    </p>
-    <h2 class="text-center">
-        Konceptet
-    </h2>
-    <p class="p-3">
-        Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
-
-        At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
-
-        At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-
-        At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-
-    </p>
+<section class="row gx-0">
+    <div class="col-md-6 order-2 order-lg-1">
+        <img class="img-fluid w-100" src="images/vinteq-img6.png">
     </div>
-
-    <div class="col-md-6">
-        <img class="w-100 h-100" src="images/vinoteque-img1.png">
+    <div class="col-md-6 order-1 order-lg-2 pt-4">
+        <p class="text-center">
+            vi serverer
+        </p>
+        <h3 class="text-center">
+            ØL & DRINKS
+        </h3>
+        <p class="p-3">
+            På Marittima serverer vi også øl og drinks.<br>
+            Vi serverer stolt øl fra Krenkerup Bryggeri, <br>
+            som er blevet kåret til Europas bedste øl hele 6 gange.<br>
+            Vi serverer også drinks som Gammel have, Gin Hass og Screwdriver<br>
+            som er blandet efter vores helt egne opskrifter.
+        </p>
     </div>
 </section>
+
+
 
 <section class="bg-background1">
     <div class="text-center pt-4">
@@ -78,7 +76,8 @@
                 Leverandøren
             </h2>
             <p class="p-3">
-                Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
+                Alt alkohol kommer fra vores vinhandel  Marius Mortensen, som er et af verdens ældste vinhandlere,<br>
+                som har solgt vin siden 1865.
             </p>
             <div class="d-flex justify-content-center">
             <img src="images/vinteq-img2.png"></div>
@@ -88,8 +87,7 @@
                 Druerne
             </h2>
             <p class="p-3">
-                Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
-
+                Druerne er specielt plukket med udgangspunkt i at opnå den bedste vin muligt, det gælder lige fra sorten til sødmen til syrligheden.
             </p>
             <div class="d-flex justify-content-center">
                 <img src="images/vinteq-img3.png"></div>
@@ -100,39 +98,43 @@
                 Udvalget
             </h2>
             <p class="p-3">
-                Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
-            </p>
+                Vinoteque Marittima har et udvalg på hel 85 forskellige vin, som kommer overalt fra kloden af. Vi kan byde jer lige på den vin som bedst tilfredsstiller jer og mere til.            </p>
             <div class="d-flex justify-content-center">
                 <img src="images/vinteq-img4.png"></div>
         </div>
 
     </div>
 </section>
-
-
-
-<section class="row gx-0">
-<div class="col-md-6 order-2 order-lg-1">
-    <img class="img-fluid w-100" src="images/vinteq-img6.png">
-</div>
-    <div class="col-md-6 order-1 order-lg-2 pt-4">
+<section id="Vinoteque" class="row gx-0 ">
+    <div class="col-md-6 pt-4">
         <p class="text-center">
-            vi serverer også
+            idéen bag
         </p>
-        <h3 class="text-center">
-            ØL & DRINKS
-        </h3>
+        <h2 class="text-center">
+            Konceptet
+        </h2>
         <p class="p-3">
-            Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
+            Hos Marittima ønsker vi at skabe en god oplevelse for hele familien.
 
-            Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
+            Marittima blev skabt ud fra drømmen om en vinbar.
 
-            Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
+            Historien bag Marius Mortensen går hånd i hånd med Skibet Marittima, og fører den næste generations historie videre.
 
-            Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
+            Folk der har været på skibet vil være i stand til at kunne fortælle om historier om dengang de holdt fest på bølgen blå,
+
+            med den synlige solnedgang ud af vinduet, lige før den når halvvejs under horisonten.
+
+
         </p>
     </div>
+
+    <div class="col-md-6">
+        <img class="w-100 h-100" src="images/vinoteque-img1.png">
+    </div>
 </section>
+
+
+
 
 
 

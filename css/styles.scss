@@ -10,7 +10,7 @@ h1 {
   margin: 0;
   padding: 0;
   font-family: "Anjelina Modern Calligraphy", sans-serif;
-  font-size: 73px;
+  font-size: 100px;
 }
 
 h2{
@@ -29,10 +29,9 @@ li {
 }
 
 p {
-  margin: 0;
-  padding: 0;
-  font-family: "Open Sans",sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 16px;
+  line-height: 26px;
 }
 
 
@@ -232,10 +231,7 @@ p.idea {
   font-family: "futura pt", sans-serif;
 }
 
-.historie-læsmere{
-  font-family: "futura pt", sans-serif;
-  font-size: 18px;
-}
+
 
 .days, .time{
   font-family: "futura pt", sans-serif;
@@ -281,12 +277,6 @@ p.idea {
 h2{
   font-family: "Futura PT", sans-serif;
   font-size: 35px;
-}
-
-p{
-  font-family: "Open Sans", sans-serif;
-  font-size: 16px;
-  font-weight: normal;
 }
 
 .wine{

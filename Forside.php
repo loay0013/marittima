@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
 
-    <title>Marittima</title>
+    <title>Marittima-Forside</title>
 
     <meta name="robots" content="All">
     <meta name="author" content="Udgiver">
@@ -31,7 +31,7 @@
         <img src="images/logo%20med.svg">
     </div>
     <div class="d-none d-xl-block text-light logo">
-        <h1 class="oplevelse text-center">
+        <h1 class="text-center">
             En unik oplevelse
         </h1>
         <p class="text-center mt-2">
@@ -53,12 +53,12 @@
 </header>
 
 
-<section id="Forside" class="row gx-0 historie-læsmere">
+<section id="Forside" class="row gx-0">
     <div class="col-md-6">
         <div class="d-flex justify-content-center mt-3">
             <img class=" d-flex justify-content-center w-25 mt-3 " src="images/logosortudenslogan%20.svg">
         </div>
-        <p class="mt-3 p-3 vino-tekst">
+        <p class="mt-3 p-3 ">
             Hos Marittima ønsker vi at skabe en god oplevelse for hele familien.
 
             Marittima blev skabt ud fra drømmen om en vinbar. Historien bag Marius Mortensen går hånd i hånd med Skibet
@@ -79,31 +79,22 @@
     </div>
 </section>
 
-<section class="row gx-0 historie-læsmere">
-    <div class="col-md-6 order-lg-2">
+<section class="row gx-0">
+    <div class="col-md-6 order-md-2">
         <h2 class="text-center mt-4">Private Arrangementer</h2>
-        <p class="mt-3 p-3 vino-tekst">
-            Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
-            dolore magna aliquyam erat, sed diam voluptua.
-
-            At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus
-            est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-            eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
-
-            At vero eos et accusam et justo duo dolores et ea
-            lorem.
-
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet animi aspernatur autem blanditiis commodi, deleniti dignissimos dolorum hic illo ipsum molestiae, mollitia non nulla officia perferendis quasi tempore tenetur veritatis!
-
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem dolore porro reiciendis! Animi atque, dolorem dolores molestias officia vel vero voluptas! Animi beatae dolorem dolores libero recusandae! Odit tenetur, vitae.
+        <p class="mt-3 p-3 ">
+            På skibet Marittima har vi et selskabsdæk som kan rumme op til 70 personer.
+            Dækket lejes ud om weekenden til private arrangementer.
+            Så hvis i har brug for et sted at holde konfirmation, bryllupsdag eller fødselsdag,
+            så er vi altid klar til at byde jer velkommen ombord.
         </p>
 
         <div class="mb-3 p-3">
-            <a class="btn btn-btn1 rounded-0" href="Omkring%20os.php">LÆS MERE</a>
+            <a class="btn btn-btn1 rounded-0" href="Booking.php">LÆS MERE</a>
         </div>
     </div>
 
-    <div class="col-md-6 order-lg-1 ">
+    <div class="col-md-6 order-md-1 ">
         <img class="w-100" src="images/w-vin.png" alt="vin2">
     </div>
 
