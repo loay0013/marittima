@@ -54,12 +54,10 @@
         <div class="d-flex justify-content-center mt-3"></div>
         <h2 class="text-center mt-5">Vinsmagning</h2>
         <p class="mt-4 p-3 pb-0 mx-md-5 wine-text">
-			Vi byder jer velkommen til en exceptionel aften med vores fantastiske vine fra flere forskellige distrikter i hele
-			Europa.
-			<br><br>
-			Sæt et kryds i kalenderen til vores vinsmagning eller lej et lokale til dit team, familie eller venner for
-			en mere privat oplevelse, men dog er dette ikke et must.
-			Kom med på båden Marittima og nyd en festlig aften med dine nærmeste i smukke omgivelser.
+			Glæd dig til denne aften.
+			Flere og flere interesserer sig for vin - ikke bare at drikke, men at nyde, smage, lære og kunne tale om.<br><br>
+			Vi skal smage et bredt udvalg af både hvid- & rødvine fra b.la områder som Chile, Abruzzi, Italien og Bordeaux,
+			Frankrig.<br><br>Der vil blive lavet en special menu af delikate snacks og tapas, som får det bedste frem i vinene.
 		</p>
     </div>
 
@@ -75,12 +73,10 @@
     <div class="col-md-6 mb-5 order-md-2 my-md-5">
         <h2 class="text-center mt-5">Casino-aften</h2>
         <p class="mt-4 p-3 mx-md-5 wine-text">
-			Drømmen om den store gevinst har vi alle.
-			Som noget helt nyt, afholder Marittima en casino-aften for alle over 18+.
-			<br><br>
-			Marittima tilbyder de helt klassiske spil
-			såsom Texas Hold'em, Blackjack og Roulette. Nyd en flaske god vin eller supplér med vores fantastiske cocktails i
-			kombination med hygge og hazardspil, så sørger vi for at du får en uforglemmelig aften.
+			Et casino event er et festligt valg som tema til firmafest, kundearrangement eller som underholdning til
+			polterabend eller private arrangementer.<br><br>
+			Marittima tilbyder et ægte og skræddersyet casino til jeres næste arrangement, hvor I vil opleve en ægte casino
+			stemning, med et twist af de maritime omgivelser, og vinde flotte præmier.
         </p>
     </div>
 
@@ -97,13 +93,11 @@
         <div class="d-flex justify-content-center mt-3"></div>
         <h2 class="text-center mt-5">Live-musik</h2>
         <p class="mt-3 p-3 mx-md-5 wine-text">
-			Har du lyst til en mere rolig aften med venner og familie?
-			Så kom ombord og nyd musikken.
-			<br><br>
-			Vi afholder flere
-			forskellige aftener med dygtige musikere, der brænder for at give dig en aften med gode vibes. Vi sørger for at du
-			selvfølgelig får det bedste serveret hertil. Så tag dine venner eller veninder under armen og kom ombord på
-			Marittima, og lad musikken og fællesskabet blive en del af en herlig aften.
+			Vi samler folk til en skøn aften til tonerne fra en live optræden. For der er intet bedre end at samles til live
+			musik i venners selskab med et godt glas vin i hånden.<br><br>
+			Vi har nogle super dygtige musikere på plakaten, og de glæder sig alle til at dele deres nedskrevne historier med
+			jer. Vi ses til en hyggelig aften med god musik - og mon ikke der er plads til at svinge træbenet også.
+
 		</p>
     </div>
 
