@@ -97,7 +97,8 @@
         <div class="d-flex justify-content-center mt-3"></div>
         <h2 class="text-center mt-5">Live-musik</h2>
         <p class="mt-3 p-3 mx-md-5 wine-text">
-			Har du lyst til en mere rolig aften med venner og familie? Så kom ombord og nyd musikken.
+			Har du lyst til en mere rolig aften med venner og familie?
+			Så kom ombord og nyd musikken.
 			<br><br>
 			Vi afholder flere
 			forskellige aftener med dygtige musikere, der brænder for at give dig en aften med gode vibes. Vi sørger for at du

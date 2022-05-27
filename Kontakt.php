@@ -27,50 +27,45 @@
 
 <header id="hero2" class="container-fluid">
     <div class="overlay"></div>
-
     <div class="row">
         <div class="col-12 hero-text text-light text-center">
             <h1 class="oplevelse">Kontakt os</h1>
             <p class="g-2">Kom nemt i kontakt med os her</p>
         </div>
     </div>
+
+
     <div class="icon position-absolute bottom-0 text-center w-100 text-light">
         <i class="fa-solid fa-chevron-down fa-2x p-3"></i>
     </div>
 </header>
-<section>
-    <div class="text-center p-3">
-        <h2 class="contact-us">
-            Kontakt os her
-        </h2>
-    </div>
+
+
+<section class="kontakt_os">
+	<h1 class="title-contact fs-3">Kontakt os</h1>
+	<div class="container-contact">
+		<div class="contact-form-kontakt row">
+			<div class="form-field-kontakt col-lg-6">
+				<input id="name" class="input-text-kontakt" type="text" name="">
+				<label for="name" class="label-kontakt">navn</label>
+			</div>
+			<div class="form-field-kontakt col-lg-6">
+				<input id="email" class="input-text-kontakt" type="email" name="">
+				<label for="email" class="label-kontakt">email</label>
+			</div>
+			<div class="form-field-kontakt col-lg-12">
+				<input id="message" class="input-text-kontakt" type="text" name="">
+				<label for="message" class="label-kontakt">besked</label>
+			</div>
+			<div class="form-field-kontakt col-lg-12 d-flex">
+				<input class="submit-btn" type="submit" value="send" name="Send">
+			</div>
+		</div>
+	</div>
 </section>
 
 
-<section>
-    <div class="d-flex justify-content-center p-5">
-        <form action="mailto:#" method="post" enctype="text/plain" class="smalltext">
-            <div class="pb-3">
 
-                <input class="border-1 p-2" id="Name" name="Navn" type="text" placeholder="Navn">
-            </div>
-
-            <div class="pb-3" >
-
-                <input class="border-1 p-2" id="email" name="email" type="email" placeholder="Email">
-            </div>
-            <div class="pb-3" >
-
-                <textarea class="border-1 p-2"  rows="5" id="besked" name="besked" placeholder="Besked" ></textarea>
-            </div>
-
-            <div class="d-flex pb-3">
-                <input   type="submit"  value="Send" class="d-flex btn-btn1 border-1 px-3">
-
-            </div>
-        </form>
-    </div>
-</section>
 
 
 <?php include "includes/footer.php";?>
