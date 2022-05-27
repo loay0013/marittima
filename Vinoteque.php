@@ -27,7 +27,7 @@
 
     <div class="row gx-0">
         <div class="col-12 hero-text text-light text-center">
-            <h1 class="oplevelse">Vinoteque</h1>
+            <h1>Vinoteque</h1>
             <p class="g-2">Vin er vores speciale</p>
         </div>
     </div>
