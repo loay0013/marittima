@@ -39,7 +39,8 @@
         <div class="col-12 text-center">
             <h2 class="mt-5 mb-0">Events & Arrangementer</h2>
             <h3 class="mt-2">Båden egne begivenheder</h3>
-            <p class="info-text mt-5">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. </p>
+            <p class="info-text mt-5">På båden Marittima vil der blive afholdt forskellige arrangementer, som kommer til at foregå på bådens nedre dæk. Arrangementerne kan f.eks. være en casino-aften, live musik eller en vinsmagning af nye vin som vi får igennem vinhandlen Marius Mortensen
+			</p>
         </div>
     </div>
 </div>
@@ -52,13 +53,11 @@
     <div class="col-md-6">
         <div class="d-flex justify-content-center mt-3"></div>
         <h2 class="text-center mt-5">Vinsmagning</h2>
-        <p class="mt-4 p-3 pb-0 wine-text">
-            Hos Marittima ønsker vi at skabe en god oplevelse for hele familien.<br>
-            Marittima blev skabt ud fra drømmen om en vinbar. Historien bag Marius Mortensen går hånd i hånd med Skibet
-            Marittima, og fører den næste generations historie videre.<br><br>
-            Folk der har været på skibet vil være i stand til at kunne fortælle om historier om dengang de holdt fest på
-            bølgen blå, med den synlige solnedgang ud af vinduet, lige før den når halvvejs under horisonten.
-        </p>
+        <p class="mt-4 p-3 pb-0 mx-5 wine-text">
+			Vi byder jer velkommen om bord fredag den 15. juli kl. 17:00 til en hyggelig vinsmagning på Vinoteque Marittima.
+			Vinsmagningen vil bestå af 8 vine specielt udvalgt af vinhandlen Marius Mortensen.
+			Skriv gerne til os hvis i er interesseret på mail: vinoteque-m@rius.dk
+		</p>
     </div>
 
     <div class="col-md-6">
