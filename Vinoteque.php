@@ -48,7 +48,7 @@
         <h3 class="text-center">
             ØL & DRINKS
         </h3>
-        <p class="p-3">
+        <p class="mx-3 pt-3">
             På Marittima serverer vi også øl og drinks.<br>
             Vi serverer stolt øl fra Krenkerup Bryggeri, <br>
             som er blevet kåret til Europas bedste øl hele 6 gange.<br>
@@ -71,7 +71,7 @@
     </div>
 
     <div class="row gx-0">
-        <div class="col-md-4 pt-4">
+        <div class="col-md-4 pt-4 d-flex flex-column justify-content-center align-items-start">
             <h2 class="p-3">
                 Leverandøren
             </h2>
@@ -82,7 +82,7 @@
             <div class="d-flex justify-content-center">
             <img src="images/vinteq-img2.png"></div>
         </div>
-        <div class="col-md-4 pt-4">
+        <div class="col-md-4 pt-4 d-flex flex-column justify-content-center align-items-start">
             <h2 class="p-3">
                 Druerne
             </h2>
@@ -92,7 +92,7 @@
             <div class="d-flex justify-content-center">
                 <img src="images/vinteq-img3.png"></div>
         </div>
-        <div class="col-md-4 pt-4">
+        <div class="col-md-4 pt-4 d-flex flex-column justify-content-center align-items-start">
 
             <h2 class="p-3">
                 Udvalget

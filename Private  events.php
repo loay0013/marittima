@@ -182,10 +182,8 @@
             3-step guide
         </p>
         <div class="row gx-0 p-3">
-            <div class="col-6 bg-talfarve2 rounded-circle">
-
-                    1
-
+            <div class="col-6">
+                 <img src="images/cir1.svg">
             </div>
             <div class="col-6">
                 <p>
@@ -194,10 +192,8 @@
             </div>
 
             <div class="row gx-0">
-                <div class="col-6 bg-talfarve2 rounded-circle">
-                    <p>
-                        1
-                    </p>
+                <div class="col-6">
+                   <img src="images/cir2.svg">
                 </div>
                 <div class="col-6">
                     <p>
@@ -206,10 +202,8 @@
                 </div>
 
                 <div class="row gx-0">
-                    <div class="col-6 bg-talfarve2 rounded-circle">
-                        <p>
-                            1
-                        </p>
+                    <div class="col-6 ">
+                            <img src="images/cir3.svg">
                     </div>
                     <div class="col-6">
                         <p>
