@@ -60,7 +60,7 @@
         </div>
         <p class="mt-3 p-3 ">
             Hos Marittima ønsker vi at skabe en god oplevelse for hele familien.
-
+            <br>
             Marittima blev skabt ud fra drømmen om en vinbar. Historien bag Marius Mortensen går hånd i hånd med Skibet
             Marittima, og fører den næste generations historie videre.
 
