@@ -83,7 +83,7 @@
         </p>
     </div>
         <div class="mb-3  p-3">
-            <a class="btn btn-btn1 rounded-0" href="#">SE ANBEFALINGER</a>
+            <a class="btn btn-btn1 rounded-0" download="" href="images/Marittimas%20madvenner.pdf">SE ANBEFALINGER</a>
         </div>
     </div>
 
@@ -109,7 +109,7 @@
         </p>
     </div>
         <div class="mb-3  p-3">
-            <a class="btn btn-btn1 rounded-0" href="images/Marittima%20-%20vinkort'.pdf" download="">SE VINKORT</a>
+            <a class="btn btn-btn1 rounded-0" href="images/Marittimas%20vinkort.pdf" download="">SE VINKORT</a>
         </div>
     </div>
 
