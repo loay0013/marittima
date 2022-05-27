@@ -82,10 +82,13 @@
             bølgen blå, med den synlige solnedgang ud af vinduet, lige før den når halvvejs under horisonten.
 
         </p>
-    </div>
+        </div>
+
         <div class="px-3">
             <a class="btn btn-btn1 rounded-0" download="" href="images/Marittimas%20madvenner.pdf">SE ANBEFALINGER</a>
+        </div>
     </div>
+
 
     <div class="col-md-6 order-md-1">
         <img class="img-fluid w-100" src="images/Mad-img.png" alt="vin">
@@ -96,7 +99,7 @@
 <section class="row gx-0 ">
     <div class="col-md-6 p-4">
         <h2 class="mx-3">Drikke</h2>
-        <div  class="mt-3 ">
+        <div  class="mt-3">
         <p>
             Hos Marittima ønsker vi at skabe en god oplevelse for hele familien.
 
@@ -107,8 +110,7 @@
             bølgen blå, med den synlige solnedgang ud af vinduet, lige før den når halvvejs under horisonten.
         </p>
     </div>
-
-        <div>
+        <div >
             <a class="btn btn-btn1 rounded-0" href="images/Marittima%20-%20vinkort'.pdf" download="">SE VINKORT</a>
         </div>
     </div>
