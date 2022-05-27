@@ -27,7 +27,7 @@
 
     <div class="row gx-0">
         <div class="col-12 hero-text text-light text-center">
-            <h1 class="oplevelse">Private Events</h1>
+            <h1>Private Events</h1>
             <p class="g-2">Lej vores smukke lokaler til din næste firmafest, fødselsdag eller en privat vinsmagning.</p>
         </div>
     </div>
@@ -45,13 +45,14 @@
         </h2>
         <div class="mt-3 p-3 vino-tekst">
         <p>
-            Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
+            På skibet Marittima har vi et selskabsdæk som kan rumme op til 70 pers.
 
-            At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
+            Vi kræver at lejer betaler for en bådvagt, som sørger for sikkerhed om bord i løbet af hele arrangementet og hjælper også til med oprydning efter arrangementet er slut.
 
-            At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+            Vi kræver at lejer også betaler for rengøring på skibet, dog sørger lejer selv for oprydning under og efter arrangementet.
 
-            At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+            Marittima sørger derefter for rengøring af arealet hvor arrangementet afholdes.
+
 
         </p>
         </div>
@@ -69,7 +70,7 @@
 
     <div class="col-md-6 order-md-2">
         <h2 class="p-3">Mad</h2>
-        <div class="mt-3 p-3 vino-tekst">
+        <div class="mt-3 p-3 ">
         <p>
 
             Hos Marittima ønsker vi at skabe en god oplevelse for hele familien.
@@ -82,7 +83,7 @@
 
         </p>
     </div>
-        <div class="mb-3  p-3">
+        <div class="px-3">
             <a class="btn btn-btn1 rounded-0" href="#">SE ANBEFALINGER</a>
         </div>
     </div>
@@ -93,10 +94,10 @@
 
 </section>
 
-<section class="row gx-0 historie-læsmere">
+<section class="row gx-0 ">
     <div class="col-md-6 p-4">
         <h2 class="mx-3">Drikke</h2>
-        <div  class="mt-3 p-3 vino-tekst">
+        <div  class="mt-3 ">
         <p>
             Hos Marittima ønsker vi at skabe en god oplevelse for hele familien.
 
@@ -108,7 +109,7 @@
 
         </p>
     </div>
-        <div class="mb-3  p-3">
+        <div >
             <a class="btn btn-btn1 rounded-0" href="images/Marittima%20-%20vinkort'.pdf" download="">SE VINKORT</a>
         </div>
     </div>
@@ -123,7 +124,7 @@
         <h2 class="text-light p-5 text-center">
             Priser
         </h2>
-<div class="row gx-0">
+<div class="row gx-0 p-md-5">
     <div class="col-6">
 <ul class="text-light text-center me-5 -5 list-unstyled">
     <li>
@@ -164,7 +165,7 @@
         </ul>
     </div>
     <div class="col-6">
-        <ul class="text-light list-unstyled">
+        <ul class="text-light text-center list-unstyled">
             <li>
                 7900 kr.
             </li>
@@ -172,14 +173,14 @@
     </div>
 </div>
     </div>
-    <div class="col-md-6 bg-light rounded-2 ">
-        <h2 class="text-center p-5">
+    <div class="col-md-6 bg-light rounded-3  mt-5 mb-5">
+        <h2 class="text-center p-3">
             Sådan booker du
         </h2>
         <p class="text-center">
             3-step guide
         </p>
-        <div class="row gx-0 p-5">
+        <div class="row gx-0 p-3">
             <div class="col-6 bg-talfarve2 rounded-circle">
 
                     1
@@ -187,7 +188,7 @@
             </div>
             <div class="col-6">
                 <p>
-                    At vero eos et accusam et justo duo dolores et ea rebum.
+                    Tryk på knappen nedenunder
                 </p>
             </div>
 
@@ -199,7 +200,7 @@
                 </div>
                 <div class="col-6">
                     <p>
-                        At vero eos et accusam et justo duo dolores et ea rebum.
+                        Vælg en dato i kalenderen, som du vil booke.
                     </p>
                 </div>
 
@@ -211,7 +212,7 @@
                     </div>
                     <div class="col-6">
                         <p>
-                            At vero eos et accusam et justo duo dolores et ea rebum.
+                            Tryk book og betal for en oplevelse du ikke vil glemme
                         </p>
                     </div>
 
@@ -221,7 +222,11 @@
 
 
     </div>
-
+            <div class="btn btn-btn1 border-0 p-2 w-50 mt-5">
+                <p class="text-center mb-0">
+                   <a class="text-decoration-none text-light" href="Booking.php">Book Nu</a>
+                </p>
+            </div>
 
 
 </section>
