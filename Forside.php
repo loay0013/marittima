@@ -40,10 +40,10 @@
     </div>
     <div class="btn1 m-2 ">
         <a class="button-forside btn  btn-btn1   d-flex justify-content-center rounded-0 " href="Booking.php">
-            <p>LAV EN RESERVATION</p>
+            <p class="m-0">LAV EN RESERVATION</p>
         </a>
         <a class="button-forside btn btn-btn1  d-flex mt-3 justify-content-center rounded-0" href="#Tid">
-            <p>ÅBNINGSTIDER</p>
+            <p class="m-0">ÅBNINGSTIDER</p>
         </a>
     </div>
 
@@ -54,11 +54,11 @@
 
 
 <section id="Forside" class="row gx-0">
-    <div class="col-md-6">
+    <div class="col-md-6 container">
         <div class="d-flex justify-content-center mt-3">
             <img class=" d-flex justify-content-center w-25 mt-3 " src="images/logosortudenslogan%20.svg">
         </div>
-        <p class="mt-3 p-3 ">
+        <p class="pt-3 mx-3 ">
             Hos Marittima ønsker vi at skabe en god oplevelse for hele familien.
             <br>
             Marittima blev skabt ud fra drømmen om en vinbar. Historien bag Marius Mortensen går hånd i hånd med Skibet
@@ -69,7 +69,7 @@
 
         </p>
 
-        <div class="mb-3  p-3">
+        <div class="mx-3 mb-2 mb-md-0">
             <a class="btn btn-btn1 rounded-0" href="Omkring%20os.php">LÆS MERE</a>
         </div>
     </div>
@@ -81,15 +81,16 @@
 
 <section class="row gx-0">
     <div class="col-md-6 order-md-2">
-        <h2 class="text-center mt-4">Private Arrangementer</h2>
-        <p class="mt-3 p-3 ">
+        <h2 class="text-center mt-4 mx-3">Private Arrangementer</h2>
+       <div class="d-flex  align-items-center">
+        <p class="mx-3 pt-4">
             På skibet Marittima har vi et selskabsdæk som kan rumme op til 70 personer.
             Dækket lejes ud om weekenden til private arrangementer.
             Så hvis i har brug for et sted at holde konfirmation, bryllupsdag eller fødselsdag,
             så er vi altid klar til at byde jer velkommen ombord.
         </p>
-
-        <div class="mb-3 p-3">
+    </div>
+        <div class="mx-3 mb-2 mb-md-0">
             <a class="btn btn-btn1 rounded-0" href="Booking.php">LÆS MERE</a>
         </div>
     </div>
