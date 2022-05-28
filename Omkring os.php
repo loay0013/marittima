@@ -56,20 +56,31 @@
 <div class="container-fluid">
     <div class="row p-5 px-4 history">
         <div class="col-sm-6">
-            <h6>Det skønne skib, Marittima stammer fra Tyskland i 1958. Der er flere steder på skibet, som er i sin originale stand, såsom plankerne. I sine første ti år sejlede skibet øfart i den tyske del af Vadehavet og til det toldfrie paradis Helgoland.
-                Skibet har været verden rundt, og hvis skibet kunne tale, kunne den fortælle en hel del. I 1987 fik skibet en ny tysk ejer og kom til De Kanariske Øer med spansk flag på masten.
-                <br>
-                Den øverste salon er forlænget to gange, senest i 2005. Af samme ejere, har Marittima de seneste 25 år primært sejlet med turister i sit lokale farvand ved Lübeck og Travemünde ved den tyske Østersø-kyst.
-                <br>
-                Corona lagde hindringer i vejen for skibets turisme, så ejeren satte Marittima til salg. Det er så her, at jeg (Jes), valgte at købe det dejlige skib.
+            <p>Det skønne skib Marittima startede sin rejse i Tyskland i 1958.
 
-            <br>
-            </h6>
+                Der er flere steder på skibet, som er i sin originale stand.
+
+                I sine første ti år sejlede skibet øfart i den tyske del af Vadehavet og til det toldfrie paradis Helgoland.
+
+                Skibet har været verden rundt, og hvis skibet kunne tale, kunne den fortælle en masse spændende sørøverhistorier.
+
+                I 1987 fik skibet en ny tysk ejer og kom til De Kanariske Øer med spansk flag på masten.
+
+
+            </p>
         </div>
         <div class="col-sm-6">
-           <h6> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus, aliquid autem labore modi mollitia nemo quisquam reiciendis reprehenderit vel voluptatibus. Ad dolores illum totam. Eligendi id natus nobis odio quidem.
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet consequatur corporis culpa delectus deserunt facere in iste nemo praesentium similique tenetur, velit vero voluptatem! Aperiam assumenda est reprehenderit temporibus veniam!
-           </h6></div>
+           <p>
+               Den øverste salon er forlænget to gange, senest i 2005.
+
+               Af samme ejere, har Marittima de seneste 25 år primært sejlet med turister i sit lokale farvand ved Lübeck og Travemünde ved den tyske Østersø-kyst.
+
+               Corona lagde hindringer i vejen for skibets turisme, så ejeren satte Marittima til salg.
+
+               Det er så her, at Jes Jonigk kommer ind i billedet, som nu er den nyeste ejer af Marittima, og skibets historie skrives fortsat lystigt, på trods af at være lagt til kaj.
+
+           </p>
+        </div>
     </div>
 </div>
 
@@ -83,14 +94,14 @@
                 <div class="d-flex justify-content-center">
                 <img src="images/jes.png" class="card-img-top rounded-circle bg-om w-50" alt="..."></div>
                 <div class="card-body">
-                    <p class="card-text text-start">JTEKST OM JES. TEKST OM JES. TEKST OM JES. TEKST OM JES. TEKST OM JES. TEKST OM JES. </div>
+                    <p class="card-text text-start"> JES. </div>
             </div>
             <div class="card bg-om  col-md-6 p-2 border-0" style="width: 18rem;">
                 <h4 class="card-title text-center">GITTE HAAHR FORNITZ</h4>
                 <div class="justify-content-center d-flex">
                 <img src="images/jes.png" class="card-img-top rounded-circle bg-om w-50" alt="..."></div>
                 <div class="card-body">
-                    <p class="card-text text-start">TEKST OM GITTE. TEKST OM GITTE. TEKST OM GITTE. TEKST OM GITTE. TEKST OM GITTE. TEKST OM GITTE. </div>
+                    <p class="card-text text-start"> GITTE.</div>
             </div>
 
         </div>
