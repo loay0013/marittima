@@ -3,12 +3,14 @@
 <head>
     <meta charset="utf-8">
 
-    <title>Marittima-Events. Få en ekstraodinær aften og deltag i sjove events på båden Marittima.</title>
+    <title>Marittima | Deltag i vores sjove events på båden</title>
 
     <meta name="robots" content="All">
     <meta name="author" content="Udgiver">
     <meta name="copyright" content="Information om copyright">
-    <meta name="description" content="">
+    <meta name="description" content="På båden Marittima vælter vi i sjove events, vinsmagning, casinoaften, livemusik
+    og andre lækre oplevelser for dig, din familie og venner">
+	<meta name="keywords" content="Events, Vinsmagning, Casino, Livemusik, Familie, Venner, Oplevelser">
 
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
     <link href="css/styles.css" rel="stylesheet" type="text/css">
@@ -62,7 +64,7 @@
     </div>
 
     <div class="col-md-6">
-        <img class="img-fluid w-100" src="images/winetasting.jpg" alt="En drikker vin">
+        <img class="img-fluid w-100" src="images/winetasting.jpg" alt="Kvinde drikker rødvin">
     </div>
 </section>
 
@@ -81,7 +83,7 @@
     </div>
 
     <div class="col-md-6 order-lg-1">
-        <img class="img-fluid w-100 h-auto" src="images/Casino.jpg" alt="Casino.Kasino mønter">
+        <img class="img-fluid w-100 h-auto" src="images/Casino.jpg" alt="Casino og vin">
     </div>
 </section>
 
@@ -102,7 +104,7 @@
     </div>
 
     <div class="col-md-6">
-        <img class="img-fluid h-100 w-100" src="images/Music.jpg" alt="Live Musik">
+        <img class="img-fluid h-100 w-100" src="images/Music.jpg" alt="Hygge livemusik">
     </div>
 </section>
 

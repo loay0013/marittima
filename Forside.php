@@ -3,12 +3,14 @@
 <head>
     <meta charset="utf-8">
 
-    <title>Marittima-Forside</title>
+    <title>Marittima | En unik oplevelse på vandet</title>
 
     <meta name="robots" content="All">
     <meta name="author" content="Udgiver">
     <meta name="copyright" content="Information om copyright">
-    <meta name="description" content="">
+    <meta name="description" content="Kom ombord på båden Marittima. Gå på opdagelse i vores udvalg af vine og lær omkring
+    druer, distrikter og smage i en samlet vidunderlig vinoplevelse på vandet. ">
+	<meta name="keywords" content="Vin, Unik, Oplevelse, Events, Smag, Båd">
 
 
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
@@ -57,7 +59,8 @@
 <section id="Forside" class="row gx-0">
     <div class="col-md-6 container">
         <div class="d-flex justify-content-center mt-3">
-            <img class=" d-flex justify-content-center w-25 mt-3 " src="images/logosortudenslogan%20.svg" alt="Marittima logo Uden slogan">
+            <img class=" d-flex justify-content-center w-25 mt-3 " src="images/logosortudenslogan%20.svg" alt="Marittima logo
+            uden slogan">
         </div>
         <p class="pt-3 mx-3 ">
             Hos Marittima ønsker vi at skabe en god oplevelse for alle.
@@ -114,7 +117,7 @@
     </div>
 
     <div class="col-md-6 order-md-1 ">
-        <img class="w-100" src="images/w-vin.png" alt="Hvidvinsflaske">
+        <img class="w-100" src="images/w-vin.png" alt="Flaske hvidvin">
     </div>
 
 </section>

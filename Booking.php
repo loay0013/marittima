@@ -3,12 +3,14 @@
 <head>
     <meta charset="utf-8">
 
-    <title> Marittima-Kalender.Book din tid.</title>
+    <title> Marittima | Book din næste aften hos os</title>
 
     <meta name="robots" content="All">
     <meta name="author" content="Udgiver">
     <meta name="copyright" content="Information om copyright">
-    <meta name="description" content="">
+    <meta name="description" content="Book en tid og sæt kryds i kalenderen til en uforglemmelig aften på båden Marittima. Vi
+    brænder for at give dig den bedste oplevelse.">
+	<meta name="keywords" content="Book, Tid, Kalender, Båden, Oplevelse, Marittima">
 
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
     <link href="css/styles.css" rel="stylesheet" type="text/css">

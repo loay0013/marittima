@@ -3,12 +3,14 @@
 <head>
     <meta charset="utf-8">
 
-    <title>Marittima-Private events. Lej vores lokaler til din næste firmafest. </title>
+    <title>Marittima | Afhold dit næste arrangement hos os</title>
 
     <meta name="robots" content="All">
     <meta name="author" content="Udgiver">
     <meta name="copyright" content="Information om copyright">
-    <meta name="description" content="">
+    <meta name="description" content="Afhold din næste fødselsdag, en reception eller en privat vinsmagning hos os, så sørger
+    vi for at du får en fantastisk aften med dine nærmeste.">
+	<meta name="keywords" content="Reception, Fest, Fødselsdag, Vinsmagning, Privat, Aften">
 
     <link rel='icon' href='images/logosortudenslogan%20.svg' type='image/x-icon' sizes="40x40" />
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
@@ -118,7 +120,7 @@
     </div>
 
     <div class="col-md-6">
-        <img class="img-fluid w-100" src="images/Vinkort-img.png" alt="Vinhandler">
+        <img class="img-fluid w-100" src="images/Vinkort-img.png" alt="Vinhandler og vinudvalg">
     </div>
 
 </section>

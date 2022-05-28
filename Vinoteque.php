@@ -3,12 +3,13 @@
 <head>
     <meta charset="utf-8">
 
-    <title>Marittima-Vin. vinhandel Marius Mortensen. Skib Marittima </title>
+    <title>Marittima | Oplev vores vin på vandet</title>
 
     <meta name="robots" content="All">
     <meta name="author" content="Udgiver">
     <meta name="copyright" content="Information om copyright">
-    <meta name="description" content="">
+    <meta name="description" content="Udforsk og nyd et væld af fremragende vine og spiritus igennem vores Vinoteque. En oplevelse der er lige så belønnet som bådens brands.">
+	<meta name="keywords" content="Spiritus, Vin, Oplev, Oplevelse, Fremragende, Båden, Udforsk, Vandet">
 
 
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
@@ -40,7 +41,7 @@
 
 <section class="row gx-0">
     <div class="col-md-6 order-2 order-lg-1">
-        <img class="img-fluid w-100" src="images/vinteq-img6.png" alt="En Hælder Øl i glas">
+        <img class="img-fluid w-100" src="images/vinteq-img6.png" alt="Øl i glas">
     </div>
     <div class="col-md-6 order-1 order-lg-2 pt-4">
         <p class="text-center">
@@ -85,7 +86,7 @@
                 som har solgt vin siden 1865.
             </p>
             <div class="d-flex justify-content-center">
-            <img src="images/vinteq-img2.png" alt="En hælder vin i glas">
+            <img src="images/vinteq-img2.png" alt="Rødvin hældt op i glas">
             </div>
         </div>
         <div class="col-md-4 pt-4 d-flex flex-column justify-content-center align-items-start">
@@ -96,7 +97,7 @@
                 Druerne er specielt plukket med udgangspunkt i at opnå den bedste vin muligt, det gælder lige fra sorten til sødmen til syrligheden.
             </p>
             <div class="d-flex justify-content-center">
-                <img src="images/vinteq-img3.png" alt="Drue">
+                <img src="images/vinteq-img3.png" alt="Vindruer">
             </div>
         </div>
         <div class="col-md-4 pt-4 d-flex flex-column justify-content-center align-items-start">
@@ -109,7 +110,7 @@
 
                 Vi kan byde jer lige på den vin som bedst tilfredsstiller jer og mere til.</p>
             <div class="d-flex justify-content-center">
-                <img src="images/vinteq-img4.png" alt="vinflaske">
+                <img src="images/vinteq-img4.png" alt="En flaske rødvin">
             </div>
         </div>
 
@@ -144,7 +145,7 @@
     </div>
 
     <div class="col-md-6">
-        <img class="w-100 h-100" src="images/vinoteque-img1.png" alt="En hælder vin i glas">
+        <img class="w-100 h-100" src="images/vinoteque-img1.png" alt="Rødvin i glas">
     </div>
 </section>
 
