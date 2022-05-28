@@ -62,7 +62,7 @@
     </div>
 
     <div class="col-md-6">
-        <img class="img-fluid w-100" src="images/winetasting.jpg" alt="wine">
+        <img class="img-fluid w-100" src="images/winetasting.jpg" alt="En drikker vin">
     </div>
 </section>
 
@@ -81,7 +81,7 @@
     </div>
 
     <div class="col-md-6 order-lg-1">
-        <img class="img-fluid w-100 h-auto" src="images/Casino.jpg" alt="vin2">
+        <img class="img-fluid w-100 h-auto" src="images/Casino.jpg" alt="Casino.Kasino mønter">
     </div>
 </section>
 
@@ -102,7 +102,7 @@
     </div>
 
     <div class="col-md-6">
-        <img class="img-fluid h-100 w-100" src="images/Music.jpg" alt="vin">
+        <img class="img-fluid h-100 w-100" src="images/Music.jpg" alt="Live Musik">
     </div>
 </section>
 

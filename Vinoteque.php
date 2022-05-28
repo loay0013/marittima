@@ -40,7 +40,7 @@
 
 <section class="row gx-0">
     <div class="col-md-6 order-2 order-lg-1">
-        <img class="img-fluid w-100" src="images/vinteq-img6.png">
+        <img class="img-fluid w-100" src="images/vinteq-img6.png" alt="En Hælder Øl i glas">
     </div>
     <div class="col-md-6 order-1 order-lg-2 pt-4">
         <p class="text-center">
@@ -85,7 +85,8 @@
                 som har solgt vin siden 1865.
             </p>
             <div class="d-flex justify-content-center">
-            <img src="images/vinteq-img2.png"></div>
+            <img src="images/vinteq-img2.png" alt="En hælder vin i glas">
+            </div>
         </div>
         <div class="col-md-4 pt-4 d-flex flex-column justify-content-center align-items-start">
             <h2 class="p-3">
@@ -95,7 +96,8 @@
                 Druerne er specielt plukket med udgangspunkt i at opnå den bedste vin muligt, det gælder lige fra sorten til sødmen til syrligheden.
             </p>
             <div class="d-flex justify-content-center">
-                <img src="images/vinteq-img3.png"></div>
+                <img src="images/vinteq-img3.png" alt="Drue">
+            </div>
         </div>
         <div class="col-md-4 pt-4 d-flex flex-column justify-content-center align-items-start">
 
@@ -107,7 +109,8 @@
 
                 Vi kan byde jer lige på den vin som bedst tilfredsstiller jer og mere til.</p>
             <div class="d-flex justify-content-center">
-                <img src="images/vinteq-img4.png"></div>
+                <img src="images/vinteq-img4.png" alt="vinflaske">
+            </div>
         </div>
 
     </div>
@@ -141,7 +144,7 @@
     </div>
 
     <div class="col-md-6">
-        <img class="w-100 h-100" src="images/vinoteque-img1.png">
+        <img class="w-100 h-100" src="images/vinoteque-img1.png" alt="En hælder vin i glas">
     </div>
 </section>
 

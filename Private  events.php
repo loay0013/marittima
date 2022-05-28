@@ -61,7 +61,7 @@
     </div>
 
     <div class="col-md-6">
-        <img class="w-100 h-100" src="images/Private-img1.png">
+        <img class="w-100 h-100" src="images/Private-img1.png" alt="vinglas">
     </div>
 </section>
 
@@ -95,7 +95,7 @@
 
 
     <div class="col-md-6 order-md-1">
-        <img class="img-fluid w-100" src="images/Mad-img.png" alt="vin">
+        <img class="img-fluid w-100" src="images/Mad-img.png" alt="Mad på bordet">
     </div>
 
 </section>
@@ -118,7 +118,7 @@
     </div>
 
     <div class="col-md-6">
-        <img class="img-fluid w-100" src="images/Vinkort-img.png" alt="vin">
+        <img class="img-fluid w-100" src="images/Vinkort-img.png" alt="Vinhandler">
     </div>
 
 </section>
@@ -185,7 +185,7 @@
         </p>
         <div class="row gx-0 p-3">
             <div class="col-6">
-                 <img src="images/cir1.svg">
+                 <img src="images/cir1.svg" alt="Cirkel med nummer 1">
             </div>
             <div class="col-6">
                 <p>
@@ -195,7 +195,7 @@
 
             <div class="row gx-0">
                 <div class="col-6">
-                   <img src="images/cir2.svg">
+                   <img src="images/cir2.svg" alt="Cirkel med nummer 2">
                 </div>
                 <div class="col-6">
                     <p>
@@ -205,7 +205,7 @@
 
                 <div class="row gx-0">
                     <div class="col-6 ">
-                            <img src="images/cir3.svg">
+                            <img src="images/cir3.svg" alt="Cirkel med nummer 3">
                     </div>
                     <div class="col-6">
                         <p>
