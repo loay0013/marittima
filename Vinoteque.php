@@ -41,9 +41,9 @@
 
 <section class="row gx-0">
     <div class="col-md-6 order-2 order-lg-1">
-        <img class="img-fluid w-100" src="images/vinteq-img6.png" alt="Øl i glas">
+        <img class="w-100" src="images/vinteq-img6.png" alt="Øl i glas">
     </div>
-    <div class="col-md-6 order-1 order-lg-2 pt-4">
+    <div class="col-md-6 order-1 order-lg-2 d-flex flex-column justify-content-center ">
         <p class="text-center">
             vi serverer
         </p>

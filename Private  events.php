@@ -90,7 +90,7 @@
         </p>
         </div>
 
-        <div class="px-3">
+        <div class="px-3 pb-3">
             <a class="btn btn-btn1 rounded-0" download="" href="images/Marittimas%20madvenner.pdf">SE ANBEFALINGER</a>
         </div>
     </div>
@@ -131,7 +131,7 @@
         </h2>
 <div class="row gx-0 p-md-5">
     <div class="col-6">
-<ul class="text-light text-center me-5  list-unstyled">
+<mmul class="text-light text-center me-5  list-unstyled">
     <li class="p-2">
         Lokale
     </li>
@@ -142,7 +142,7 @@
     <li class="p-2">
         Rengøring
     </li>
-</ul>
+</mmul>
     </div>
     <div class="col-6 text-center ">
         <ul class="text-light list-unstyled">
