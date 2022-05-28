@@ -54,7 +54,7 @@
 </div>
 
 <section>
-    <img class="img-fluid w-100 h-100" src="images/ror.jpeg">
+    <img class="img-fluid w-100 h-100" src="images/ror.jpeg" alt="vin og båd">
 </section>
 
 
