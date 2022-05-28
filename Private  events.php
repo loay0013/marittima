@@ -104,7 +104,7 @@
 
 <section class="row gx-0 ">
     <div class="col-md-6 p-4">
-        <h2 class="mx-3">Drikke</h2>
+        <h2 class="mx-0 ">Drikke</h2>
         <div  class="mt-3">
         <p>
             Alle drikkevarer købes og bestilles fra Marius Mortensen, som derfor også betyder at vi kan give jer en eksklusiv pris på al alkohol.
@@ -115,7 +115,7 @@
         </p>
     </div>
         <div >
-            <a class="btn btn-btn1 rounded-0" href="images/Marittima%20-%20vinkort'.pdf" download="">SE VINKORT</a>
+            <a class="btn btn-btn1 rounded-0" href="images/Marittimas%20vinkort.pdf" download="">SE VINKORT</a>
         </div>
     </div>
 
@@ -132,27 +132,27 @@
 <div class="row gx-0 p-md-5">
     <div class="col-6">
 <ul class="text-light text-center me-5  list-unstyled">
-    <li>
+    <li class="p-2">
         Lokale
     </li>
-    <li>
+    <li class="p-2">
         Bådvagt
 
     </li>
-    <li>
+    <li class="p-2">
         Rengøring
     </li>
 </ul>
     </div>
     <div class="col-6 text-center ">
         <ul class="text-light list-unstyled">
-            <li>
+            <li class="p-2">
                 4200 kr.
             </li>
-            <li>
+            <li class="p-2">
                 1850 kr.
             </li>
-            <li>
+            <li class="p-2">
                 1850 kr.
             </li>
         </ul>
@@ -164,15 +164,15 @@
 <div class="row gx-0">
     <div class="col-6">
         <ul class="text-light text-center list-unstyled">
-            <li>
-                I alt
+            <li class="mx-5">
+                <strong>I ALT:</strong>
             </li>
         </ul>
     </div>
     <div class="col-6">
         <ul class="text-light text-center list-unstyled">
-            <li>
-                7900 kr.
+            <li class="me-5 text-decoration-underline">
+                <strong>7900 KR.</strong>
             </li>
         </ul>
     </div>
@@ -221,7 +221,7 @@
 
 
     </div>
-            <div class="btn btn-btn1 border-0 p-2 w-50 mt-5">
+            <div class="btn btn-btn1 border-0 p-2 w-50 mt-5 rounded-0">
                 <p class="text-center mb-0">
                    <a class="text-decoration-none text-light" href="Booking.php">Book Nu</a>
                 </p>
