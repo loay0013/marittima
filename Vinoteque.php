@@ -33,6 +33,11 @@
             <p class="g-2">Vin er vores speciale</p>
         </div>
     </div>
+    <div>
+        <div class="btn1 mt-3" >
+            <a class="btn btn-btn1 rounded-0" href="images/Marittimas%20vinkort.pdf" download="VinKort|pdf">SE VINKORT</a>
+        </div>
+    </div>
 
     <div class="icon position-absolute bottom-0 text-center w-100 text-light">
 		<a class="text-light" href="#Vinoteque"><i class="fa-solid fa-chevron-down fa-2x"></i></a>

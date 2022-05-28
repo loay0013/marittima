@@ -1,4 +1,4 @@
-<footer class="py-5 p-10 bg-Footer footer text-light">
+<footer class="pt-5 bg-Footer footer text-light">
     <div class="flex-md-row flex-column d-flex">
         <div class="col-md-4 col-12 flex-column align-items-center  d-flex  ">
             <h2 class="text-light">KONTAKT OS</h2>
@@ -44,8 +44,8 @@
             </div>
 
                 <div class="d-flex w-100 gap-2 flex-column align-items-center">
-                    <p class="mt-2">NYHEDSBREV</p>
-                    <button type="button" class="btn btn-primary bg-Footer border-light rounded-0 mt-4" data-bs-toggle="modal" data-bs-target="#exampleModal">
+                    <p class="mt-3">NYHEDSBREV</p>
+                    <button type="button" class="btn btn-primary bg-Footer border-light rounded-0 mt-md-5" data-bs-toggle="modal" data-bs-target="#exampleModal">
                         TILMELD DIG
                     </button>
 
