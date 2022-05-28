@@ -3,13 +3,14 @@
 <head>
     <meta charset="utf-8">
 
-    <title>Marittima-Historien. VORES HISTORIE. Skib Marittima.</title>
+    <title>Marittima | Læs historien bag Marittima og teamet</title>
 
     <meta name="robots" content="All">
     <meta name="author" content="Udgiver">
     <meta name="copyright" content="Information om copyright">
-    <meta name="description" content="">
-
+    <meta name="description" content="Hør historien om båden Marittima og få et indblik i hvem vi er, idéen bag og hvad vi står
+    for. Her finder du også historien bag teamet og hvordan det hele startede med en gammel vinforhandler i Nykøbing Falster.">
+	<meta name="keywords" content="Historien, Marittima, Vinforhandler, Nykøbing Falster Vin, Nykøbing Falster">
 
     <link rel='icon' href='images/logosortudenslogan%20.svg' type='image/x-icon' sizes="40x40" />
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css">

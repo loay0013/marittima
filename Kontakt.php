@@ -3,12 +3,14 @@
 <head>
     <meta charset="utf-8">
 
-    <title>Marittima-Kontakt. Kontakt os, hvis du spørgsmål</title>
+    <title>Marittima | Kontakt os her, så hjælper vi dig</title>
 
     <meta name="robots" content="All">
     <meta name="author" content="Udgiver">
     <meta name="copyright" content="Information om copyright">
-    <meta name="description" content="">
+    <meta name="description" content="Kontakt os hvis du har yderligere spørgsmål til bestilling af lokale, vinmenu eller
+    eventuelle events. Vi svarer altid så hurtigt vi kan for at hjælpe dig med at besvare dine spørgsmål.">
+	<meta name="keywords" content="Hjælp, Bestilling, Kontakt, Vin, Kontakt os, Ordrer, Lokale">
 
 
     <link rel='icon' href='images/logosortudenslogan%20.svg' type='image/x-icon' sizes="40x40" />

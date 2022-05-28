@@ -3,12 +3,14 @@
 <head>
     <meta charset="utf-8">
 
-    <title>Marittima-Find os. Find os nemt her på siden.</title>
+    <title>Marittima | Find os nemt her på siden</title>
 
     <meta name="robots" content="All">
     <meta name="author" content="Udgiver">
     <meta name="copyright" content="Information om copyright">
-    <meta name="description" content="">
+    <meta name="description" content="Er du i tvivl om vores lokation, så find os super nemt på denne side. Her er vores
+    kontaktoplysninger og en maps guide til hvordan du netop finder den hurtigste vej til båden Marittima.">
+	<meta name="keywords" content="Find os, Kontakt, Lokation, Maps, Marittima, Guide">
 
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
     <link href="css/styles.css" rel="stylesheet" type="text/css">
