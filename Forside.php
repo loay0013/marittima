@@ -58,13 +58,25 @@
             <img class=" d-flex justify-content-center w-25 mt-3 " src="images/logosortudenslogan%20.svg">
         </div>
         <p class="pt-3 mx-3 ">
-            Hos Marittima ønsker vi at skabe en god oplevelse for hele familien.
-            <br>
-            Marittima blev skabt ud fra drømmen om en vinbar. Historien bag Marius Mortensen går hånd i hånd med Skibet
-            Marittima, og fører den næste generations historie videre.
+            Hos Marittima ønsker vi at skabe en god oplevelse for alle.
 
-            Folk der har været på skibet vil være i stand til at kunne fortælle om historier om dengang de holdt fest på
-            bølgen blå, med den synlige solnedgang ud af vinduet, lige før den når halvvejs under horisonten.
+            Marittima blev skabt ud fra drømmen om en vinbar.
+
+            Historien bag Marius Mortensen går hånd i hånd med Skibet Marittima, og fører den næste generations historie videre.
+
+            Folk der har været på skibet, vil være i stand til at kunne fortælle om historier om dengang de holdt fest på bølgen blå,
+            med den synlige solnedgang igennem vinduet, lige før den når halvvejs under horisonten.
+
+            Nuværende indehaver af Marius Mortensen, Jes Jonigk købte i 2021 en tysk båd ved navn Marittima.
+
+            Ideen var at transformerer en tysk båd om til en flydende drøm af en vinbar som ville åbne i maj 2022.
+
+            Jes Jonigk fik ideen af en af hans bekendte, som har en masse husbåde i København.
+
+            Gamle Marittima kommer fra 1958, og ligger ved en lille kaj i Sandgade og indgår i et større projekt omkring havnefronten,
+
+            som Guldborgsund Kommune er i gang med at realisere.
+
 
         </p>
 
@@ -83,10 +95,15 @@
         <h2 class="text-center mt-4 mx-3">Private Arrangementer</h2>
        <div class="d-flex  align-items-center">
         <p class="mx-3 pt-4">
-            På skibet Marittima har vi et selskabsdæk som kan rumme op til 70 personer.
-            Dækket lejes ud om weekenden til private arrangementer.
-            Så hvis i har brug for et sted at holde konfirmation, bryllupsdag eller fødselsdag,
-            så er vi altid klar til at byde jer velkommen ombord.
+            Marittima kan stå for alle slags fester og selskaber, op til 70 personer, uanset om der ønskes en firmafest, fødselsdag, julefrokost, barnedåb, bryllup eller noget helt andet.
+
+            Marittima har et selskabsdæk i autentiske, maritime og hyggelige omgivelser, og deres personale sørger for at forkæle dig og dine gæster under arrangementet, så du kan læne dig tilbage og nyde selskabet.
+
+            Når du lejer selskabsdækket på Marittima, har du fuld gastronomisk frihed, da maden bestilles udefra.
+
+            Er du i tvivl om, hvor maden skal bestilles? Så tag et kig på listen over hvem vi kan anbefale i nærområdet.
+
+
         </p>
     </div>
         <div class="mx-3 mb-2 mb-md-0">
