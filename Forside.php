@@ -40,10 +40,10 @@
         </p>
     </div>
     <div class="btn1 m-2 ">
-        <a class="button-forside btn  btn-btn1   d-flex justify-content-center rounded-0 " href="Booking.php">
+        <a class="btn  btn-btn1   d-flex justify-content-center rounded-0 " href="Booking.php">
             <p class="m-0">LAV EN RESERVATION</p>
         </a>
-        <a class="button-forside btn btn-btn1  d-flex mt-3 justify-content-center rounded-0" href="#Tid">
+        <a class="btn btn-btn1  d-flex mt-3 justify-content-center rounded-0" href="#Tid">
             <p class="m-0">ÅBNINGSTIDER</p>
         </a>
     </div>
@@ -118,19 +118,19 @@
     </div>
 
 </section>
-<section class="bg-om ">
-    <h2 class="vinoteque text-center pt-4 text-light">
+<section class="bg-om">
+    <h2 class="text-center pt-4 text-light">
         VINOTEQUE
     </h2>
     <p class="text-center mt-3 text-light">
         Strandvejen 28, 4800 Nykøbing Falster
     </p>
-    <h2  class="open mt-5 text-center text-light">
+    <h2  class="mt-5 text-center text-light">
         Åbningstider
     </h2>
     <div id="Tid" class="row mx-auto m-w p-3">
         <div class="col-6">
-            <ul class="list-unstyled  d-flex flex-column align-items-center text-light days">
+            <ul class="list-unstyled  d-flex flex-column align-items-center text-light">
                 <li class="p-2">
                     <p>
                         Mandag
@@ -171,7 +171,7 @@
             </ul>
         </div>
         <div class="col-6">
-            <ul class="list-unstyled  d-flex flex-column align-items-center text-light time">
+            <ul class="list-unstyled  d-flex flex-column align-items-center text-light">
                 <li class="p-2">
                     <p>
                         18.00 - 02.30

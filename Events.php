@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
 
-    <title>Marittima-Events. Få en ekstraodinær aften og deltag i sjove events på båden Marittima.</title>
+    <title>Marittima-Events | Få en ekstraodinær aften og deltag i sjove events på båden Marittima.</title>
 
     <meta name="robots" content="All">
     <meta name="author" content="Udgiver">
