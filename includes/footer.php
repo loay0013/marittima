@@ -25,22 +25,23 @@
             <h3 class=" text-center p-3 p-md-0">FØLG OS</h3>
             <div class="d-flex justify-content-center p-3 mt-2">
                 <div class="p-2">
-                <a>
-                    <img src="images/fb.svg" class="text-light" alt="fb">
+                <a href="https://www.facebook.com/marius.mortensen.eftf">
+                    <img src="images/fb.svg" class="text-light" alt="facebook icon">
                 </a></div>
                 <div class="p-2">
-                <a>
-                  <img src="images/insta.svg">
+                <a href="https://www.instagram.com/mariusogthea/">
+                  <img src="images/insta.svg" alt="instagram Icon">
                 </a>
                 </div>
                 <div class="p-2">
-                <a>
-                    <img src="images/snap.svg" alt="snap">
+                <a href="https://accounts.snapchat.com/accounts/login?continue=%2Faccounts%2Fwelcome">
+                    <img src="images/snap.svg" alt="snapchat icon">
                 </a></div>
                 <div class="p-2">
-                <a>
-                      <img class="img-fluid" src="images/Tiktok.svg" alt="tiktok">
-                </a></div>
+                <a href="https://www.tiktok.com/">
+                      <img class="img-fluid" src="images/Tiktok.svg" alt="tiktok icon">
+                </a>
+                </div>
             </div>
 
                 <div class="d-flex w-100 gap-2 flex-column align-items-center">
