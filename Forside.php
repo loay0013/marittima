@@ -27,7 +27,7 @@
         </video>
     </div>
     <div class="logo d-xl-none d-block">
-        <img src="images/logo%20med.svg">
+        <img src="images/logo%20med.svg" alt="Marittima logo med slogan">
     </div>
     <div class="d-none d-xl-block text-light logo">
         <h1 class="text-center">
@@ -55,7 +55,7 @@
 <section id="Forside" class="row gx-0">
     <div class="col-md-6 container">
         <div class="d-flex justify-content-center mt-3">
-            <img class=" d-flex justify-content-center w-25 mt-3 " src="images/logosortudenslogan%20.svg">
+            <img class=" d-flex justify-content-center w-25 mt-3 " src="images/logosortudenslogan%20.svg" alt="Marittima logo Uden slogan">
         </div>
         <p class="pt-3 mx-3 ">
             Hos Marittima ønsker vi at skabe en god oplevelse for alle.
@@ -86,7 +86,7 @@
     </div>
 
     <div class="col-md-6">
-        <img class="img-fluid w-100" src="images/vin.png" alt="vin">
+        <img class="img-fluid w-100" src="images/vin.png" alt="Vinflaske og vinglas">
     </div>
 </section>
 
@@ -112,7 +112,7 @@
     </div>
 
     <div class="col-md-6 order-md-1 ">
-        <img class="w-100" src="images/w-vin.png" alt="vin2">
+        <img class="w-100" src="images/w-vin.png" alt="Hvidvinsflaske">
     </div>
 
 </section>
