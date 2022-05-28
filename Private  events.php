@@ -3,11 +3,12 @@
 <head>
     <meta charset="utf-8">
 
-    <title>Marittima</title>
+    <title>Marittima-Private events. Lej vores lokaler til din næste firmafest. </title>
 
     <meta name="robots" content="All">
     <meta name="author" content="Udgiver">
     <meta name="copyright" content="Information om copyright">
+    <meta name="description" content="">
 
     <link rel='icon' href='images/logosortudenslogan%20.svg' type='image/x-icon' sizes="40x40" />
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css">

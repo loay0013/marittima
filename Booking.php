@@ -3,11 +3,12 @@
 <head>
     <meta charset="utf-8">
 
-    <title>Marittima</title>
+    <title> Marittima-Kalender.Book din tid.</title>
 
     <meta name="robots" content="All">
     <meta name="author" content="Udgiver">
     <meta name="copyright" content="Information om copyright">
+    <meta name="description" content="">
 
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
     <link href="css/styles.css" rel="stylesheet" type="text/css">
@@ -31,8 +32,8 @@
     <div class="overlay"></div>
 
     <div class="row">
-        <div class="col-12 hero-text text-light text-center">
-            <h1 class="oplevelse">Booking</h1>
+        <div class="col-12 text-light text-center">
+            <h1>Booking</h1>
             <p class="g-2">Book dit næste arrangement.</p>
         </div>
     </div>
