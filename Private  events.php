@@ -45,13 +45,14 @@
         </h2>
         <div class="mt-3 p-3 vino-tekst">
         <p>
-            På skibet Marittima har vi et selskabsdæk som kan rumme op til 70 pers.
+            På skibet Marittima kan vi forpleje op til 149 gæster, fordelt på de forskellige dæk.
 
-            Vi kræver at lejer betaler for en bådvagt, som sørger for sikkerhed om bord i løbet af hele arrangementet og hjælper også til med oprydning efter arrangementet er slut.
+            Vi kræver at lejer betaler for en bådvagt, som sørger for sikkerhed om bord i løbet af hele arrangementet.
 
             Vi kræver at lejer også betaler for rengøring på skibet, dog sørger lejer selv for oprydning under og efter arrangementet.
 
             Marittima sørger derefter for rengøring af arealet hvor arrangementet afholdes.
+
 
 
         </p>
@@ -73,13 +74,15 @@
         <div class="mt-3 p-3 ">
         <p>
 
-            Hos Marittima ønsker vi at skabe en god oplevelse for hele familien.
+            På Marittima serverer vi ikke mad, så vi opfordrer jer derfor til at bestille mad udefra.
 
-            Marittima blev skabt ud fra drømmen om en vinbar. Historien bag Marius Mortensen går hånd i hånd med Skibet
-            Marittima, og fører den næste generations historie videre.
+            Lejer kontakter selv en restaurant til levering af maden ombord og afregner med disse.
 
-            Folk der har været på skibet vil være i stand til at kunne fortælle om historier om dengang de holdt fest på
-            bølgen blå, med den synlige solnedgang ud af vinduet, lige før den når halvvejs under horisonten.
+            Det er et stort ønske fra Marittimas side, at man laver aftaler med restauranter i lokalområdet.
+
+            Vi har derfor lavet en liste med restauranter vi kan anbefale.
+
+
 
         </p>
         </div>
@@ -101,13 +104,11 @@
         <h2 class="mx-3">Drikke</h2>
         <div  class="mt-3">
         <p>
-            Hos Marittima ønsker vi at skabe en god oplevelse for hele familien.
+            Alle drikkevarer købes og bestilles fra Marius Mortensen, som derfor også betyder at vi kan give jer en eksklusiv pris på al alkohol.
 
-            Marittima blev skabt ud fra drømmen om en vinbar. Historien bag Marius Mortensen går hånd i hånd med Skibet
-            Marittima, og fører den næste generations historie videre.
+            Drikkevarer skal bestilles senest 14 dage før arrangementet.
 
-            Folk der har været på skibet vil være i stand til at kunne fortælle om historier om dengang de holdt fest på
-            bølgen blå, med den synlige solnedgang ud af vinduet, lige før den når halvvejs under horisonten.
+            Der afregnes selvfølgelig kun for de flasker der er åbnet under arrangementet.
         </p>
     </div>
         <div >
