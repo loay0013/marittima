@@ -1,14 +1,14 @@
 <footer class="py-5 p-10 bg-Footer footer text-light">
     <div class="flex-md-row flex-column d-flex">
         <div class="col-md-4 col-12 flex-column align-items-center  d-flex  ">
-            <h2 class="contact">KONTAKT OS</h2>
+            <h2 class="text-light">KONTAKT OS</h2>
 
-                <p class="adress mt-2">Strandvejen 28</p>
-                <p class="adress mt-2">4800 Nykøbing Falster</p>
-                <p class="adress mt-2"><a href="tel:45 11 22 33 44" class="link-light text-decoration-none"> +45 11 22 33 44</a></p>
+                <p class="mt-2 text-light">Strandvejen 28</p>
+                <p class="mt-2 text-light">4800 Nykøbing Falster</p>
+                <p class="mt-2 text-light"><a href="tel:45 11 22 33 44" class="link-light text-decoration-none"> +45 11 22 33 44</a></p>
 
              <a href="https://goo.gl/maps/yxyHgbNWRJra5FMS9">
-            <button class="findway btn btn-primary bg-Footer border-light rounded-0 mt-5" type="button">FIND VEJ</button></a>
+            <button class="btn btn-primary bg-Footer border-light rounded-0 mt-5" type="button">FIND VEJ</button></a>
 
 
         </div>
@@ -22,7 +22,7 @@
 
 
         <div class="col-md-4 align-items-center col-12 mt-5 mt-md-0">
-            <h5 class="social text-center p-3 p-md-0">FØLG OS</h5>
+            <h3 class=" text-center p-3 p-md-0">FØLG OS</h3>
             <div class="d-flex justify-content-center p-3 mt-2">
                 <div class="p-2">
                 <a>
@@ -30,7 +30,7 @@
                 </a></div>
                 <div class="p-2">
                 <a>
-                  <img src="images/insta.svg"> 
+                  <img src="images/insta.svg">
                 </a>
                 </div>
                 <div class="p-2">
@@ -44,8 +44,8 @@
             </div>
 
                 <div class="d-flex w-100 gap-2 flex-column align-items-center">
-                    <p class="adress mt-2">NYHEDSBREV</p>
-                    <button type="button" class="findway btn btn-primary bg-Footer border-light rounded-0 mt-4" data-bs-toggle="modal" data-bs-target="#exampleModal">
+                    <p class="mt-2">NYHEDSBREV</p>
+                    <button type="button" class="btn btn-primary bg-Footer border-light rounded-0 mt-4" data-bs-toggle="modal" data-bs-target="#exampleModal">
                         TILMELD DIG
                     </button>
 
@@ -78,8 +78,8 @@
 
 
     <div class=" d-flex align-items-center py-4 my-4 flex-column">
-        <p class="adress">© MARITTIMA 2022</p>
-        <p class="adress">All rights reserved.</p>
+        <p class="text-light">© MARITTIMA 2022</p>
+        <p class="text-light">All rights reserved.</p>
     </div>
 
 

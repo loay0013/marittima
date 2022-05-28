@@ -28,7 +28,7 @@
 
     <div class="row">
         <div class="col-12 hero-text text-light text-center">
-            <h1 class="oplevelse">Find os</h1>
+            <h1>Find os</h1>
             <p class="g-2">Find os nemt her på siden.</p>
         </div>
     </div>
@@ -39,12 +39,12 @@
 </header>
 
 
-<section class="row m-0 maps pt-5">
+<section class="row m-0 pt-5">
 	<div class="p-3 col-md-4">
 		<h2 class="text-center">
 			Adresse
 		</h2>
-		<p class="little-map text-center p-3">
+		<p class="text-center p-3">
 			Strandvejen 28
 			<br>
 			4800 Nykøbing Falster
@@ -54,7 +54,7 @@
     <h2 class="text-center">
         Hvor er vi?
     </h2>
-        <p class="little-map text-center p-3">
+        <p class="text-center p-3">
             Find hurtigt ud af hvor
             vi befinder os.
         </p>

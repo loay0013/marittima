@@ -46,7 +46,7 @@
         <h2 class="text-center">
             Information
         </h2>
-        <div class="mt-3 p-3 vino-tekst">
+        <div class="mt-3 p-3">
         <p>
             På skibet Marittima kan vi forpleje op til 149 gæster, fordelt på de forskellige dæk.
 
@@ -131,7 +131,7 @@
         </h2>
 <div class="row gx-0 p-md-5">
     <div class="col-6">
-<ul class="text-light text-center me-5 -5 list-unstyled">
+<ul class="text-light text-center me-5  list-unstyled">
     <li>
         Lokale
     </li>

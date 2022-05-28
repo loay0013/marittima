@@ -30,8 +30,8 @@
 <header id="hero2" class="container-fluid">
     <div class="overlay"></div>
     <div class="row">
-        <div class="col-12 hero-text text-light text-center">
-            <h1 class="oplevelse">Kontakt os</h1>
+        <div class="col-12 text-light text-center">
+            <h1>Kontakt os</h1>
             <p class="g-2">Kom nemt i kontakt med os her</p>
         </div>
     </div>
@@ -44,7 +44,7 @@
 
 
 <section class="kontakt_os">
-	<h1 class="title-contact fs-3">Kontakt os</h1>
+	<h1 class="title-contact fs-3">Kontakt os</h1 class="title-contact fs-3">
 	<div class="container-contact">
 		<div class="contact-form-kontakt row">
 			<div class="form-field-kontakt col-lg-6">
