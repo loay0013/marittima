@@ -21,7 +21,6 @@
 
 <body class="h-100">
 
-<script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
 
 <?php include "includes/nav.php";?>
 
@@ -101,7 +100,7 @@
 
 
 
-
+<script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
 
 <?php include "includes/footer.php";?>
 

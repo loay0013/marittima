@@ -19,7 +19,6 @@
 
 <body class="h-100">
 
-<script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js" defer></script>
 <?php include "includes/nav.php"; ?>
 <header class="video-container h-100 position-relative overflow">
     <div class="video">
@@ -193,7 +192,7 @@
     </div>
 </section>
 
-
+<script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
 <?php include "includes/footer.php"; ?>
 <script src="js/news.js"></script>
 </body>

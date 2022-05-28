@@ -19,7 +19,6 @@
 
 <body class="h-100">
 
-<script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
 
 <?php include "includes/nav.php";?>
 <header id="hero1" class="container-fluid">
@@ -138,7 +137,7 @@
 
 
 
-
+<script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
 
 <?php include "includes/footer.php";?>
 <script src="js/news.js"></script>
