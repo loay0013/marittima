@@ -48,11 +48,15 @@
             ØL & DRINKS
         </h3>
         <p class="mx-3 pt-3">
-            På Marittima serverer vi også øl og drinks.<br>
-            Vi serverer stolt øl fra Krenkerup Bryggeri, <br>
-            som er blevet kåret til Europas bedste øl hele 6 gange.<br>
-            Vi serverer også drinks som Gammel have, Gin Hass og Screwdriver<br>
-            som er blandet efter vores helt egne opskrifter.
+            På Marittima serverer vi udover vin også øl og drinks.
+
+            Vi serverer stolt øl fra Krenkerup Bryggeri,
+
+            som er blevet kåret til Europas bedste øl hele 6 gange.
+
+            Derudover har vi special øl fra alverdens spændende hjørne.
+
+            Vi serverer drinks som Gammel have, Gin Hass og Screwdriver som er blandet efter vores helt egne opskrifter.
         </p>
     </div>
 </section>
@@ -97,7 +101,9 @@
                 Udvalget
             </h2>
             <p class="p-3">
-                Vinoteque Marittima har et udvalg på hel 85 forskellige vin, som kommer overalt fra kloden af. Vi kan byde jer lige på den vin som bedst tilfredsstiller jer og mere til.            </p>
+                Vinoteque Marittima har et udvalg på hel 85 forskellige vin, som kommer overalt fra kloden af.
+
+                Vi kan byde jer lige på den vin som bedst tilfredsstiller jer og mere til.</p>
             <div class="d-flex justify-content-center">
                 <img src="images/vinteq-img4.png"></div>
         </div>
@@ -113,15 +119,20 @@
             Konceptet
         </h2>
         <p class="p-3">
-            Hos Marittima ønsker vi at skabe en god oplevelse for hele familien.
+            Indehaveren af vinhandlen Marius Mortensen ønskede at etablere udeservering, men savnede den rette lokation.
 
-            Marittima blev skabt ud fra drømmen om en vinbar.
+            Han besluttede sig derfor for at tænke utraditionelt og undersøge muligheden for at indrette bar i et skib.
 
-            Historien bag Marius Mortensen går hånd i hånd med Skibet Marittima, og fører den næste generations historie videre.
+            Vi finder det nemlig vigtigt at skabe unikke oplevelser for alle og støtte lokalsamfundet.
 
-            Folk der har været på skibet vil være i stand til at kunne fortælle om historier om dengang de holdt fest på bølgen blå,
+            Det kunne lade sig gøre med et spændende mix af skibet Marittima og vinhandlen Marius Mortensen.
 
-            med den synlige solnedgang ud af vinduet, lige før den når halvvejs under horisonten.
+            Derfor er størstedelen af vores vine og vores andre specialiteter, lokale.
+
+            Alle vores vine er af den bedste kvalitet, til de fineste priser, så alle kan være med.
+
+
+
 
 
         </p>
