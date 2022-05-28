@@ -34,6 +34,12 @@
             <p class="g-2">Få en ekstraodinær aften og deltag i sjove events på båden Marittima.</p>
         </div>
     </div>
+
+
+
+    <div class="icon position-absolute bottom-0 text-center w-100 text-light">
+        <a class="text-light" href=""><i class="fa-solid fa-chevron-down fa-2x"></i></a>
+    </div>
 </header>
 
 <section class="container events-container pb-3 pt-3 h-auto mx-auto w-auto">
