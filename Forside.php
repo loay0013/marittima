@@ -57,7 +57,7 @@
 
 
 <section id="Forside" class="row gx-0">
-    <div class="col-md-6 container">
+    <div class="col-md-6 d-flex flex-column justify-content-center ">
         <div class="d-flex justify-content-center mt-3">
             <img class=" d-flex justify-content-center w-25 mt-3 " src="images/logosortudenslogan%20.svg" alt="Marittima logo
             uden slogan">
@@ -91,12 +91,12 @@
     </div>
 
     <div class="col-md-6">
-        <img class="img-fluid w-100" src="images/vin.png" alt="Vinflaske og vinglas">
+        <img class=" w-100" src="images/vin.png" alt="Vinflaske og vinglas">
     </div>
 </section>
 
 <section class="row gx-0">
-    <div class="col-md-6 order-md-2">
+    <div class="col-md-6 order-md-2 d-flex flex-column justify-content-center">
         <h2 class="text-center mt-4 mx-3">Private Arrangementer</h2>
        <div class="d-flex  align-items-center">
         <p class="mx-3 pt-4">

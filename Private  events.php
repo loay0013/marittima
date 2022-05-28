@@ -39,7 +39,7 @@
     </div>
 </header>
 <section class="row gx-0 ">
-    <div class="col-md-6 pt-4">
+    <div class="col-md-6 pt-4 d-flex flex-column justify-content-center">
         <p class="text-center">
             praktisk
         </p>
@@ -72,7 +72,7 @@
 
 
 
-    <div class="col-md-6 order-md-2">
+    <div class="col-md-6 order-md-2 d-flex flex-column justify-content-center">
         <h2 class="p-3">Mad</h2>
         <div class="mt-3 p-3 ">
         <p>
@@ -90,8 +90,8 @@
         </p>
         </div>
 
-        <div class="px-3">
-            <a class="btn btn-btn1 rounded-0" download="" href="images/Marittimas%20madvenner.pdf">SE ANBEFALINGER</a>
+        <div class="px-3 pb-3">
+            <a class="btn btn-btn1 rounded-0" download="Madvenner|pdf" href="images/Marittimas%20madvenner.pdf">SE ANBEFALINGER</a>
         </div>
     </div>
 
@@ -103,7 +103,7 @@
 </section>
 
 <section class="row gx-0 ">
-    <div class="col-md-6 p-4">
+    <div class="col-md-6 p-4 d-flex flex-column justify-content-center">
         <h2 class="mx-0 ">Drikke</h2>
         <div  class="mt-3">
         <p>
@@ -115,7 +115,7 @@
         </p>
     </div>
         <div >
-            <a class="btn btn-btn1 rounded-0" href="images/Marittimas%20vinkort.pdf" download="">SE VINKORT</a>
+            <a class="btn btn-btn1 rounded-0" href="images/Marittimas%20vinkort.pdf" download="VinKort|pdf">SE VINKORT</a>
         </div>
     </div>
 
@@ -124,14 +124,14 @@
     </div>
 
 </section>
-<section class="row gx-0 bg-om">
- <div class="col-md-6">
+<section class="row gx-0 bg-om ">
+ <div class="col-md-6 container-md">
         <h2 class="text-light p-5 text-center">
             Priser
         </h2>
 <div class="row gx-0 p-md-5">
-    <div class="col-6">
-<ul class="text-light text-center me-5  list-unstyled">
+    <div class="col-6 ">
+<mmul class="text-light text-center me-5  list-unstyled">
     <li class="p-2">
         Lokale
     </li>
@@ -142,7 +142,7 @@
     <li class="p-2">
         Rengøring
     </li>
-</ul>
+</mmul>
     </div>
     <div class="col-6 text-center ">
         <ul class="text-light list-unstyled">
@@ -178,7 +178,7 @@
     </div>
 </div>
     </div>
-    <div class="col-md-6 bg-light rounded-3  mt-5 mb-5">
+    <div class="col-md-6 bg-light rounded-3  mt-5 mb-5 container-md ">
         <h2 class="text-center p-3">
             Sådan booker du
         </h2>
@@ -186,7 +186,7 @@
             3-step guide
         </p>
         <div class="row gx-0 p-3">
-            <div class="col-6">
+            <div class="col-6 pb-md-2">
                  <img src="images/cir1.svg" alt="Cirkel med nummer 1">
             </div>
             <div class="col-6">
@@ -196,7 +196,7 @@
             </div>
 
             <div class="row gx-0">
-                <div class="col-6">
+                <div class="col-6 pb-md-2">
                    <img src="images/cir2.svg" alt="Cirkel med nummer 2">
                 </div>
                 <div class="col-6">
@@ -206,7 +206,7 @@
                 </div>
 
                 <div class="row gx-0">
-                    <div class="col-6 ">
+                    <div class="col-6 pb-md-2 ">
                             <img src="images/cir3.svg" alt="Cirkel med nummer 3">
                     </div>
                     <div class="col-6">

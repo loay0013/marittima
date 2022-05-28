@@ -5,49 +5,6 @@
   background-size: cover;
 }
 
-.ror{
-  height: 100%;
-  width: 100%;
-  background-image: url("../images/ror.jpeg");
-  background-size: cover;
-}
-
-.contact {
-  font-family: "Source Sans Pro", "Times New Roman";
-  font-size: 20px;
-}
-
-.adress {
-  font-family: "Futura PT", "Times New Roman";
-  font-weight: lighter;
-}
-
-.oplevelse{
-  font-family: "Anjelina Modern Calligraphy", sans-serif;
-  font-size: 73px;
-  color: black;
-}
-
-.copyright {
-  font-family: "Futura PT", "Times New Roman";
-  font-weight: lighter;
-}
-
-.little{
-  font-family: Poppins;
-}
-
-.news {
-  font-family: "Futura PT", "Times New Roman";
-}
-
-.rights {
-  font-family: "Futura PT", "Times New Roman";
-  font-size: 14px;
-
-}
-
-
 .logo {
   position: absolute;
   top: 30%;
@@ -55,62 +12,9 @@
   transform: translate(-50%, -50%);
 }
 
-.social {
-  font-family: "Source sans Pro", "Times New Roman";
-}
-
-
-#text {
-  font-family: 'Futura PT', sans-serif;
-  font-weight: bolder;
-}
-
-h6{
-  font-family: "Futura PT", "Times New Roman";
-  font-weight: lighter;
-}
-
-
-
-.home:hover {
-  color: red;
-}
-
 .m-w{
   max-width: 400px;
 }
-
-//Historien-siden
-
-#text {
-  font-family: 'Futura PT', sans-serif;
-  font-weight: bolder;
-}
-
-p.idea {
-  font-family: "Futura PT", "Times New Roman";
-  font-weight: lighter;
-}
-
-.links {
-  letter-spacing: 2px;
-  font-size: 14px;
-  font-family: "Futura PT", sans-serif;
-}
-
-.overskrift{
-  font-family: "Futura PT", sans-serif;
-  font-size: 28px;
-}
-
-.history{
-  font-family: "Open Sans", sans-serif;
-  font-size: 15px;
-}
-
-
-
-// Mikkels styles
 
 #hero {
   display: grid;
@@ -130,9 +34,4 @@ p.idea {
   }
 }
 
-h1 {
-  font-family: "Anjelina Modern Calligraphy", sans-serif;
-  font-size: 73px;
-
-}
 
