@@ -15,6 +15,7 @@
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
     <link href="css/styles.css" rel="stylesheet" type="text/css">
     <link href="css/Mikkelsstyles.css" rel="stylesheet" type="text/css">
+    <script src="https://kit.fontawesome.com/b7f7f27b49.js" crossorigin="anonymous"></script>
 
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -35,11 +36,10 @@
         </div>
     </div>
 
-
-
     <div class="icon position-absolute bottom-0 text-center w-100 text-light">
         <a class="text-light" href=""><i class="fa-solid fa-chevron-down fa-2x"></i></a>
     </div>
+
 </header>
 
 <section class="container events-container pb-3 pt-3 h-auto mx-auto w-auto">
