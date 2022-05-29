@@ -10,12 +10,17 @@
     <meta name="copyright" content="Information om copyright">
     <meta name="description" content="Kom ombord på båden Marittima. Gå på opdagelse i vores udvalg af vine og lær omkring
     druer, distrikter og smage i en samlet vidunderlig vinoplevelse på vandet. ">
-	<meta name="keywords" content="Vin, Unik, Oplevelse, Events, Smag, Båd">
+	<meta name="keywords" content="Vin, Unik, Oplevelse, Events, Smag, Båd, Unik Oplevelse">
 
 
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
     <link href="css/styles.css" rel="stylesheet" type="text/css">
-    <script src="https://kit.fontawesome.com/b7f7f27b49.js" crossorigin="anonymous"></script>
+	<link rel="stylesheet" href="https://use.typekit.net/lgu4yld.css">
+	<link rel="stylesheet" href="https://use.typekit.net/lgu4yld.css">
+	<link rel="stylesheet" href="https://use.typekit.net/lgu4yld.css">
+
+
+	<script src="https://kit.fontawesome.com/b7f7f27b49.js" crossorigin="anonymous"></script>
 
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
