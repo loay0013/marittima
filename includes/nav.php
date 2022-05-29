@@ -2,7 +2,7 @@
 <nav class="navbar navbar-expand-xl navbar-dark bg-transparent position-absolute w-100">
     <div class="container-fluid d-flex align-items-center">
         <a href="Forside.php">
-        <img class="d-xl-none" src="images/MARITTIMAlogo-m.svg" alt="logo">
+        <img class="d-xl-none" src="images/MARITTIMA-LOGO-M.svg" alt="logo">
         </a>
         <button class="navbar-toggler border-0 shadow-none"  type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -24,7 +24,7 @@
 
                 <li class="nav justify-content-center p-xl-4">
                     <a class="justify-content-center d-flex" href="Forside.php">
-                    <img class="d-xl-block d-none  " src="images/logo.svg" alt="logo"></a>
+                    <img class="d-xl-block d-none  w-75 " src="images/logo-nav-D.svg" alt="logo"></a>
 
                 </li>
 
@@ -32,7 +32,7 @@
                     <a class="nav-link links" href="Events.php">EVENTS</a>
                 </li>
                 <li class="nav-item p-xl-3">
-                    <a class="nav-link links" href="Omkring%20os.php">HISTORIEN</a>
+                    <a class="nav-link links" href="Historien.php">HISTORIEN</a>
                 </li>
                 <li class="nav-item p-xl-3">
                     <a class="nav-link links" href="Maps.php">FIND OS</a>

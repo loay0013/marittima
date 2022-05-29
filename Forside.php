@@ -31,7 +31,7 @@
         </video>
     </div>
     <div class="logo d-xl-none d-block">
-        <img src="images/logo%20med.svg" alt="Marittima logo med slogan">
+        <img src="images/Logo-m.svg" alt="Marittima logo med slogan">
     </div>
     <div class="d-none d-xl-block text-light logo">
         <h1 class="text-center">
@@ -41,7 +41,7 @@
             Skræddersyet lige til dig.
         </p>
     </div>
-    <div class="btn1 m-2 ">
+    <div class="btn1 m-2 mt-4 ">
         <a class="btn  btn-btn1   d-flex justify-content-center rounded-0 " href="Booking.php">
             <p class="m-0">LAV EN RESERVATION</p>
         </a>
