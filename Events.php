@@ -12,6 +12,7 @@
     og andre lækre oplevelser for dig, din familie og venner">
 	<meta name="keywords" content="Events, Vinsmagning, Casino, Livemusik, Familie, Venner, Oplevelser">
 
+    <link rel='icon' href='images/logosortudenslogan%20.svg' type='image/x-icon' sizes="40x40" />
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
     <link href="css/styles.css" rel="stylesheet" type="text/css">
     <link href="css/Mikkelsstyles.css" rel="stylesheet" type="text/css">
@@ -42,7 +43,7 @@
     </div>
 
     <div class="icon position-absolute bottom-0 text-center w-100 text-light">
-        <a class="text-light" href=""><i class="fa-solid fa-chevron-down fa-2x"></i></a>
+        <a class="text-light" href=""><i class="fa-solid fa-chevron-down fa-2x p-3"></i></a>
     </div>
 
 </header>

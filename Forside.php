@@ -12,7 +12,7 @@
     druer, distrikter og smage i en samlet vidunderlig vinoplevelse på vandet. ">
 	<meta name="keywords" content="Vin, Unik, Oplevelse, Events, Smag, Båd, Unik Oplevelse">
 
-
+    <link rel='icon' href='images/logosortudenslogan%20.svg' type='image/x-icon' sizes="40x40" />
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
     <link href="css/styles.css" rel="stylesheet" type="text/css">
     <link rel="stylesheet" href="https://use.typekit.net/zmy5mob.css">
