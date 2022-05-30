@@ -1,3 +1,7 @@
+@font-face {
+  font-family:"myFirstFont";
+  src:url('../Font/Anjelina.ttf');
+}
 
 #hero {
   display: grid;
@@ -18,12 +22,12 @@
 }
 
 h1 {
-  font-family: "Anjelina Modern Calligraphy", sans-serif;
+  font-family: "myFirstFont", sans-serif;
   font-size: 73px;
 }
 
 h2 {
-  font-family: "Futura PT", sans-serif;
+  font-family: "futura-pt", sans-serif;
   font-weight: 450;
   font-size: 26px;
   letter-spacing: 1px;
@@ -31,20 +35,20 @@ h2 {
 }
 
 h3 {
-  font-family: "Futura PT", sans-serif;
+  font-family: "futura-pt", sans-serif;
   font-size: 18px;
   font-weight: 200;
 }
 
 .wine-text {
-  font-family: "Open Sans", sans-serif;
+  font-family: "open-sans", sans-serif;
   font-size: 16px;
   color: #2f2f2f;
   line-height: 30px;
 }
 
 .info-text {
-  font-family: "Open Sans", sans-serif;
+  font-family: "open-sans", sans-serif;
   font-weight: 100;
   font-size: 18px;
   color: #2f2f2f;
