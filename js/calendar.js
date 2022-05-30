@@ -59,7 +59,7 @@ const renderCalendar = () => {
         ) {
             days += `<div class="today">${i}</div>`;
         } else {
-            days += `<div>${i}</div>`;
+            days += `<div class="date">${i}</div>`;
         }
     }
 
@@ -67,7 +67,16 @@ const renderCalendar = () => {
         days += `<div class="next-date">${j}</div>`;
         monthDays.innerHTML = days;
     }
+
+    [...monthDays.children].forEach(day => day.addEventListener('click', () => {
+        clear();
+        day.classList.add('today');
+    }));
 };
+
+const clear = () => {
+    document.querySelectorAll(".days > div").forEach(day => day.classList.remove('today'));
+}
 
 document.querySelector(".prev").addEventListener("click", () => {
     date.setMonth(date.getMonth() - 1);

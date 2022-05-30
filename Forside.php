@@ -47,8 +47,8 @@
         </p>
     </div>
     <div class="btn1 m-2 mt-4 ">
-        <a class="btn  btn-btn1   d-flex justify-content-center rounded-0 " href="Booking.php">
-            <p class="m-0">LAV EN RESERVATION</p>
+        <a class="btn  btn-btn1   d-flex justify-content-center rounded-0 " href="#">
+            <p class="m-0">MENUKORT</p>
         </a>
         <a class="btn btn-btn1  d-flex mt-3 justify-content-center rounded-0" href="#Tid">
             <p class="m-0">ÅBNINGSTIDER</p>
@@ -91,7 +91,7 @@
         </p>
 
         <div class="mx-3 mb-2 mb-md-0">
-            <a class="btn btn-btn1 rounded-0" href="Omkring%20os.php">LÆS MERE</a>
+            <a class="btn btn-btn1 rounded-0" href="Historien.php">LÆS MERE</a>
         </div>
     </div>
 
@@ -117,7 +117,7 @@
         </p>
     </div>
         <div class="mx-3 mb-2 mb-md-0">
-            <a class="btn btn-btn1 rounded-0" href="Booking.php">LÆS MERE</a>
+            <a class="btn btn-btn1 rounded-0" href="Private%20%20events.php">LÆS MERE</a>
         </div>
     </div>
 

@@ -104,7 +104,7 @@
             <div class="card bg-om  col-md-6 p-2 border-0">
                 <p class="card-title text-center">GITTE HAAHR FORNITZ</p>
                 <div class="justify-content-center d-flex">
-                <img src="images/jes.png" class="card-img-top rounded-circle bg-om w-25" alt="..."></div>
+                <img src="images/Gitte.jpg" class="card-img-top rounded-circle bg-om w-25" alt="..."></div>
                 <div class="card-body">
                     <p class="card-text text-center"> GITTE.</div>
             </div>

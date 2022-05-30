@@ -9,35 +9,34 @@
         </button>
         <div class="collapse navbar-collapse justify-content-center  p-0 " id="navbarNav">
             <ul class="nav flex-column flex-xl-row">
-                <li class="nav-item p-xl-3">
+                <li class="nav-item p-xl-2">
                     <a class="nav-link links" aria-current="page" href="Forside.php">FORSIDE</a>
                 </li>
-                <li class="nav-item p-xl-3">
+                <li class="nav-item p-xl-2">
                     <a class="nav-link links" href="Vinoteque.php">VINOTEQUE</a>
                 </li>
-                <li class="nav-item p-xl-3">
+                <li class="nav-item p-xl-2">
                     <a class="nav-link links" href="Booking.php">BOOKING</a>
                 </li>
-                <li class="nav-item p-xl-3">
+                <li class="nav-item p-xl-2">
                     <a class="nav-link links" href="Private%20%20events.php">PRIVATE EVENTS</a>
                 </li>
 
-                <li class="nav justify-content-center p-xl-4">
+                <li class="nav justify-content-center p-xl-3">
                     <a class="justify-content-center d-flex" href="Forside.php">
                     <img class="d-xl-block d-none  w-75 " src="images/logo-nav-D.svg" alt="logo"></a>
-
                 </li>
 
-                <li class="nav-item p-xl-3">
+                <li class="nav-item p-xl-2">
                     <a class="nav-link links" href="Events.php">EVENTS</a>
                 </li>
-                <li class="nav-item p-xl-3">
+                <li class="nav-item p-xl-2">
                     <a class="nav-link links" href="Historien.php">HISTORIEN</a>
                 </li>
-                <li class="nav-item p-xl-3">
+                <li class="nav-item p-xl-2">
                     <a class="nav-link links" href="Maps.php">FIND OS</a>
                 </li>
-                <li class="nav-item p-xl-3">
+                <li class="nav-item p-xl-2">
                     <a class="nav-link links" href="Kontakt.php">KONTAKT OS</a>
                 </li>
             </ul>
