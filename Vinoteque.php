@@ -11,7 +11,7 @@
     <meta name="description" content="Udforsk og nyd et væld af fremragende vine og spiritus igennem vores Vinoteque. En oplevelse der er lige så belønnet som bådens brands.">
 	<meta name="keywords" content="Spiritus, Vin, Oplev, Oplevelse, Fremragende, Båden, Udforsk, Vandet">
 
-
+    <link rel='icon' href='images/logosortudenslogan%20.svg' type='image/x-icon' sizes="40x40" />
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
     <link href="css/styles.css" rel="stylesheet" type="text/css">
     <script src="https://kit.fontawesome.com/b7f7f27b49.js" crossorigin="anonymous"></script>
@@ -34,17 +34,17 @@
     <div class="row gx-0">
         <div class="col-12 hero-text text-light text-center">
             <h1>Vinoteque</h1>
-            <p class="g-2">Vin er vores speciale</p>
+            <p class="g-2" >Vin er vores speciale</p>
         </div>
     </div>
     <div>
-        <div class="btn1 mt-3" >
-            <a class="btn btn-btn1 rounded-0" href="images/Marittimas%20vinkort.pdf" download="VinKort|pdf">SE VINKORT</a>
+        <div class="btn1 mt-3 opacity-100" >
+            <a class="btn btn-btn1 rounded-0" href="images/Marittimas%20vinkort.pdf" download="">SE VINKORT</a>
         </div>
     </div>
 
     <div class="icon position-absolute bottom-0 text-center w-100 text-light">
-		<a class="text-light" href="#Vinoteque"><i class="fa-solid fa-chevron-down fa-2x"></i></a>
+		<a class="text-light" href="#Vinoteque"><i class="fa-solid fa-chevron-down fa-2x p-3"></i></a>
     </div>
 </header>
 
