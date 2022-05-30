@@ -17,6 +17,9 @@
     <script src="https://kit.fontawesome.com/b7f7f27b49.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="https://use.typekit.net/zmy5mob.css">
     <link rel="stylesheet" href="https://use.typekit.net/zmy5mob.css">
+    <link rel="stylesheet" href="https://use.typekit.net/zmy5mob.css">
+
+
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
