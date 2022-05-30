@@ -16,8 +16,6 @@
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
     <link href="css/styles.css" rel="stylesheet" type="text/css">
     <link rel="stylesheet" href="https://use.typekit.net/zmy5mob.css">
-    <link rel="stylesheet" href="https://use.typekit.net/zmy5mob.css">
-    <link rel="stylesheet" href="https://use.typekit.net/zmy5mob.css">
 
 
 
@@ -30,7 +28,7 @@
 <body class="h-100">
 
 <?php include "includes/nav.php"; ?>
-<header class="video-container h-100 position-relative overflow">
+<header class=" h-100 position-relative overflow">
     <div class="video">
         <video playsinline autoplay muted loop id="myVideo" class="d-block position-absolute">
             <source src="images/pexels-mart-production-7330180.mp4">
@@ -91,13 +89,13 @@
 
         </p>
 
-        <div class="mx-3 mb-2 mb-md-0">
+        <div class="mx-3 mb-3 ">
             <a class="btn btn-btn1 rounded-0" href="Historien.php">LÆS MERE</a>
         </div>
     </div>
 
-    <div class="col-md-6">
-        <img class=" w-100" src="images/vin.png" alt="Vinflaske og vinglas">
+    <div class="col-md-6 ">
+        <img class="w-100 h-100 cover" src="images/vin.png" alt="Vinflaske og vinglas">
     </div>
 </section>
 

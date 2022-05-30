@@ -16,8 +16,6 @@
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
     <link href="css/styles.css" rel="stylesheet" type="text/css">
     <link rel="stylesheet" href="https://use.typekit.net/zmy5mob.css">
-    <link rel="stylesheet" href="https://use.typekit.net/zmy5mob.css">
-    <link rel="stylesheet" href="https://use.typekit.net/zmy5mob.css">
 
 
     <script src="https://kit.fontawesome.com/b7f7f27b49.js" crossorigin="anonymous"></script>
@@ -100,7 +98,7 @@
 
 
     <div class="col-md-6 order-md-1">
-        <img class="img-fluid w-100" src="images/Mad-img.png" alt="Mad på bordet">
+        <img class="img-fluid w-100 h-100 cover" src="images/Mad-img.png" alt="Mad på bordet">
     </div>
 
 </section>
@@ -187,7 +185,7 @@
         <h2 class="text-center p-3">Sådan booker du</h2>
         <p class="text-center">3-step guide</p>
 
-        <div class="container" style="max-width: 300px;">
+        <div class="container max">
             <div class="row">
                 <div class="col-auto">
                     <img src="images/cir1.svg" alt="Cirkel med nummer 1">
@@ -218,7 +216,7 @@
 
 
 
-            <div class="btn btn-btn1 border-0 p-2 w-50 mt-5 rounded-0">
+            <div class="btn btn-btn1 border-0 p-2 w-50 mt-5 rounded-0 mb-3">
                 <p class="text-center mb-0">
                     <a class="text-decoration-none text-light" href="Booking.php">Book Nu</a>
                 </p>

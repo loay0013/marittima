@@ -18,8 +18,6 @@
     <link href="css/styles.css" rel="stylesheet" type="text/css">
     <link href="css/Maloustyles.css" rel="stylesheet" type="text/css">
     <link rel="stylesheet" href="https://use.typekit.net/zmy5mob.css">
-    <link rel="stylesheet" href="https://use.typekit.net/zmy5mob.css">
-    <link rel="stylesheet" href="https://use.typekit.net/zmy5mob.css">
 
 
     <script src="https://kit.fontawesome.com/b7f7f27b49.js" crossorigin="anonymous"></script>
@@ -38,7 +36,7 @@
     <div class="overlay"></div>
 
     <div class="row">
-        <div class="col-12 text-light text-center">
+        <div class="col-12 hero-text text-light text-center">
             <h1>Historien</h1>
             <p class="g-2">En lille historie om hvem vi er</p>
         </div>

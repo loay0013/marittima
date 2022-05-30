@@ -17,8 +17,6 @@
     <link href="css/styles.css" rel="stylesheet" type="text/css">
     <link href="css/Mikkelsstyles.css" rel="stylesheet" type="text/css">
     <link rel="stylesheet" href="https://use.typekit.net/zmy5mob.css">
-    <link rel="stylesheet" href="https://use.typekit.net/zmy5mob.css">
-    <link rel="stylesheet" href="https://use.typekit.net/zmy5mob.css">
 
 
     <script src="https://kit.fontawesome.com/b7f7f27b49.js" crossorigin="anonymous"></script>
@@ -48,7 +46,7 @@
 
 </header>
 
-<section class="container events-container pb-3 pt-3 h-auto mx-auto w-auto">
+<section class="events-container pb-3 pt-3 h-auto mx-auto w-auto bg-text">
     <div class="row">
         <div class="col-12 text-center">
             <h2 class="mt-5 mb-0">Events & Arrangementer</h2>
