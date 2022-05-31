@@ -101,7 +101,7 @@
                 Druerne
             </h2>
             <p class="p-3">
-                Druerne er specielt plukket med udgangspunkt i at opnå den bedste vin muligt, det gælder lige fra sorten til sødmen til syrligheden.
+                Druerne er specielt plukket med udgangspunkt i at opnå den bedste vin muligt,<br> det gælder lige fra sorten til sødmen til syrligheden.
             </p>
             <div class="d-flex justify-content-center">
                 <img src="images/vinteq-img3.png" alt="Vindruer">

@@ -1,11 +1,11 @@
 
 <nav class="navbar navbar-expand-xl navbar-dark bg-transparent position-absolute w-100 z-index">
     <div class="container-fluid d-flex align-items-center">
-        <a href="index.php">
+        <a class="text-decoration-none" href="index.php">
             <div class="d-xl-none">
-                <svg xmlns="http://www.w3.org/2000/svg" width="110" height="30" viewBox="0 0 110 30">
-                    <text id="MARITTIMA" transform="translate(0 25)" fill="#fff" font-size="26" font-family="LeHavre-Reg, Le Havre"><tspan x="0" y="0">MARITTIMA</tspan></text>
-                </svg>
+                <p class="text-light logo-text">
+                    MARITTIMA
+                </p>
             </div>
 
         </a>
