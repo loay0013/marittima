@@ -57,7 +57,9 @@
 </div>
 
 <section>
-    <img class="img-fluid w-100 h-100" src="images/ror.jpeg" alt="vin og båd">
+    <div class="container-fluid p-md-5">
+    <img class="img-fluid" src="images/ror.jpeg" alt="vin og båd">
+    </div>
 </section>
 
 
@@ -102,14 +104,14 @@
                 <div class="d-flex justify-content-center">
                 <img src="images/jes.png" class="card-img-top rounded-circle bg-om w-25" alt="..."></div>
                 <div class="card-body">
-                    <p class="card-text text-center"> JES. </div>
+                    <p class="card-text text-center"> Ejer </div>
             </div>
             <div class="card bg-om  col-md-6 p-2 border-0">
                 <p class="card-title text-center">GITTE HAAHR FORNITZ</p>
                 <div class="justify-content-center d-flex">
                 <img src="images/Gitte.jpg" class="card-img-top rounded-circle bg-om w-25" alt="..."></div>
                 <div class="card-body">
-                    <p class="card-text text-center"> GITTE.</div>
+                    <p class="card-text text-center">Leder</div>
             </div>
 
         </div>

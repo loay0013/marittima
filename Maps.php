@@ -50,7 +50,7 @@
 			Adresse
 		</h2>
 		<p class="text-center p-3">
-			Strandvejen 28
+			Sandgade
 			<br>
 			4800 Nykøbing Falster
 		</p>

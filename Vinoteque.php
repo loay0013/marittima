@@ -51,7 +51,7 @@
         <img class="w-100" src="images/vinteq-img6.png" alt="Øl i glas">
     </div>
     <div class="col-md-6 order-1 order-lg-2 d-flex flex-column justify-content-center ">
-        <p class="text-center">
+        <p class="text-center mt-2">
             vi serverer
         </p>
         <h3 class="text-center">
@@ -73,7 +73,7 @@
 
 
 
-<section class="bg-background1">
+<section id="Vinoteque" class="bg-background1">
     <div class="text-center pt-4">
         <h2>
             Vinen
@@ -123,7 +123,7 @@
 
     </div>
 </section>
-<section id="Vinoteque" class="row gx-0 ">
+<section  class="row gx-0 ">
     <div class="col-md-6 pt-4">
         <p class="text-center">
             idéen bag

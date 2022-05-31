@@ -51,7 +51,7 @@ p {
   z-index: 999;
 }
 .hero-text{
-  z-index: 999;
+  z-index:1;
 }
 .cover{
   object-fit: cover;
@@ -284,4 +284,12 @@ img {
 .title-contact {
   font-family: "Futura PT", sans-serif;
   font-weight: 500;
+}
+
+
+@media screen and (max-width: 1199px) {
+.tlf{
+  background-color: #1A1A1A;
+  z-index: 999;
+}
 }

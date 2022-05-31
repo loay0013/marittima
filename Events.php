@@ -33,7 +33,7 @@
 <header id="hero" class="container-fluid">
     <div class="overlay"></div>
 
-    <div class="row">
+    <div class="row gx-0">
         <div class="col-12 hero-text text-light text-center">
             <h1>Events</h1>
             <p class="g-2">Få en ekstraodinær aften og deltag i sjove events på båden Marittima.</p>
@@ -47,7 +47,7 @@
 </header>
 
 <section class="events-container pb-3 pt-3 h-auto mx-auto w-auto bg-text">
-    <div class="row">
+    <div class="row gx-0">
         <div class="col-12 text-center">
             <h2 class="mt-5 mb-0">Events & Arrangementer</h2>
             <h3 class="mt-2">Båden egne begivenheder</h3>
@@ -74,7 +74,7 @@
     </div>
 
     <div class="col-md-6">
-        <img class="img-fluid w-100" src="images/winetasting.jpg" alt="Kvinde drikker rødvin">
+        <img class="img-fluid w-100 h-100 cover" src="images/winetasting.jpg" alt="Kvinde drikker rødvin">
     </div>
 </section>
 
@@ -93,7 +93,7 @@
     </div>
 
     <div class="col-md-6 order-lg-1">
-        <img class="img-fluid w-100 h-auto" src="images/Casino.jpg" alt="Casino og vin">
+        <img class="img-fluid w-100 h-100 cover" src="images/Casino.jpg" alt="Casino og vin">
     </div>
 </section>
 
@@ -114,7 +114,7 @@
     </div>
 
     <div class="col-md-6">
-        <img class="img-fluid h-100 w-100" src="images/Music.jpg" alt="Hygge livemusik">
+        <img class="img-fluid h-100 w-100 cover" src="images/Music.jpg" alt="Hygge livemusik">
     </div>
 </section>
 
