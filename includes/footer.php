@@ -1,18 +1,17 @@
+<!--footer-->
 <footer class="pt-5 bg-Footer footer text-light">
     <div class="flex-md-row flex-column d-flex">
+        <!--text footer-->
         <div class="col-md-4  flex-column align-items-center  d-flex  ">
             <h2 class="text-light">KONTAKT OS</h2>
-
                 <p class="mt-2 text-light">Sandgade</p>
                 <p class="mt-2 text-light">4800 Nykøbing Falster</p>
                 <p class="mt-2 text-light"><a href="tel:45 11 22 33 44" class="link-light text-decoration-none"> +45 11 22 33 44</a></p>
-
+        <!--knap-->
              <a href="https://goo.gl/maps/yxyHgbNWRJra5FMS9">
             <button class="btn btn-primary bg-Footer border-light rounded-0 mt-5" type="button">FIND VEJ</button></a>
-
-
         </div>
-
+<!--logo-->
     <div class="col-md-4  mt-5 mt-md-0 ">
            <div class=" d-flex justify-content-center">
                <a href="index.php">
@@ -22,7 +21,7 @@
        </div>
 
 
-
+<!-- so-icon-->
         <div class="col-md-4 align-items-center  mt-5 mt-md-0">
             <h3 class=" text-center p-3 p-md-0">FØLG OS</h3>
             <div class="d-flex justify-content-center p-3 mt-2">
@@ -45,14 +44,14 @@
                 </a>
                 </div>
             </div>
-
+<!--knap-->
                 <div class="d-flex w-100 gap-2 flex-column align-items-center">
                     <p class="mt-3">NYHEDSBREV</p>
                     <button type="button" class="btn btn-primary bg-Footer border-light rounded-0 mt-md-5" data-bs-toggle="modal" data-bs-target="#exampleModal">
                         TILMELD DIG
                     </button>
 
-                    <!-- Modal -->
+                    <!-- Modal til news -->
                     <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                         <div class="modal-dialog">
                             <div class="modal-content bg-news">
@@ -79,7 +78,7 @@
                 </div>
     </div>
 
-
+<!--text-->
     <div class=" d-flex align-items-center py-4 my-4 flex-column">
         <p class="text-light">© MARITTIMA 2022</p>
         <p class="text-light">All rights reserved.</p>

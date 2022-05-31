@@ -27,14 +27,13 @@
 
 <body class="h-100">
 
-
+<!--navbar-->
 <?php include "includes/nav.php";?>
 
 <!-- Header med text -->
-
 <header id="hero" class="container-fluid">
     <div class="overlay"></div>
-
+    <!--text til header-->
     <div class="row">
         <div class="col-12 hero-text text-light text-center">
             <h1>Historien</h1>
@@ -46,7 +45,7 @@
     </div>
 </header>
 
-<!--text-->
+ <!--text-->
 <div class="text-center p-5">
     <h2>
         VORES HISTORIE
@@ -55,14 +54,15 @@
         idéen, missionen & visionen
     </p>
 </div>
-
+<!--billede-->
 <section>
     <div class="container-fluid p-md-5">
     <img class="img-fluid" src="images/ror.jpeg" alt="vin og båd">
     </div>
 </section>
 
-
+    <!--text-->
+<section>
 <div class="container-fluid">
     <div class="row p-5 px-4">
         <div class="col-sm-6">
@@ -93,8 +93,10 @@
         </div>
     </div>
 </div>
+</section>
 
-
+<!--marittima teamet-->
+<section>
 <div class="container-fluid p-3 text-light bg-om">
     <div class="text-center">
         <h2 class="p-3">TEAMET BAG MARITTIMA</h2>
@@ -117,14 +119,15 @@
         </div>
     </div>
 </div>
+</section>
 
 
 
 
-<script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
-
+<!--footer-->
 <?php include "includes/footer.php";?>
-
+<!--bootstrap script-->
+<script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
 <!-- Nyhedsbrev -->
 <script src="js/news.js"></script>
 </body>

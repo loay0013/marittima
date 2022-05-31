@@ -25,21 +25,25 @@
 
 <body class="h-100">
 
-
+<!--navbar-->
 <?php include "includes/nav.php"; ?>
+<!--header-->
 <header id="hero4" class="container-fluid">
     <div class="overlay"></div>
-
+    <!--text til header-->
     <div class="row gx-0">
         <div class="col-12 hero-text text-light text-center">
             <h1>Private Events</h1>
             <p class="g-2">Lej vores smukke lokaler til din næste firmafest, fødselsdag eller en privat vinsmagning.</p>
         </div>
     </div>
+    <!-- icon-->
     <div class="icon position-absolute bottom-0 text-center w-100 text-light">
         <i class="fa-solid fa-chevron-down fa-2x p-3"></i>
     </div>
 </header>
+
+<!--text-->
 <section class="row gx-0 ">
     <div class="col-md-6 pt-4 d-flex flex-column justify-content-center">
         <p class="text-center">
@@ -64,15 +68,13 @@
             </p>
         </div>
     </div>
-
+       <!--billede-->
     <div class="col-md-6">
         <img class="w-100 h-100" src="images/Private-img1.png" alt="vinglas">
     </div>
 </section>
-
+<!--text-->
 <section class="row gx-0 historie-læsmere">
-
-
     <div class="col-md-6 order-md-2 d-flex flex-column justify-content-center">
         <h2 class="p-3 text-center">Mad</h2>
         <div class="mt-3 p-3 ">
@@ -85,24 +87,21 @@
                 Det er et stort ønske fra Marittimas side, at man laver aftaler med restauranter i lokalområdet.
 
                 Vi har derfor lavet en liste med restauranter vi kan anbefale.
-
-
             </p>
         </div>
-
+<!--knap-->
         <div class="px-3 pb-3">
             <a class="btn btn-btn1 rounded-0" download="Madvenner|pdf" href="images/Marittimas%20madvenner.pdf">SE
                 ANBEFALINGER</a>
         </div>
     </div>
 
-
+<!--billede-->
     <div class="col-md-6 order-md-1">
         <img class="img-fluid w-100 h-100 cover" src="images/Mad-img.png" alt="Mad på bordet">
     </div>
-
 </section>
-
+<!--text-->
 <section class="row gx-0 ">
     <div class="col-md-6 p-4 d-flex flex-column justify-content-center">
         <h2 class="p-3 text-center">Drikke</h2>
@@ -116,16 +115,17 @@
                 Der afregnes selvfølgelig kun for de flasker der er åbnet under arrangementet.
             </p>
         </div>
+        <!--knap-->
         <div>
             <a class="btn btn-btn1 rounded-0" href="images/Marittimas%20vinkort.pdf" download="VinKort|pdf">SE
                 VINKORT</a>
         </div>
     </div>
-
+<!--billede-->
     <div class="col-md-6">
         <img class="img-fluid w-100" src="images/Vinkort-img.png" alt="Vinhandler og vinudvalg">
     </div>
-
+<!--text priser-->
 </section>
 <section class="row gx-0 bg-om ">
     <div class="col-md-6 container-md">
@@ -134,7 +134,7 @@
         </h2>
         <div class="row gx-0 p-md-5">
             <div class="col-6 ">
-                <mmul class="text-light text-center me-5  list-unstyled">
+                <ul class="text-light text-center me-5  list-unstyled">
                     <li class="p-2">
                         Lokale
                     </li>
@@ -145,7 +145,7 @@
                     <li class="p-2">
                         Rengøring
                     </li>
-                </mmul>
+                </ul>
             </div>
             <div class="col-6 text-center ">
                 <ul class="text-light list-unstyled">
@@ -181,6 +181,7 @@
             </div>
         </div>
     </div>
+    <!--text book-->
     <div class="col-md-6 bg-light rounded-3">
         <h2 class="text-center p-3">Sådan booker du</h2>
         <p class="text-center">3-step guide</p>
@@ -215,7 +216,7 @@
             </div>
 
 
-
+<!--knap-->
             <div class="btn btn-btn1 border-0 p-2 w-50 mt-5 rounded-0 mb-3">
                 <p class="text-center mb-0">
                     <a class="text-decoration-none text-light" href="Booking.php">Book Nu</a>
@@ -224,13 +225,14 @@
 
         </div>
     </div>
-
-
 </section>
 
 
-<script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+<!--footer-->
 <?php include "includes/footer.php"; ?>
+<!--Nyhedsbrev script-->
 <script src="js/news.js"></script>
+<!--bootstrap script-->
+<script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>

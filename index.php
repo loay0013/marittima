@@ -24,16 +24,22 @@
 
 <body class="h-100">
 
+<!--navbar-->
 <?php include "includes/nav.php"; ?>
+
+<!--header-->
 <header class=" h-100 position-relative overflow">
+    <!--video-->
     <div class="video">
         <video playsinline autoplay muted loop id="myVideo" class="d-block position-absolute">
             <source src="images/pexels-mart-production-7330180.mp4">
         </video>
     </div>
+    <!--logo-->
     <div class="logo d-xl-none">
         <img src="images/logo-Forside-Hero.png"alt="logo til hero">
     </div>
+    <!--header text-->
     <div class="d-none d-xl-block text-light logo">
         <h1 class="text-center">
             En unik oplevelse
@@ -42,6 +48,7 @@
             Skræddersyet lige til dig.
         </p>
     </div>
+    <!--call to action knap-->
     <div class="btn1 m-2 mt-4 ">
         <a class="btn  btn-btn1   d-flex justify-content-center rounded-0 " href="#">
             <p class="m-0">MENUKORT</p>
@@ -50,18 +57,20 @@
             <p class="m-0">ÅBNINGSTIDER</p>
         </a>
     </div>
-
+    <!-- icon-->
     <div class="icon position-absolute bottom-0 text-center w-100 text-light">
 		<a href="#Forside" class="text-light"><i class="fa-solid fa-chevron-down fa-2x p-3"></i></a>
     </div>
 </header>
 
-
+<!--section med text og billede og knap og logo-->
 <section id="Forside" class="row gx-0">
     <div class="col-md-6 d-flex flex-column justify-content-center ">
+        <!--logo-->
         <div class="d-flex justify-content-center mt-3">
            <img src="images/logosortudenslogan-til-f-f.png" alt="logo uden slogan">
         </div>
+        <!--text-->
         <p class="pt-3 mx-3 ">
             Hos Marittima ønsker vi at skabe en god oplevelse for alle.
 
@@ -84,21 +93,23 @@
 
 
         </p>
-
+        <!--knap-->
         <div class="mx-3 mb-3 ">
             <a class="btn btn-btn1 rounded-0" href="Historien.php">LÆS MERE</a>
         </div>
     </div>
-
+        <!-- Et billede-->
     <div class="col-md-6 ">
         <img class="w-100 h-100 cover" src="images/vin.png" alt="Vinflaske og vinglas">
     </div>
 </section>
-
+<!--section med text og billede og knap-->
 <section class="row gx-0">
     <div class="col-md-6 order-md-2 d-flex flex-column justify-content-center">
         <h2 class="text-center mt-4 mx-3">Private Arrangementer</h2>
+
        <div class="d-flex  align-items-center">
+
         <p class="mx-3 pt-4">
             Marittima kan stå for alle slags fester og selskaber, op til 70 personer, uanset om der ønskes en firmafest, fødselsdag, julefrokost, barnedåb, bryllup eller noget helt andet.
 
@@ -107,20 +118,21 @@
             Når du lejer selskabsdækket på Marittima, har du fuld gastronomisk frihed, da maden bestilles udefra.
 
             Er du i tvivl om, hvor maden skal bestilles? Så tag et kig på listen over hvem vi kan anbefale i nærområdet.
-
-
         </p>
     </div>
+        <!--knap-->
         <div class="mx-3 mb-3 mb-md-0">
             <a class="btn btn-btn1 rounded-0" href="Private%20%20events.php">LÆS MERE</a>
         </div>
     </div>
-
+        <!--billede-->
     <div class="col-md-6 order-md-1 ">
         <img class="w-100 cover h-100" src="images/w-vin.png" alt="Flaske hvidvin">
     </div>
-
 </section>
+
+
+<!--section til åbningstider-->
 <section class="bg-om">
     <h2 class="text-center pt-4 text-light">
         VINOTEQUE
@@ -213,9 +225,11 @@
         </div>
     </div>
 </section>
-
+<!--bootstrap script-->
 <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+<!--footer-->
 <?php include "includes/footer.php"; ?>
+<!--Nyhedsbrev script-->
 <script src="js/news.js"></script>
 </body>
 </html>

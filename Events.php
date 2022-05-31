@@ -27,25 +27,25 @@
 
 <body class="h-100">
 
-
+<!--navbar-->
 <?php include "includes/nav.php";?>
-
+<!--header-->
 <header id="hero" class="container-fluid">
     <div class="overlay"></div>
-
+    <!--text til header-->
     <div class="row gx-0">
         <div class="col-12 hero-text text-light text-center">
             <h1>Events</h1>
             <p class="g-2">Få en ekstraodinær aften og deltag i sjove events på båden Marittima.</p>
         </div>
     </div>
-
+    <!-- icon-->
     <div class="icon position-absolute bottom-0 text-center w-100 text-light">
         <a class="text-light" href=""><i class="fa-solid fa-chevron-down fa-2x p-3"></i></a>
     </div>
 
 </header>
-
+<!--text-->
 <section class="events-container pb-3 pt-3 h-auto mx-auto w-auto bg-text">
     <div class="row gx-0">
         <div class="col-12 text-center">
@@ -59,8 +59,6 @@
 
 
 <!--- Wine Tasting --->
-
-
 <section class="row gx-0 wine-tasting">
     <div class="col-md-6 mb-5 my-md-5">
         <div class="d-flex justify-content-center mt-3"></div>
@@ -72,15 +70,14 @@
 			Frankrig.<br><br>Der vil blive lavet en special menu af delikate snacks og tapas, som får det bedste frem i vinene.
 		</p>
     </div>
-
+<!--billede-->
     <div class="col-md-6">
         <img class="img-fluid w-100 h-100 cover" src="images/winetasting.jpg" alt="Kvinde drikker rødvin">
     </div>
 </section>
 
 
-<!--- Casino --->
-
+<!--- Casino text --->
 <section class="row gx-0 casino-night">
     <div class="col-md-6 mb-5 order-md-2 my-md-5">
         <h2 class="text-center mt-5">Casino-aften</h2>
@@ -92,14 +89,14 @@
         </p>
     </div>
 
+<!--billede-->
     <div class="col-md-6 order-lg-1">
         <img class="img-fluid w-100 h-100 cover" src="images/Casino.jpg" alt="Casino og vin">
     </div>
 </section>
 
 
-<!--- Live-Musik --->
-
+<!--- Live-Musik text --->
 <section class="row gx-0 live-music">
     <div class="col-md-6 mb-5 my-md-5">
         <div class="d-flex justify-content-center mt-3"></div>
@@ -112,7 +109,7 @@
 
 		</p>
     </div>
-
+<!--billede-->
     <div class="col-md-6">
         <img class="img-fluid h-100 w-100 cover" src="images/Music.jpg" alt="Hygge livemusik">
     </div>
@@ -120,10 +117,10 @@
 
 
 <!--- Footer Section --->
-
 <?php include "includes/footer.php"; ?>
-
+<!--bootstrap script-->
 <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+<!--Nyhedsbrev script-->
 <script src="js/news.js"></script>
 </body>
 </html>

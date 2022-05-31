@@ -32,30 +32,30 @@
 
 
 
-
+<!--navbar-->
 <?php include "includes/nav.php";?>
 
-
+<!--header-->
 <header id="hero" class="container-fluid">
     <div class="overlay"></div>
-
+    <!--text til header-->
     <div class="row">
         <div class="col-12 hero-text text-light text-center">
             <h1>Booking</h1>
             <p class="g-2">Book dit næste arrangement.</p>
         </div>
     </div>
-
+    <!-- icon-->
     <div class="icon position-absolute bottom-0 text-center w-100 text-light">
         <i class="fa-solid fa-chevron-down fa-2x p-3"></i>
     </div>
 </header>
-
+<!--calendar-->
 <div class="container">
 	<div class="calendar">
 		<div class="month">
             <div class="prev p-5"><i class="fas fa-angle-left"></i></div>
-
+            <!--text calendar-->
 			<div class="date">
 				<h1 class="calendar-text"></h1>
 				<p></p>
@@ -63,6 +63,7 @@
 
             <div class="next p-5"><i class="fas fa-angle-right next"></i></div>
 		</div>
+        <!--dag calendar-->
 		<div class="weekdays">
 			<div>Søn</div>
 			<div>Man</div>
@@ -75,11 +76,13 @@
 		<div class="days"></div>
 	</div>
 </div>
-
+<!--footer-->
 <?php include "includes/footer.php";?>
-
+<!--bootstrap script-->
 <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+<!--calendar script-->
 <script src="js/calendar.js"></script>
+<!--Nyhedsbrev script-->
 <script src="js/news.js"></script>
 </body>
 </html>

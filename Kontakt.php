@@ -26,28 +26,30 @@
 <body class="h-100">
 
 
-
+<!--navbar-->
 <?php include "includes/nav.php";?>
-
+<!--header-->
 <header id="hero2" class="container-fluid">
     <div class="overlay"></div>
-    <div class="row">
+    <!--text til header-->
+    <div class="row gx-0">
         <div class="col-12 hero-text text-light text-center">
             <h1>Kontakt os</h1>
             <p class="g-2">Kom nemt i kontakt med os her</p>
         </div>
     </div>
-
-
+    <!-- icon-->
     <div class="icon position-absolute bottom-0 text-center w-100 text-light">
         <i class="fa-solid fa-chevron-down fa-2x p-3"></i>
     </div>
 </header>
 
 
+    <!--Kontakt-->
 <section class="kontakt_os">
 	<h1 class="title-contact fs-3">Kontakt os</h1 class="title-contact fs-3">
 	<div class="container-contact">
+        <!--label og input for kontakt-->
 		<div class="contact-form-kontakt row">
 			<div class="form-field-kontakt col-lg-6">
 				<input id="name" class="input-text-kontakt" type="text" name="">
@@ -68,11 +70,12 @@
 	</div>
 </section>
 
-
-
-<script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+<!--footer-->
 
 <?php include "includes/footer.php";?>
+<!--Nyhedsbrev script-->
 <script src="js/news.js"></script>
+<!--bootstrap script-->
+<script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>

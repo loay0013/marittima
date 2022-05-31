@@ -24,32 +24,36 @@
 
 <body class="h-100">
 
-
+     <!--navbar-->
 <?php include "includes/nav.php";?>
+<!--header-->
 <header id="hero1" class="container-fluid">
     <div class="overlay"></div>
-
+     <!--text til header-->
     <div class="row gx-0">
         <div class="col-12 hero-text text-light text-center">
             <h1>Vinoteque</h1>
             <p class="g-2" >Vin er vores speciale</p>
         </div>
     </div>
-    <div>
-        <div class="btn1 mt-3 opacity-100" >
+
+    <!--call to action knap-->
+    <div class="btn1 mt-3 opacity-100" >
             <a class="btn btn-btn1 rounded-0" href="images/Marittimas%20vinkort.pdf" download="">SE VINKORT</a>
         </div>
-    </div>
 
+    <!-- icon-->
     <div class="icon position-absolute bottom-0 text-center w-100 text-light">
 		<a class="text-light" href="#Vinoteque"><i class="fa-solid fa-chevron-down fa-2x p-3"></i></a>
     </div>
 </header>
-
+     <!--section med text og billede-->
 <section class="row gx-0">
+    <!--billede-->
     <div class="col-md-6 order-2 order-lg-1">
         <img class="w-100" src="images/vinteq-img6.png" alt="Øl i glas">
     </div>
+    <!--text-->
     <div class="col-md-6 order-1 order-lg-2 d-flex flex-column justify-content-center ">
         <p class="text-center mt-2">
             vi serverer
@@ -72,8 +76,9 @@
 </section>
 
 
-
+     <!--section med text og billede-->
 <section id="Vinoteque" class="bg-background1">
+    <!--text-->
     <div class="text-center pt-4">
         <h2>
             Vinen
@@ -82,7 +87,7 @@
             vores speciale
         </p>
     </div>
-
+    <!--text-->
     <div class="row gx-0">
         <div class="col-md-4 pt-4 d-flex flex-column justify-content-center align-items-start">
             <h2 class="p-3">
@@ -92,10 +97,12 @@
                 Alt alkohol kommer fra vores vinhandel  Marius Mortensen, som er et af verdens ældste vinhandlere,<br>
                 som har solgt vin siden 1865.
             </p>
+            <!--billede-->
             <div class="d-flex justify-content-center">
             <img src="images/vinteq-img2.png" alt="Rødvin hældt op i glas">
             </div>
         </div>
+        <!--text-->
         <div class="col-md-4 pt-4 d-flex flex-column justify-content-center align-items-start">
             <h2 class="p-3">
                 Druerne
@@ -103,27 +110,34 @@
             <p class="p-3">
                 Druerne er specielt plukket med udgangspunkt i at opnå den bedste vin muligt,<br> det gælder lige fra sorten til sødmen til syrligheden.
             </p>
+            <!--billede-->
             <div class="d-flex justify-content-center">
                 <img src="images/vinteq-img3.png" alt="Vindruer">
             </div>
         </div>
-        <div class="col-md-4 pt-4 d-flex flex-column justify-content-center align-items-start">
 
+        <!--text-->
+        <div class="col-md-4 pt-4 d-flex flex-column justify-content-center align-items-start">
             <h2 class="p-3">
                 Udvalget
             </h2>
             <p class="p-3">
                 Vinoteque Marittima har et udvalg på hel 85 forskellige vin, som kommer overalt fra kloden af.
 
-                Vi kan byde jer lige på den vin som bedst tilfredsstiller jer og mere til.</p>
+                Vi kan byde jer lige på den vin som bedst tilfredsstiller jer og mere til.
+            </p>
+            <!--billede-->
             <div class="d-flex justify-content-center">
                 <img src="images/vinteq-img4.png" alt="En flaske rødvin">
             </div>
         </div>
-
     </div>
 </section>
-<section  class="row gx-0 ">
+
+
+     <!--section med text og billede-->
+     <section  class="row gx-0 ">
+         <!--text-->
     <div class="col-md-6 pt-4">
         <p class="text-center">
             idéen bag
@@ -143,27 +157,19 @@
             Derfor er størstedelen af vores vine og vores andre specialiteter, lokale.
 
             Alle vores vine er af den bedste kvalitet, til de fineste priser, så alle kan være med.
-
-
-
-
-
         </p>
     </div>
-
+     <!--billede-->
     <div class="col-md-6">
         <img class="w-100 h-100" src="images/vinoteque-img1.png" alt="Rødvin i glas">
     </div>
 </section>
 
-
-
-
-
-
-<script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
-
+     <!--footer-->
 <?php include "includes/footer.php";?>
-<script src="js/news.js"></script>
+     <!--bootstrap script-->
+     <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+     <!--Nyhedsbrev script-->
+     <script src="js/news.js"></script>
 </body>
 </html>
