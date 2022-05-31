@@ -15,8 +15,9 @@
 
     <div class="col-md-4  mt-5 mt-md-0 ">
            <div class=" d-flex justify-content-center">
+               <a href="index.php">
                <img src="images/logo-til-footer.png" alt="logo uden slogan">
-
+               </a>
            </div>
        </div>
 
