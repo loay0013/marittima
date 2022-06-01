@@ -49,7 +49,7 @@
         </p>
     </div>
     <!--call to action knap-->
-    <div class="btn1 m-2 mt-4 ">
+    <div class="btn1 m-2 mt-5 ">
         <a class="btn  btn-btn1   d-flex justify-content-center rounded-0 " href="#">
             <p class="m-0">MENUKORT</p>
         </a>

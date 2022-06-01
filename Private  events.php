@@ -88,7 +88,7 @@
             </p>
         </div>
 <!--knap-->
-        <div class="m-5">
+        <div class="mx-5 mb-3">
             <a class="btn btn-btn1 rounded-0" download="Madvenner|pdf" href="images/Marittimas%20madvenner.pdf">SE
                 ANBEFALINGER</a>
         </div>
@@ -101,10 +101,10 @@
 </section>
 <!--text-->
 <section class="row gx-0 ">
-    <div class="col-md-6 p-4 d-flex flex-column justify-content-center">
+    <div class="col-md-6  d-flex flex-column justify-content-center">
         <h2 class="mt-5 text-center">Drikke</h2>
         <div class="m-5">
-            <p>
+            <p class="m-0">
                 Alle drikkevarer købes og bestilles fra Marius Mortensen, som derfor også betyder at vi kan give jer en
                 eksklusiv pris på al alkohol.<br><br>
 
@@ -114,7 +114,7 @@
             </p>
         </div>
         <!--knap-->
-        <div class="m-5">
+        <div class="mx-5 mb-3">
             <a class="btn btn-btn1 rounded-0" href="images/Marittimas%20vinkort.pdf" download="VinKort|pdf">SE
                 VINKORT</a>
         </div>

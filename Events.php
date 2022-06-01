@@ -51,7 +51,8 @@
         <div class="col-12 text-center">
             <h2 id="Events" class="mt-5 mb-0">Events & Arrangementer</h2>
             <h3 class="mt-2">Båden egne begivenheder</h3>
-            <p class="info-text mt-5 mx-5">På båden Marittima vil der blive afholdt forskellige arrangementer, som kommer til at foregå på bådens nedre dæk. Arrangementerne kan f.eks. være en casino-aften, live musik eller en vinsmagning af nye vin som vi får igennem vinhandlen Marius Mortensen.
+            <p class="info-text mt-3 p-3 mx-md-5">På båden Marittima vil der blive afholdt forskellige arrangementer, som kommer til at foregå på bådens nedre dæk.<br>
+                Arrangementerne kan f.eks. være en casino-aften, live musik eller en vinsmagning af nye vin som vi får igennem vinhandlen Marius Mortensen.
 			</p>
         </div>
     </div>
