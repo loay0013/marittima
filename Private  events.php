@@ -39,14 +39,14 @@
     </div>
     <!-- icon-->
     <div class="icon position-absolute bottom-0 text-center w-100 text-light">
-        <i class="fa-solid fa-chevron-down fa-2x p-3"></i>
+       <a id="#praktisk" class="text-light"> <i class="fa-solid fa-chevron-down fa-2x p-3"></i></a>
     </div>
 </header>
 
 <!--text-->
 <section class="row gx-0 ">
     <div class="col-md-6 pt-4 d-flex flex-column justify-content-center">
-        <p class="text-center">
+        <p id="praktisk" class="text-center">
             praktisk
         </p>
         <h2 class="text-center">

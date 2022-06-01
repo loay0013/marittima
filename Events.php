@@ -41,7 +41,7 @@
     </div>
     <!-- icon-->
     <div class="icon position-absolute bottom-0 text-center w-100 text-light">
-        <a class="text-light" href=""><i class="fa-solid fa-chevron-down fa-2x p-3"></i></a>
+        <a class="text-light" href="#Events"><i class="fa-solid fa-chevron-down fa-2x p-3"></i></a>
     </div>
 
 </header>
@@ -49,7 +49,7 @@
 <section class="events-container pb-3 pt-3 h-auto mx-auto w-auto bg-text">
     <div class="row gx-0">
         <div class="col-12 text-center">
-            <h2 class="mt-5 mb-0">Events & Arrangementer</h2>
+            <h2 id="Events" class="mt-5 mb-0">Events & Arrangementer</h2>
             <h3 class="mt-2">Båden egne begivenheder</h3>
             <p class="info-text mt-5">På båden Marittima vil der blive afholdt forskellige arrangementer, som kommer til at foregå på bådens nedre dæk. Arrangementerne kan f.eks. være en casino-aften, live musik eller en vinsmagning af nye vin som vi får igennem vinhandlen Marius Mortensen.
 			</p>

@@ -40,14 +40,14 @@
     </div>
     <!-- icon-->
     <div class="icon position-absolute bottom-0 text-center w-100 text-light">
-        <i class="fa-solid fa-chevron-down fa-2x p-3"></i>
+        <a class="text-light" href="#Kontakt"><i class="fa-solid fa-chevron-down fa-2x p-3"></i></a>
     </div>
 </header>
 
 
     <!--Kontakt-->
 <section class="kontakt_os">
-	<h1 class="title-contact fs-3">Kontakt os</h1 class="title-contact fs-3">
+	<h1 id="Kontakt" class="title-contact fs-3">Kontakt os</h1 class="title-contact fs-3">
 	<div class="container-contact">
         <!--label og input for kontakt-->
 		<div class="contact-form-kontakt row">
