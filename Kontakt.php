@@ -46,21 +46,21 @@
 
 
     <!--Kontakt-->
-<section class="kontakt_os">
-	<h1 id="Kontakt" class="title-contact fs-3">Kontakt os</h1 class="title-contact fs-3">
+<section class="kontakt_os" id="Kontakt">
+	<h2  class="title-contact fs-3">Kontakt os</h2>
 	<div class="container-contact">
         <!--label og input for kontakt-->
 		<div class="contact-form-kontakt row">
-			<div class="form-field-kontakt col-lg-6">
-				<input id="name" class="input-text-kontakt" type="text" name="">
+	    		<div class="form-field-kontakt col-lg-6">
+				<input id="name" class="input-text-kontakt" type="text">
 				<label for="name" class="label-kontakt">navn</label>
 			</div>
 			<div class="form-field-kontakt col-lg-6">
-				<input id="email" class="input-text-kontakt" type="email" name="">
+				<input id="email" class="input-text-kontakt" type="email">
 				<label for="email" class="label-kontakt">email</label>
 			</div>
 			<div class="form-field-kontakt col-lg-12">
-				<input id="message" class="input-text-kontakt" type="text" name="">
+				<input id="message" class="input-text-kontakt" type="text">
 				<label for="message" class="label-kontakt">besked</label>
 			</div>
 			<div class="form-field-kontakt col-lg-12 d-flex">

@@ -57,7 +57,7 @@
             <div class="prev p-5"><i class="fas fa-angle-left"></i></div>
             <!--text calendar-->
 			<div class="date">
-				<h1 class="calendar-text"></h1>
+				<p class="calendar-text"></p>
 				<p></p>
 			</div>
 

@@ -6,10 +6,11 @@
             <h2 class="text-light">KONTAKT OS</h2>
                 <p class="mt-2 text-light">Sandgade</p>
                 <p class="mt-2 text-light">4800 Nykøbing Falster</p>
-                <p class="mt-2 text-light"><a href="tel:45 11 22 33 44" class="link-light text-decoration-none"> +45 11 22 33 44</a></p>
+                <p class="mt-2 text-light"><a href="tel:4511223344" class="link-light text-decoration-none"> +45 11 22 33 44</a></p>
         <!--knap-->
-             <a href="https://goo.gl/maps/yxyHgbNWRJra5FMS9">
-            <button class="btn btn-primary bg-Footer border-light rounded-0 mt-5" type="button">FIND VEJ</button></a>
+             <a href="https://goo.gl/maps/yxyHgbNWRJra5FMS9" class="btn btn-primary bg-Footer border-light rounded-0 mt-5">
+                 <P class="m-0">FIND VEJ</P>
+             </a>
         </div>
 <!--logo-->
     <div class="col-md-4  mt-5 mt-md-0 ">
@@ -64,9 +65,6 @@
                                         på kommende events, vinudvalg og tilbud.</p>
                                     </div>
                                     <div class="row gx-0">
-                                    <div class="col-md-6">
-                                    <input class="border-0 p-2 m-2 " id="email" name="email" type="email" placeholder="Email">
-                                    </div>
                                         <div class="col-md-6">
                                     <button type="button" class="btn btn-btn1 p-2 m-2 border-0" data-bs-dismiss="modal">Tilmeld</button>
                                         </div>

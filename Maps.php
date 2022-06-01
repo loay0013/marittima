@@ -70,16 +70,16 @@
 		</h2>
         <!--knap-->
 		<div class="d-flex justify-content-center p-3">
-			<a href="https://goo.gl/maps/yxyHgbNWRJra5FMS9" class="btn-btn2 border-0 text-light p-2 px-2 py-2 text-center  w-50 link-light text-decoration-none ">MAPS</a></div>
+			<a href="https://goo.gl/maps/yxyHgbNWRJra5FMS9" class="btn-btn1 border-0 text-light p-2 px-2 py-2 text-center  w-50 link-light text-decoration-none ">MAPS</a></div>
 	</div>
 
 </section>
 
 
 <!--google map-->
-<section class="d-flex justify-content-center mb-3">
+<div class="d-flex justify-content-center mb-3">
     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2301.547567335376!2d11.860275216060904!3d54.77034107479649!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47ad30f97b0d187f%3A0x9d45111e91fc8619!2sSandgade%2C%204800%20Nyk%C3%B8bing%20Falster!5e0!3m2!1sda!2sdk!4v1653562436044!5m2!1sda!2sdk" width="1000" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</section>
+</div>
 
 <!--footer-->
 <?php include "includes/footer.php";?>

@@ -38,7 +38,7 @@
     </div>
 
     <!--call to action knap-->
-    <div class="btn1 mt-3 opacity-100" >
+    <div class="btn1 mt-3" >
             <a class="btn btn-btn1 rounded-0" href="images/Marittimas%20vinkort.pdf" download="">SE VINKORT</a>
         </div>
 
@@ -51,24 +51,24 @@
 <section class="row gx-0">
     <!--billede-->
     <div class="col-md-6 order-2 order-lg-1">
-        <img class="w-100" src="images/vinteq-img6.png" alt="Øl i glas">
+        <img class="w-100 h-100 cover" src="images/vinteq-img6.png" alt="Øl i glas">
     </div>
     <!--text-->
     <div class="col-md-6 order-1 order-lg-2 d-flex flex-column justify-content-center ">
-        <p class="text-center mt-2">
+        <p class="text-center mt-3">
             vi serverer
         </p>
         <h3 class="text-center">
             ØL & DRINKS
         </h3>
-        <p class="mx-3 pt-3">
-            På Marittima serverer vi udover vin også øl og drinks.
+        <p class="m-5">
+            På Marittima serverer vi udover vin også øl og drinks.<br><br>
 
             Vi serverer stolt øl fra Krenkerup Bryggeri,
 
-            som er blevet kåret til Europas bedste øl hele 6 gange.
+            som er blevet kåret til Europas bedste øl hele 6 gange.<br>
 
-            Derudover har vi special øl fra alverdens spændende hjørne.
+            Derudover har vi special øl fra alverdens spændende hjørne.<br><br>
 
             Vi serverer drinks som Gammel have, Gin Hass og Screwdriver som er blandet efter vores helt egne opskrifter.
         </p>
@@ -138,30 +138,30 @@
      <!--section med text og billede-->
      <section  class="row gx-0 ">
          <!--text-->
-    <div class="col-md-6 pt-4">
-        <p class="text-center">
+    <div class="col-md-6 mt-5">
+        <p class="text-center mt-3">
             idéen bag
         </p>
         <h2 class="text-center">
             Konceptet
         </h2>
-        <p class="p-3">
-            Indehaveren af vinhandlen Marius Mortensen ønskede at etablere udeservering, men savnede den rette lokation.
+        <p class="p-3 m-5">
+            Indehaveren af vinhandlen Marius Mortensen ønskede at etablere udeservering, men savnede den rette lokation.<br>
 
-            Han besluttede sig derfor for at tænke utraditionelt og undersøge muligheden for at indrette bar i et skib.
+            Han besluttede sig derfor for at tænke utraditionelt og undersøge muligheden for at indrette bar i et skib.<br><br>
 
-            Vi finder det nemlig vigtigt at skabe unikke oplevelser for alle og støtte lokalsamfundet.
+            Vi finder det nemlig vigtigt at skabe unikke oplevelser for alle og støtte lokalsamfundet.<br>
 
-            Det kunne lade sig gøre med et spændende mix af skibet Marittima og vinhandlen Marius Mortensen.
+            Det kunne lade sig gøre med et spændende mix af skibet Marittima og vinhandlen Marius Mortensen.<br><br>
 
-            Derfor er størstedelen af vores vine og vores andre specialiteter, lokale.
+            Derfor er størstedelen af vores vine og vores andre specialiteter, lokale.<br>
 
-            Alle vores vine er af den bedste kvalitet, til de fineste priser, så alle kan være med.
+            Alle vores vine er af den bedste kvalitet, til de fineste priser, så alle kan være med.<br>
         </p>
     </div>
      <!--billede-->
     <div class="col-md-6">
-        <img class="w-100 h-100" src="images/vinoteque-img1.png" alt="Rødvin i glas">
+        <img class="w-100 h-100 cover" src="images/vinoteque-img1.png" alt="Rødvin i glas">
     </div>
 </section>
 

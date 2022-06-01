@@ -52,45 +52,43 @@
         <h2 class="text-center">
             Information
         </h2>
-        <div class="mt-3 p-3">
+        <div class="m-5">
             <p>
-                På skibet Marittima kan vi forpleje op til 149 gæster, fordelt på de forskellige dæk.
+                På skibet Marittima kan vi forpleje op til 149 gæster, fordelt på de forskellige dæk.<br><br>
 
                 Vi kræver at lejer betaler for en bådvagt, som sørger for sikkerhed om bord i løbet af hele
-                arrangementet.
+                arrangementet.<br><br>
 
                 Vi kræver at lejer også betaler for rengøring på skibet, dog sørger lejer selv for oprydning under og
-                efter arrangementet.
+                efter arrangementet.<br><br>
 
                 Marittima sørger derefter for rengøring af arealet hvor arrangementet afholdes.
-
-
             </p>
         </div>
     </div>
        <!--billede-->
     <div class="col-md-6">
-        <img class="w-100 h-100" src="images/Private-img1.png" alt="vinglas">
+        <img class="w-100 h-100 cover" src="images/Private-img1.png" alt="vinglas">
     </div>
 </section>
 <!--text-->
-<section class="row gx-0 historie-læsmere">
+<section class="row gx-0">
     <div class="col-md-6 order-md-2 d-flex flex-column justify-content-center">
-        <h2 class="p-3 text-center">Mad</h2>
-        <div class="mt-3 p-3 ">
+        <h2 class="mt-5 text-center">Mad</h2>
+        <div class="m-5">
             <p>
 
-                På Marittima serverer vi ikke mad, så vi opfordrer jer derfor til at bestille mad udefra.
+                På Marittima serverer vi ikke mad, så vi opfordrer jer derfor til at bestille mad udefra.<br><br>
 
-                Lejer kontakter selv en restaurant til levering af maden ombord og afregner med disse.
+                Lejer kontakter selv en restaurant til levering af maden ombord og afregner med disse.<br><br>
 
-                Det er et stort ønske fra Marittimas side, at man laver aftaler med restauranter i lokalområdet.
+                Det er et stort ønske fra Marittimas side, at man laver aftaler med restauranter i lokalområdet.<br>
 
                 Vi har derfor lavet en liste med restauranter vi kan anbefale.
             </p>
         </div>
 <!--knap-->
-        <div class="px-3 pb-3">
+        <div class="m-5">
             <a class="btn btn-btn1 rounded-0" download="Madvenner|pdf" href="images/Marittimas%20madvenner.pdf">SE
                 ANBEFALINGER</a>
         </div>
@@ -104,26 +102,26 @@
 <!--text-->
 <section class="row gx-0 ">
     <div class="col-md-6 p-4 d-flex flex-column justify-content-center">
-        <h2 class="p-3 text-center">Drikke</h2>
-        <div class="mt-3">
+        <h2 class="mt-5 text-center">Drikke</h2>
+        <div class="m-5">
             <p>
                 Alle drikkevarer købes og bestilles fra Marius Mortensen, som derfor også betyder at vi kan give jer en
-                eksklusiv pris på al alkohol.
+                eksklusiv pris på al alkohol.<br><br>
 
-                Drikkevarer skal bestilles senest 14 dage før arrangementet.
+                Drikkevarer skal bestilles senest 14 dage før arrangementet.<br><br>
 
                 Der afregnes selvfølgelig kun for de flasker der er åbnet under arrangementet.
             </p>
         </div>
         <!--knap-->
-        <div>
+        <div class="m-5">
             <a class="btn btn-btn1 rounded-0" href="images/Marittimas%20vinkort.pdf" download="VinKort|pdf">SE
                 VINKORT</a>
         </div>
     </div>
 <!--billede-->
     <div class="col-md-6">
-        <img class="img-fluid w-100" src="images/Vinkort-img.png" alt="Vinhandler og vinudvalg">
+        <img class="img-fluid w-100 h-100 cover" src="images/Vinkort-img.png" alt="Vinhandler og vinudvalg">
     </div>
 <!--text priser-->
 </section>

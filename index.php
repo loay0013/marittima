@@ -37,7 +37,7 @@
     </div>
     <!--logo-->
     <div class="logo d-xl-none">
-        <img src="images/logo-Forside-Hero.png"alt="logo til hero">
+        <img src="images/logo-Forside-Hero.png" alt="logo til hero">
     </div>
     <!--header text-->
     <div class="d-none d-xl-block text-light logo">
@@ -59,33 +59,35 @@
     </div>
     <!-- icon-->
     <div class="icon position-absolute bottom-0 text-center w-100 text-light">
-		<a href="#Forside" class="text-light"><i class="fa-solid fa-chevron-down fa-2x p-3"></i></a>
+		<a href="#Forside" class="text-light"><i class="fa-solid fa-chevron-down fa-2x p-3"></i>
+        </a>
     </div>
 </header>
 
 <!--section med text og billede og knap og logo-->
-<section id="Forside" class="row gx-0">
-    <div class="col-md-6 d-flex flex-column justify-content-center ">
+<div>
+    <div class="row gx-0">
+    <div class="col-md-6 d-flex flex-column justify-content-center mt-3 mb-3 " id="Forside">
         <!--logo-->
-        <div class="d-flex justify-content-center mt-3">
+        <div class="d-flex justify-content-center mt-5">
            <img src="images/logosortudenslogan-til-f-f.png" alt="logo uden slogan">
         </div>
         <!--text-->
-        <p class="pt-3 mx-3 ">
-            Hos Marittima ønsker vi at skabe en god oplevelse for alle.
+        <p class="pt-3 m-5 ">
+            Hos Marittima ønsker vi at skabe en god oplevelse for alle.<br>
 
-            Marittima blev skabt ud fra drømmen om en vinbar.
+            Marittima blev skabt ud fra drømmen om en vinbar.<br>
 
-            Historien bag Marius Mortensen går hånd i hånd med Skibet Marittima, og fører den næste generations historie videre.
+            Historien bag Marius Mortensen går hånd i hånd med Skibet Marittima, og fører den næste generations historie videre.<br><br>
 
             Folk der har været på skibet, vil være i stand til at kunne fortælle om historier om dengang de holdt fest på bølgen blå,
-            med den synlige solnedgang igennem vinduet, lige før den når halvvejs under horisonten.
+            med den synlige solnedgang igennem vinduet, lige før den når halvvejs under horisonten.<br><br>
 
-            Nuværende indehaver af Marius Mortensen, Jes Jonigk købte i 2021 en tysk båd ved navn Marittima.
+            Nuværende indehaver af Marius Mortensen, Jes Jonigk købte i 2021 en tysk båd ved navn Marittima.<br>
 
-            Ideen var at transformerer en tysk båd om til en flydende drøm af en vinbar som ville åbne i maj 2022.
+            Ideen var at transformerer en tysk båd om til en flydende drøm af en vinbar som ville åbne i maj 2022.<br>
 
-            Jes Jonigk fik ideen af en af hans bekendte, som har en masse husbåde i København.
+            Jes Jonigk fik ideen af en af hans bekendte, som har en masse husbåde i København.<br><br>
 
             Gamle Marittima kommer fra 1958, og ligger ved en lille kaj i Sandgade og indgår i et større projekt omkring havnefronten,
 
@@ -94,7 +96,7 @@
 
         </p>
         <!--knap-->
-        <div class="mx-3 mb-3 ">
+        <div class="m-5">
             <a class="btn btn-btn1 rounded-0" href="Historien.php">LÆS MERE</a>
         </div>
     </div>
@@ -102,26 +104,27 @@
     <div class="col-md-6 ">
         <img class="w-100 h-100 cover" src="images/vin.png" alt="Vinflaske og vinglas">
     </div>
-</section>
+    </div>
+</div>
 <!--section med text og billede og knap-->
 <section class="row gx-0">
     <div class="col-md-6 order-md-2 d-flex flex-column justify-content-center">
         <h2 class="text-center mt-4 mx-3">Private Arrangementer</h2>
 
-       <div class="d-flex  align-items-center">
+       <div class="d-flex m-5">
 
-        <p class="mx-3 pt-4">
-            Marittima kan stå for alle slags fester og selskaber, op til 70 personer, uanset om der ønskes en firmafest, fødselsdag, julefrokost, barnedåb, bryllup eller noget helt andet.
+        <p>
+            Marittima kan stå for alle slags fester og selskaber, op til 70 personer, uanset om der ønskes en firmafest, fødselsdag, julefrokost, barnedåb, bryllup eller noget helt andet.<br><br>
 
-            Marittima har et selskabsdæk i autentiske, maritime og hyggelige omgivelser, og deres personale sørger for at forkæle dig og dine gæster under arrangementet, så du kan læne dig tilbage og nyde selskabet.
+            Marittima har et selskabsdæk i autentiske, maritime og hyggelige omgivelser, og deres personale sørger for at forkæle dig og dine gæster under arrangementet, så du kan læne dig tilbage og nyde selskabet.<br>
 
-            Når du lejer selskabsdækket på Marittima, har du fuld gastronomisk frihed, da maden bestilles udefra.
+            Når du lejer selskabsdækket på Marittima, har du fuld gastronomisk frihed, da maden bestilles udefra.<br><br>
 
             Er du i tvivl om, hvor maden skal bestilles? Så tag et kig på listen over hvem vi kan anbefale i nærområdet.
         </p>
     </div>
         <!--knap-->
-        <div class="mx-3 mb-3 mb-md-0">
+        <div class="mx-5 mb-3 ">
             <a class="btn btn-btn1 rounded-0" href="Private%20%20events.php">LÆS MERE</a>
         </div>
     </div>
@@ -222,6 +225,7 @@
                         18.00 - 02.30
                     </p>
                 </li>
+            </ul>
         </div>
     </div>
 </section>

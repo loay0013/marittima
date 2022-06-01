@@ -55,24 +55,22 @@
     </p>
 </div>
 <!--billede-->
-<section>
     <div class="container-fluid p-md-5">
     <img class="img-fluid" src="images/ror.jpeg" alt="vin og båd">
     </div>
-</section>
 
     <!--text-->
-<section>
+
 <div class="container-fluid">
-    <div class="row p-5 px-4">
+    <div class="row m-5">
         <div class="col-sm-6">
-            <p>Det skønne skib Marittima startede sin rejse i Tyskland i 1958.
+            <p>Det skønne skib Marittima startede sin rejse i Tyskland i 1958.<br>
 
-                Der er flere steder på skibet, som er i sin originale stand.
+                Der er flere steder på skibet, som er i sin originale stand.<br>
 
-                I sine første ti år sejlede skibet øfart i den tyske del af Vadehavet og til det toldfrie paradis Helgoland.
+                I sine første ti år sejlede skibet øfart i den tyske del af Vadehavet og til det toldfrie paradis Helgoland.<br><br>
 
-                Skibet har været verden rundt, og hvis skibet kunne tale, kunne den fortælle en masse spændende sørøverhistorier.
+                Skibet har været verden rundt, og hvis skibet kunne tale, kunne den fortælle en masse spændende sørøverhistorier.<br>
 
                 I 1987 fik skibet en ny tysk ejer og kom til De Kanariske Øer med spansk flag på masten.
 
@@ -81,19 +79,19 @@
         </div>
         <div class="col-sm-6">
            <p>
-               Den øverste salon er forlænget to gange, senest i 2005.
+               Den øverste salon er forlænget to gange, senest i 2005.<br>
 
-               Af samme ejere, har Marittima de seneste 25 år primært sejlet med turister i sit lokale farvand ved Lübeck og Travemünde ved den tyske Østersø-kyst.
+               Af samme ejere, har Marittima de seneste 25 år primært sejlet med turister i sit lokale farvand ved Lübeck og Travemünde ved den tyske Østersø-kyst.<br><br>
 
-               Corona lagde hindringer i vejen for skibets turisme, så ejeren satte Marittima til salg.
+               Corona lagde hindringer i vejen for skibets turisme, så ejeren satte Marittima til salg.<br>
 
-               Det er så her, at Jes Jonigk kommer ind i billedet, som nu er den nyeste ejer af Marittima, og skibets historie skrives fortsat lystigt, på trods af at være lagt til kaj.
+               Det er så her, at Jes Jonigk kommer ind i billedet, som nu er den nyeste ejer af Marittima, og skibets historie skrives fortsat lystigt, på trods af at være lagt til kaj.<br>
 
            </p>
         </div>
     </div>
 </div>
-</section>
+
 
 <!--marittima teamet-->
 <section>

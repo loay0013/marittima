@@ -51,14 +51,14 @@
         <div class="col-12 text-center">
             <h2 id="Events" class="mt-5 mb-0">Events & Arrangementer</h2>
             <h3 class="mt-2">Båden egne begivenheder</h3>
-            <p class="info-text mt-5">På båden Marittima vil der blive afholdt forskellige arrangementer, som kommer til at foregå på bådens nedre dæk. Arrangementerne kan f.eks. være en casino-aften, live musik eller en vinsmagning af nye vin som vi får igennem vinhandlen Marius Mortensen.
+            <p class="info-text mt-5 mx-5">På båden Marittima vil der blive afholdt forskellige arrangementer, som kommer til at foregå på bådens nedre dæk. Arrangementerne kan f.eks. være en casino-aften, live musik eller en vinsmagning af nye vin som vi får igennem vinhandlen Marius Mortensen.
 			</p>
         </div>
     </div>
 </section>
 
 
-<!--- Wine Tasting --->
+<!--Wine Tasting -->
 <section class="row gx-0 wine-tasting">
     <div class="col-md-6 mb-5 my-md-5">
         <div class="d-flex justify-content-center mt-3"></div>
@@ -77,7 +77,7 @@
 </section>
 
 
-<!--- Casino text --->
+<!--Casino text -->
 <section class="row gx-0 casino-night">
     <div class="col-md-6 mb-5 order-md-2 my-md-5">
         <h2 class="text-center mt-5">Casino-aften</h2>
@@ -96,7 +96,7 @@
 </section>
 
 
-<!--- Live-Musik text --->
+<!--Live-Musik text -->
 <section class="row gx-0 live-music">
     <div class="col-md-6 mb-5 my-md-5">
         <div class="d-flex justify-content-center mt-3"></div>
@@ -116,7 +116,7 @@
 </section>
 
 
-<!--- Footer Section --->
+<!--Footer Section-->
 <?php include "includes/footer.php"; ?>
 <!--bootstrap script-->
 <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>

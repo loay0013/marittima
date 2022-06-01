@@ -30,15 +30,18 @@
                     <a class="nav-link links" href="Private%20%20events.php">PRIVATE EVENTS</a>
                 </li>
                 <!--logo-->
-                <li class="nav justify-content-center p-xl-3">
+                <li class="nav p-xl-3">
                     <a class="justify-content-center d-flex" href="index.php">
                         <div class="d-xl-block d-none">
                             <img src="images/logo-nav-D.png" alt="logo til navbar">
                         </div>
+                    </a>
                 </li>
 
                 <li class="nav-item pb-2 p-xl-2">
+                    <div>
                     <a class="nav-link links" href="Events.php">EVENTS</a>
+                    </div>
                 </li>
                 <li class="nav-item pb-2 p-xl-2">
                     <a class="nav-link links" href="Historien.php">HISTORIEN</a>
