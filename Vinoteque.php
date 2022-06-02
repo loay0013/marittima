@@ -145,7 +145,7 @@
         <h2 class="text-center">
             Konceptet
         </h2>
-        <p class="p-3 m-5">
+        <p class=" m-5">
             Indehaveren af vinhandlen Marius Mortensen ønskede at etablere udeservering, men savnede den rette lokation.<br>
 
             Han besluttede sig derfor for at tænke utraditionelt og undersøge muligheden for at indrette bar i et skib.<br><br>

@@ -8,7 +8,7 @@
                 <p class="mt-2 text-light">4800 Nykøbing Falster</p>
                 <p class="mt-2 text-light"><a href="tel:4511223344" class="link-light text-decoration-none"> +45 11 22 33 44</a></p>
         <!--knap-->
-             <a href="https://goo.gl/maps/yxyHgbNWRJra5FMS9" class="btn btn-primary bg-Footer border-light rounded-0 mt-5">
+             <a href="https://goo.gl/maps/yxyHgbNWRJra5FMS9" class="btn btn-primary bg-Footer border-light rounded-0 mt-4">
                  <P class="m-0">FIND VEJ</P>
              </a>
         </div>
@@ -47,8 +47,8 @@
             </div>
 <!--knap-->
                 <div class="d-flex w-100 gap-2 flex-column align-items-center">
-                    <p class="mt-3">NYHEDSBREV</p>
-                    <button type="button" class="btn btn-primary bg-Footer border-light rounded-0 mt-md-5" data-bs-toggle="modal" data-bs-target="#exampleModal">
+                    <p class="mt-2">NYHEDSBREV</p>
+                    <button type="button" class="btn btn-primary bg-Footer border-light rounded-0 mt-md-3" data-bs-toggle="modal" data-bs-target="#exampleModal">
                         TILMELD DIG
                     </button>
 
@@ -64,9 +64,15 @@
                                     <p class="p-2">Tilmeld dig vores nyhedsbrev og få en masse lækre opdatering
                                         på kommende events, vinudvalg og tilbud.</p>
                                     </div>
+                                <div class="flex-column d-flex align-items-start m-3">
+                                    <label for="message" class="label-kontakt">Email</label>
+                                    <input id="message" class="input-text-kontakt" type="text">
+                                </div>
+
+
                                     <div class="row gx-0">
                                         <div class="col-md-6">
-                                    <button type="button" class="btn btn-btn1 p-2 m-2 border-0" data-bs-dismiss="modal">Tilmeld</button>
+                                    <button type="button" class="btn btn-btn1 p-2 m-3 border-0" data-bs-dismiss="modal">Tilmeld</button>
                                         </div>
                                 </div>
                             </div>
