@@ -51,14 +51,14 @@
     </div>
 </header>
 <!--calendar-->
-<div class="container">
-	<div id="calendar" class="calendar">
+<div id="calendar" class="container">
+	<div class="calendar">
 		<div class="month">
             <div class="prev p-5"><i class="fas fa-angle-left"></i></div>
             <!--text calendar-->
 			<div class="date">
 				<p class="calendar-text"></p>
-				<p></p>
+				<h2></h2>
 			</div>
 
             <div class="next p-5"><i class="fas fa-angle-right next"></i></div>
