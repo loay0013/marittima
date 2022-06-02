@@ -149,38 +149,38 @@
     <div id="Tid" class="row mx-auto m-w p-3">
         <div class="col-6">
             <ul class="list-unstyled  d-flex flex-column align-items-center text-light">
-                <li class="p-2">
-                    <p>
+                <li class="p-2 ">
+                    <p class="text-D">
                         Mandag
                     </p>
                 </li>
                 <li class="p-2">
-                    <p>
+                    <p class="text-D">
                         Tirsdag
                     </p>
                 </li>
                 <li class="p-2">
-                    <p>
+                    <p class="text-D">
                         Onsdag
                     </p>
                 </li>
                 <li class="p-2">
-                    <p>
+                    <p class="text-D">
                         Torsdag
                     </p>
                 </li>
                 <li class="p-2">
-                    <p>
+                    <p class="text-D">
                         Fredag
                     </p>
                 </li>
                 <li class="p-2">
-                    <p>
+                    <p class="text-D">
                         Lørdag
                     </p>
                 </li>
                 <li class="p-2">
-                    <p>
+                    <p class="text-D">
                         Søndag
                     </p>
                 </li>
@@ -191,37 +191,37 @@
         <div class="col-6">
             <ul class="list-unstyled  d-flex flex-column align-items-center text-light">
                 <li class="p-2">
-                    <p>
+                    <p class="text-D">
                         18.00 - 02.30
                     </p>
                 </li>
                 <li class="p-2">
-                    <p>
+                    <p class="text-D">
                         18.00 - 02.30
                     </p>
                 </li>
                 <li class="p-2">
-                    <p>
+                    <p class="text-D">
                         18.00 - 02.30
                     </p>
                 </li>
                 <li class="p-2">
-                    <p>
+                    <p class="text-D">
                         18.00 - 02.30
                     </p>
                 </li>
                 <li class="p-2">
-                    <p>
+                    <p class="text-D">
                         18.00 - 02.30
                     </p>
                 </li>
                 <li class="p-2">
-                    <p>
+                    <p class="text-D">
                         18.00 - 02.30
                     </p>
                 </li>
                 <li class="p-2">
-                    <p>
+                    <p class="text-D">
                         18.00 - 02.30
                     </p>
                 </li>
