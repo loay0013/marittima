@@ -42,7 +42,7 @@
     <!--header text-->
     <div class="d-none d-xl-block text-light logo">
         <h1 class="text-center">
-            En unik oplevelse
+            En Unik Oplevelse
         </h1>
         <p class="text-center mt-2">
             Skræddersyet lige til dig.
